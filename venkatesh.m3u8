@@ -1,0 +1,252 @@
+PLAYLIST CHANNEL 
+#EXTM3U
+#EXTINF:-1,SUN TV 
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+#EXTINF:-1,SUN TV 1
+http://xtv.ooo:8080/MansoorWapda/258741/244623
+#EXTINF:-1,SUN TV 2
+http://xtv.ooo:8080/MansoorWapda/258741/244553
+#EXTINF:-1,SUNTV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1,STAR VIJAY 
+http://xtv.ooo:8080/MansoorWapda/258741/244624
+#EXTINF:-1,STAR VIJAY 1
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+#EXTINF:-1,VIJAY SUPER 
+http://line.extraott-iptv.com:88/1424778592/5454283207/400159597
+#EXTINF:-1,VIJAY SUPER 1
+http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
+#EXTINF:-1,COLORS TAMIL
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1,COLORS TAMIL 1
+http://xtv.ooo:8080/MansoorWapda/258741/244519
+#EXTINF:-1,COLORS TAMIL 2
+http://xtv.ooo:8080/MansoorWapda/258741/244552
+#EXTINF:-1,ZEE TAMIL 
+http://xtv.ooo:8080/MansoorWapda/258741/244523
+#EXTINF:-1,ZEE TAMIL 1
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:-1,ZEE THIRAI 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/181966.m3u8
+#EXTINF:-1,ZEE THIRAI 1
+http://b1g.ooo:80/324/324/663329
+#EXTINF:-1,KTV 
+http://116.202.46.40:9023/KTV_TAMIL/index.m3u8
+#EXTINF:-1,SUN LIFE 
+http://xtv.ooo:8080/MansoorWapda/258741/244526
+#EXTINF:-1,SUN MUSIC
+http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
+#EXTINF:-1,SUN MUSIC  1
+http://xtv.ooo:8080/MansoorWapda/258741/244554
+#EXTINF:-1,SUN MUSIC 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/159.m3u8
+#EXTINF:-1,ISAI ARUVI
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1,RAJ MUSIC
+http://xtv.ooo:8080/MansoorWapda/258741/244528
+#EXTINF:-1,SIRIPOLLI TV 
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1,ADITYA TV 
+http://xtv.ooo:8080/MansoorWapda/258741/244556
+#EXTINF:-1,MURASU TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1,MURASU TV 1
+http://xtv.ooo:8080/MansoorWapda/258741/244570
+#EXTINF:-1,KALAIGNAR TV
+http://xtv.ooo:8080/MansoorWapda/258741/244565
+#EXTINF:-1,JAYA TV
+http://xtv.ooo:8080/MansoorWapda/258741/244572
+#EXTINF:-1,JAYA TV 1
+http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
+#EXTINF:-1,JAYA PLUS TV
+http://xtv.ooo:8080/MansoorWapda/258741/244575
+#EXTINF:-1,JAYA MAX
+http://xtv.ooo:8080/MansoorWapda/258741/244573
+#EXTINF:-1,RAJ TV
+http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:-1,VENDHAR TV
+http://xtv.ooo:8080/MansoorWapda/258741/244578
+#EXTINF:-1,VASANTH TV
+http://xtv.ooo:8080/MansoorWapda/258741/244533
+#EXTINF:-1,VASANTH TV 1
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1,THANTHI ONE TV
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1,SUN NEWS
+http://116.202.46.40:9023/SUN_NEWS_TAMIL/index.m3u8
+#EXTINF:-1,ZEE NEWS
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1,ZEE NEWS 1
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1,NEWS 7 TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+#EXTINF:-1,NEWS 7 TV 1
+http://xtv.ooo:8080/MansoorWapda/258741/244571
+#EXTINF:-1,POLIMER NEWS
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+#EXTINF:-1,POLIMER NEWS 1
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1,PUTHIYATHAIMURAI
+https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:-1,PUTHIYATHAIMURAI 1
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1,THANTHI TV
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
+#EXTINF:-1,SANKARA TV
+http://xtv.ooo:8080/MansoorWapda/258741/244589
+#EXTINF:-1,SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1,VELUKKUDI DISCUSSION
+http://xtv.ooo:8080/MansoorWapda/258741/244619
+#EXTINF:-1,POGO TAMIL
+http://xtv.ooo:8080/MansoorWapda/258741/244545
+#EXTINF:-1,RASI COMEDY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI MOVIE
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI TAMIL
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI MUSIC
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI CLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI HOLLYWOOD
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1,ABHINAYA TV
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1,VINAYAGA MUSIC
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1,KRISHNA TV
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1,EET TV TAMIL
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1,MAKKAL TV 
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1,PEPPERS TV 
+http://xtv.ooo:8080/MansoorWapda/258741/244592
+#EXTINF:-1,HISTORY 18 TAMIL
+http://xtv.ooo:8080/MansoorWapda/258741/244529
+#EXTINF:-1,GEMINI MUSIC
+http://116.202.46.40:9023/GEMINI_MUSIC_TELUGU/index.m3u8
+#EXTINF:-1,MALAYALA MANORAMA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1,MALAIYALA MANORAMMA
+http://xtv.ooo:8080/MansoorWapda/258741/244649
+#EXTINF:-1,MOVIES NOW HD
+http://xtv.ooo:8080/MansoorWapda/258741/66271
+#EXTINF:-1,STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1,ACTION HOLLYWOOD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1,T-SERIES
+http://xtv.ooo:8080/MansoorWapda/258741/362867
+#EXTINF:-1,BOOGLE BOLLYWOOD
+http://xtv.ooo:8080/MansoorWapda/258741/206045
+#EXTINF:-1,SHEMAROO
+http://xtv.ooo:8080/MansoorWapda/258741/362865
+#EXTINF:-1,MTV BEATS
+http://xtv.ooo:8080/MansoorWapda/258741/66273
+#EXTINF:-1,VEVO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,DUCK TV
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1,CHHOTA BHEEM
+http://xtv.ooo:8080/MansoorWapda/258741/315401
+#EXTINF:-1,BBC EARTH 
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1,TRAVEL XP TAMIL 
+http://xtv.ooo:8080/MansoorWapda/258741/244634
+#EXTINF:-1,REDBULL TV
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1,IN WILD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
+#EXTINF:-1,DISCOVERY MULTI HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
+#EXTINF:-1,ANIMAL PLANET
+http://xtv.ooo:8080/MansoorWapda/258741/244595
+#EXTINF:-1,ANIMAL PLANET MULTI HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+#EXTINF:-1,MEGELLAN TV
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1,HGTV
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1,CLARITY 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1,HOTEL INSPECTOR
+https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+#EXTINF:-1,NATURE ESCAPE 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6280
+#EXTINF:-1,XLPORE
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,AWESOME AUSTRALIA 
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
+#EXTINF:-1,FEAR FACTOR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1,GP1
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1,SPORTS 18
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,SKY SPORTS
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,SONY LIV SPORTS
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+#EXTINF:-1,SONY SPORTS
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1,RADIO MADURAI AM 1269
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+#EXTINF:-1,RADIO TIRUCHIRAPALLI AM 936
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+#EXTINF:-1,RADIO TIRUNELVELI AM 1197
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+#EXTINF:-1,RADIO PUDUCHERRY AM 1215
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
+#EXTINF:-1,RADIO MADURAI FM 103.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+#EXTINF:-1,RADIO KODAI FM 100.5
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1,RADIO TIRUCHIRAPALLI FM 102.1
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+#EXTINF:-1,RADIO COIMBATORE RAINBOW FM 103
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+#EXTINF:-1,RADIO TIRUNELVELI RAINBOW FM 102.6
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+#EXTINF:-1,RADIO DHARMAPURI FM 102.5
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+#EXTINF:-1,RADIO CHENNAI FM GOLD 102.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+#EXTINF:-1,RADIO CHENNAI VBS
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+#EXTINF:-1,RADIO RAINBOW CHENNAI FM 101.4
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+#EXTINF:-1,RADIO VIVIDBHARATHI TAMIL
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1,RADIO PUDUCHERRY RAINBOW FM 102.8
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+#EXTINF:-1,RADIO KARAIKAL FM 100.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+#EXTINF:-1,RADIO LANKASRI FM
+http://media2.lankasri.fm/;stream.mp3
+#EXTINF:-1,RADIO KING
+https://listen.radioking.com/radio/355330/stream/404626
+#EXTINF:-1,YES STREAM
+http://ec3.yesstreaming.net:4080/stream
+#EXTINF:-1,YES STREAM 1
+http://ec2.yesstreaming.net:2540/stream
+#EXTINF:-1,SHAINCAST TAMIL 
+https://shaincast.caster.fm:47814/listen.mp3
+#EXTINF:-1,TAMIL RADIO
+http://64.31.10.26:2540/stream
+#EXTINF:-1,RADIO SURROUND MUSIC
+https://hls.somafm.com/hls/gs-surround/program.m3u8
+#EXTINF:-1,LATHA MANGESHKAR 
+http://stream-161.zeno.fm/87xam8pf7tzuv
