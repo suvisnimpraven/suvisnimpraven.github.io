@@ -223,9 +223,9 @@ http://ec2.yesstreaming.net:2540/stream
 https://shaincast.caster.fm:47814/listen.mp3
 #EXTINF:-1,TAMIL RADIO
 http://64.31.10.26:2540/stream
-#EXTINF:-RADIO KISHORE KUMAR 
+#EXTINF:-1,RADIO KISHORE KUMAR 
 https://stream.zeno.fm/6n6ewddtad0uv
-#EXTINF:- RADIO MOHAMMAD RAFI 
+#EXTINF:-1,RADIO MOHAMMAD RAFI 
 https://stream-148.zeno.fm/0ghtfp8ztm0uv
 
 #EXTINF:-1,LATHA MANGESHKAR 
