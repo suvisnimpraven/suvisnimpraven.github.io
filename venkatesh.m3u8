@@ -1,8 +1,4 @@
-#EXTINF:-1 , 720 ABC Perth
-http://live-radio01.mediahubaustralia.com/6LRW/mp3
-#EXTINF:-1 , Hot FM Cairns
-https://wz4web.scahw.com.au/live/4hot_32.stream/playlist.m3u8
-#EXTM3U
+#EX
 #EXTINF:-1,SUN TV 
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
 #EXTINF:-1,SUN TV 1
