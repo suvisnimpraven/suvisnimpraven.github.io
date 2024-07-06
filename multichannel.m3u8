@@ -220,13 +220,13 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
 http://media2.lankasri.fm/;stream.mp3
 #EXTINF:-1,RADIO KING
 https://listen.radioking.com/radio/355330/stream/404626
-#EXTINF:-1,YES STREAM
+#EXTINF:-1, RADIO YES STREAM
 http://ec3.yesstreaming.net:4080/stream
-#EXTINF:-1,YES STREAM 1
+#EXTINF:-1, RADIO YES STREAM 1
 http://ec2.yesstreaming.net:2540/stream
-#EXTINF:-1,SHAINCAST TAMIL 
+#EXTINF:-1, RADIO SHAINCAST TAMIL 
 https://shaincast.caster.fm:47814/listen.mp3
-#EXTINF:-1,TAMIL RADIO
+#EXTINF:-1, RADIO TAMIL 
 http://64.31.10.26:2540/stream
 #EXTINF:-1, RADIO SETTAI FM
 https://node-30.zeno.fm/402pwrp884zuv.aac?rj-ttl=5&amprj-tok=AAABc2tTvlwALAwLv_P-acQL3w
@@ -262,7 +262,7 @@ https://stream.zeno.fm/6n6ewddtad0uv
 #EXTINF:-1,RADIO MOHAMMAD RAFI 
 https://stream-148.zeno.fm/0ghtfp8ztm0uv
 
-#EXTINF:-1,LATHA MANGESHKAR 
+#EXTINF:-1, RADIO LATHA MANGESHKAR 
 http://stream-161.zeno.fm/87xam8pf7tzuv
 #EXTINF:-1, RADIO ASHA BHOSLE
 https://prclive1.listenon.in/
