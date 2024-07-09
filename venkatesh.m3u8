@@ -280,6 +280,8 @@ https://s3.streamcaster.eu:8308/stream1
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 #EXTINF:-1, RADIO AR RAHMAN INSTRUMENTAL 
 http://listen.radionomy.com/arrahman-radio
+#EXTINF:-1, TAMIL CINEMA 
+https://tgaadi-web.tech/spice.m3u8?tv=12691
 
 
 #EXTINF:-1,RADIO SURROUND MUSIC
