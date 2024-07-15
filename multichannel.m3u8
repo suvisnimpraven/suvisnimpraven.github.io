@@ -1,5 +1,4 @@
-#EXTINF:-1,MOVIES
-content://com.android.externalstorage.documents/document/primary%3ATelegram%2FTelegram%20Files%2FIndia%F0%9F%87%AE%F0%9F%87%B3_VOD%F0%9F%8E%9E%EF%B8%8F_line_myox_me_2024-07-14_VOD_IN.m3u
+
 #EXTM3U
 #EXTINF:-1,SUN TV 
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
