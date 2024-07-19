@@ -1,4 +1,53 @@
-
+EXTINF:-1,ZEE MARATHI HD-Rs 19
+http://14.102.123.50:9080/play/a06n
+#EXTINF:-1,ZEE News
+http://14.102.123.50:9080/play/a0n1
+#EXTINF:-1,ZEE Punjabi
+http://14.102.123.50:9080/play/a0n3
+#EXTINF:-1,ZEE TALKIES HD-Rs 19 
+http://14.102.123.50:9080/play/a06l
+#EXTINF:-1,ZEE TELUGU HD-Rs 19 
+http://14.102.123.50:9080/play/a0te
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://14.102.123.50:9080/play/a04u
+#EXTINF:-1,ZING
+http://14.102.123.50:9080/play/a0mo
+#EXTINF:-1,Zee Bangla Cinema - Rs 10.00
+http://14.102.123.50:9080/play/a0xv
+#EXTINF:-1,Zee Bangla HD - Rs 19.00
+http://14.102.123.50:9080/play/a0y3
+#EXTINF:-1,Zee Biskope
+http://14.102.123.50:9080/play/a0lw
+#EXTINF:-1,Zee Classic - Rs 0.10
+http://14.102.123.50:9080/play/a0ur
+#EXTINF:-1,Zee Ganga
+http://14.102.123.50:9080/play/a0lg
+#EXTINF:-1,Zee Kannada HD - Rs 19.00
+http://14.102.123.50:9080/play/a0w1
+#EXTINF:-1,Zee Tamil HD - Rs 19.00
+http://14.102.123.50:9080/play/a0yd
+#EXTINF:-1,Zoom - 50p
+http://14.102.123.50:9080/play/a065
+#EXTINF:-1,bindass - 10p
+http://14.102.123.50:9080/play/a050
+#EXTINF:-1,colorMarathiHD-Rs17
+http://14.102.123.50:9080/play/a0oj
+#EXTINF:-1,colors - Rs 19
+http://14.102.123.50:9080/play/a0pe
+#EXTINF:-1,colors rishtey-Rs1
+http://14.102.123.50:9080/play/a04z
+#EXTINF:-1,colorsBanglaHD-Rs14
+http://14.102.123.50:9080/play/a0oi
+#EXTINF:-1,colorsInfintyHD-Rs9
+http://14.102.123.50:9080/play/a05h
+#EXTINF:-1,colorsKannadHD-Rs19
+http://14.102.123.50:9080/play/a0k2
+#EXTINF:-1,hungama tv-Rs 1
+http://14.102.123.50:9080/play/a05u
+#EXTINF:-1,nick - Rs 6
+http://14.102.123.50:9080/play/a05w
+#EXTINF:-1,nick HD+- Rs 10
+http://14.102.123.50:9080/play/a05i
 #EXTM3U
 #EXTINF:-1,SUN TV 
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
