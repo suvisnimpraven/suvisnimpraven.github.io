@@ -1,0 +1,194 @@
+#EXTM3U url-tvg="[XML_EPG]"
+#EXTINF:-1 tvg-id="AandE(East).us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="0" channel-number="0",A&E
+https://thetvapp.to/tv/ae-live-stream/
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="1" channel-number="1",AMC
+https://thetvapp.to/tv/amc-live-stream/
+
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="2" channel-number="2",American Heroes Channel
+https://thetvapp.to/tv/american-heroes-channel-live-stream/
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="3" channel-number="3",Animal Planet
+https://thetvapp.to/tv/animal-planet-live-stream/
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="4" channel-number="4",BBC America
+https://thetvapp.to/tv/bbc-america-live-stream/
+
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World News HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24448_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="5" channel-number="5",BBC World News HD
+https://thetvapp.to/tv/bbc-world-news-hd-live-stream/
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="6" channel-number="6",BET
+https://thetvapp.to/tv/bet-live-stream/
+
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="7" channel-number="7",BET Her
+https://thetvapp.to/tv/bet-her-live-stream/
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="8" channel-number="8",Bloomberg TV
+https://thetvapp.to/tv/bloomberg-tv-live-stream/
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="9" channel-number="9",Boomerang
+https://thetvapp.to/tv/boomerang-live-stream/
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="10" channel-number="10",Bravo
+https://thetvapp.to/tv/bravo-live-stream/
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="11" channel-number="11",Cartoon Network
+https://thetvapp.to/tv/cartoon-network-live-stream/
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="12" channel-number="12",CBS Sports Network
+https://thetvapp.to/tv/cbs-sports-network-live-stream/
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="13" channel-number="13",Cinemax
+https://thetvapp.to/tv/cinemax-live-stream/
+
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="14" channel-number="14",CMT
+https://thetvapp.to/tv/cmt-live-stream/
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="15" channel-number="15",CNBC
+https://thetvapp.to/tv/cnbc-live-stream/
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="16" channel-number="16",CNN
+https://thetvapp.to/tv/cnn-live-stream/
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="17" channel-number="17",Comedy Central
+https://thetvapp.to/tv/comedy-central-live-stream/
+
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="18" channel-number="18",Cooking Channel
+https://thetvapp.to/tv/cooking-channel-live-stream/
+
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="19" channel-number="19",Crime & Investigation HD
+https://thetvapp.to/tv/crime-investigation-hd-live-stream/
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="CSPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="20" channel-number="20",CSPAN
+https://thetvapp.to/tv/cspan-live-stream/
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="CSPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10162_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="21" channel-number="21",CSPAN 2
+https://thetvapp.to/tv/cspan-2-live-stream/
+
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="22" channel-number="22",Destination America
+https://thetvapp.to/tv/destination-america-live-stream/
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="23" channel-number="23",Discovery
+https://thetvapp.to/tv/discovery-live-stream/
+
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="24" channel-number="24",Discovery Family Channel
+https://thetvapp.to/tv/discovery-family-channel-live-stream/
+
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="25" channel-number="25",Discovery Life
+https://thetvapp.to/tv/discovery-life-live-stream/
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="26" channel-number="26",Disney Channel (East)
+https://thetvapp.to/tv/disney-channel-east-live-stream/
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="27" channel-number="27",Disney Junior
+https://thetvapp.to/tv/disney-junior-live-stream/
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="28" channel-number="28",Disney XD
+https://thetvapp.to/tv/disney-xd-live-stream/
+
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="29" channel-number="29",E!
+https://thetvapp.to/tv/e-live-stream/
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="30" channel-number="30",ESPN
+https://thetvapp.to/tv/espn-live-stream/
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="31" channel-number="31",ESPN2
+https://thetvapp.to/tv/espn2-live-stream/
+
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="32" channel-number="32",ESPNews
+https://thetvapp.to/tv/espnews-live-stream/
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="33" channel-number="33",ESPNU
+https://thetvapp.to/tv/espnu-live-stream/
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="34" channel-number="34",Food Network
+https://thetvapp.to/tv/food-network-live-stream/
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="35" channel-number="35",Fox Business Network
+https://thetvapp.to/tv/fox-business-network-live-stream/
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="36" channel-number="36",FOX News Channel
+https://thetvapp.to/tv/fox-news-channel-live-stream/
+
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FOX Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="37" channel-number="37",FOX Sports 1
+https://thetvapp.to/tv/fox-sports-1-live-stream/
+
+#EXTINF:-1 tvg-id="FS2.us" tvg-name="FOX Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59305_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="38" channel-number="38",FOX Sports 2
+https://thetvapp.to/tv/fox-sports-2-live-stream/
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="39" channel-number="39",Freeform
+https://thetvapp.to/tv/freeform-live-stream/
+
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="40" channel-number="40",Fuse HD
+https://thetvapp.to/tv/fuse-hd-live-stream/
+
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="41" channel-number="41",FX
+https://thetvapp.to/tv/fx-live-stream/
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="42" channel-number="42",FX Movie
+https://thetvapp.to/tv/fx-movie-live-stream/
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="43" channel-number="43",FXX
+https://thetvapp.to/tv/fxx-live-stream/
+
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="44" channel-number="44",FYI
+https://thetvapp.to/tv/fyi-live-stream/
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="45" channel-number="45",Golf Channel
+https://thetvapp.to/tv/golf-channel-live-stream/
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="46" channel-number="46",Hallmark
+https://thetvapp.to/tv/hallmark-live-stream/
+
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="47" channel-number="47",Hallmark Drama HD
+https://thetvapp.to/tv/hallmark-drama-hd-live-stream/
+
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="48" channel-number="48",Hallmark Movies & Mysteries HD
+https://thetvapp.to/tv/hallmark-movies-mysteries-hd-live-stream/
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="49" channel-number="49",HBO 2 East
+https://thetvapp.to/tv/hbo-2-east-live-stream/
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="50" channel-number="50",HBO Comedy HD
+https://thetvapp.to/tv/hbo-comedy-hd-live-stream/
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="51" channel-number="51",HBO East
+https://thetvapp.to/tv/hbo-east-live-stream/
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="52" channel-number="52",HBO Family East
+https://thetvapp.to/tv/hbo-family-east-live-stream/
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="53" channel-number="53",HBO Signature
+https://thetvapp.to/tv/hbo-signature-live-stream/
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="54" channel-number="54",HBO Zone HD
+https://thetvapp.to/tv/hbo-zone-hd-live-stream/
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="55" channel-number="55",HGTV
+https://thetvapp.to/tv/hgtv-live-stream/
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="56" channel-number="56",History
+https://thetvapp.to/tv/history-live-stream/
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="57" channel-number="57",HLN
+https://thetvapp.to/tv/hln-live-stream/
+
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="58" channel-number="58",IFC
+https://thetvapp.to/tv/ifc-live-stream/
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="59" channel-number="59",Investigation Discovery
+https://thetvapp.to/tv/investigation-discovery-live-stream/
+
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION Television East HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="60" channel-number="60",ION Television East HD
+https://thetvapp.to/tv/ion-television-east-hd-live-stream/
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="61" channel-number="61",Lifetime
+https://thetvapp.to/tv/lifetime-live-stream/
+
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="62" channel-number="62",LMN
+https://thetvapp.to/tv/lmn-live-stream/
+
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="63" channel-number="63",Logo
+https://thetvapp.to/tv/logo-live-stream/
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api201
