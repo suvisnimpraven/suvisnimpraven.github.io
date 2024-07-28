@@ -1,4 +1,4 @@
-ka#EXTINF:-1,KAAVAALA (JAILOR)
+#EXTINF:-1,KAAVAALA (JAILOR)
 https://drive.usercontent.google.com/download?id=1KdN4f-vdnINxMi3AQNBlQwjeO4spoKjW&export=download&confirm=t&uuid=76a7c941-c3c3-4a73-b41f-bc6c5c6dbc65
 
 
@@ -63,7 +63,7 @@ https://drive.usercontent.google.com/download?id=1J3q-x2a_WADkFowJFQEAKP2ERXJVmQ
 #EXTINF:-1,NAA READY VARAVA
 https://drive.usercontent.google.com/download?id=1JOtj99EKuLCnb4-Z1gET9H6etMZ0c2yJ&export=download&confirm=t&uuid=ba317419-d137-4a99-895c-faba3bce4d5c
 
-ffmpeg -i JAILOR 
+ffmpeg -i, JAILOR 
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340697.mp4
 
 
