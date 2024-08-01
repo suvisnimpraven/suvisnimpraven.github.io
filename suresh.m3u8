@@ -291,3 +291,123 @@ http://listen.radionomy.com/arrahman-radio
 https://hls.somafm.com/hls/gs-surround/program.m3u8
 #EXTINF:-1, RADIO SUPER STEREO HIGHRES 
 http://icecast.centaury.cl:7570/SuperStereoHiRes5
+#EXTINF:-1,Star Plus HD -Rs 19
+http://14.102.123.50:9080/play/a04t
+#EXTINF:-1,Star Plus-Rs 19
+http://14.102.123.50:9080/play/a0pc
+#EXTINF:-1,Star Pravah HD-Rs19
+http://14.102.123.50:9080/play/a074
+#EXTINF:-1,Star Sports 1 HD - Rs 19.00
+http://14.102.123.50:9080/play/a0uy
+#EXTINF:-1,Star Sports 1 Hindi HD - Rs 19.00
+http://14.102.123.50:9080/play/a0vf
+#EXTINF:-1,Star Sports 1 Tamil - Rs 19.00
+http://14.102.123.50:9080/play/a0yv
+#EXTINF:-1,Star Sports 1 Tamil HD - Rs 19.00
+http://14.102.123.50:9080/play/a0ye
+#EXTINF:-1,Star Sports 1 Telugu HD - Rs 19.00
+http://14.102.123.50:9080/play/a0vx
+#EXTINF:-1,Star Sports 2 HD - Rs 19.00
+http://14.102.123.50:9080/play/a0yh
+#EXTINF:-1,Star Sports 2-Rs4
+http://14.102.123.50:9080/play/a0op
+#EXTINF:-1,Star Sports 3 - Rs 2.00
+http://14.102.123.50:9080/play/a0yy
+#EXTINF:-1,Star Sports 3-SD@
+http://14.102.123.50:9080/play/a0gp
+#EXTINF:-1,Star Sports First - Rs 0.50
+http://14.102.123.50:9080/play/a0v7
+#EXTINF:-1,Star Sports Select 1 HD - Rs 19.00
+http://14.102.123.50:9080/play/a0xy
+#EXTINF:-1,Star Sports Select 2 HD - Rs 15.00
+http://14.102.123.50:9080/play/a0y0
+#EXTINF:-1,Star Suvarna HD - Rs 22.00
+http://14.102.123.50:9080/play/a0w0
+#EXTINF:-1,Star Utsav Movies
+http://14.102.123.50:9080/play/a0mm
+#EXTINF:-1,Star Utsav-50p
+http://14.102.123.50:9080/play/a0pi
+#EXTINF:-1,StarGold SelHD-Rs8
+http://14.102.123.50:9080/play/a05a
+#EXTINF:-1,StarMovieSelHD-Rs19
+http://14.102.123.50:9080/play/a04d
+#EXTINF:-1,StarS1 HindiHD-Rs19
+http://14.102.123.50:9080/play/a041
+#EXTINF:-1,StarSportSL1HD-Rs19
+http://14.102.123.50:9080/play/a05e
+#EXTINF:-1,StarSportSL2HD-Rs10
+http://14.102.123.50:9080/play/a05f
+#EXTINF:-1,StarSports1 HD-Rs19
+http://14.102.123.50:9080/play/a0hm
+#EXTINF:-1,StarSports2 HD-Rs19
+http://14.102.123.50:9080/play/a03o
+#EXTINF:-1,StarSuvarnaHD-Rs19
+http://14.102.123.50:9080/play/a0df
+#EXTINF:-1,Sudarshan News
+http://14.102.123.50:9080/play/a0nz
+#EXTINF:-1,Sun Life - Rs 9.00
+http://14.102.123.50:9080/play/a0yi
+#EXTINF:-1,Sun Marathi
+http://14.102.123.50:9080/play/a0l6
+#EXTINF:-1,Sun TV - Rs 19.00
+http://14.102.123.50:9080/play/a0z8
+#EXTINF:-1,Sun TV HD - Rs 19.00
+http://14.102.123.50:9080/play/a0yk
+#EXTINF:-1,Super Hungama- Rs 4
+http://14.102.123.50:9080/play/a0jj
+#EXTINF:-1,Swadesh News
+http://14.102.123.50:9080/play/a0oc
+#EXTINF:-1,THE Q
+http://14.102.123.50:9080/play/a0lz
+#EXTINF:-1,TLC HD- Rs3
+http://14.102.123.50:9080/play/a049
+#EXTINF:-1,TV9 Bharatvarsh
+http://14.102.123.50:9080/play/a0ma
+#EXTINF:-1,Tata Play Hits HD
+http://14.102.123.50:9080/play/a0yg
+#EXTINF:-1,Times Now Navbharat
+http://14.102.123.50:9080/play/a0mx
+#EXTINF:-1,Travelxp - Rs 3.00
+http://14.102.123.50:9080/play/a0xu
+#EXTINF:-1,UDAYA HD- Rs 19
+http://14.102.123.50:9080/play/a0ka
+#EXTINF:-1,UNIQUE TV
+http://14.102.123.50:9080/play/a0md
+#EXTINF:-1,Udaya Comedy - Rs 6.00
+http://14.102.123.50:9080/play/a0xh
+#EXTINF:-1,VEDIC
+http://14.102.123.50:9080/play/a0o6
+#EXTINF:-1,VIJAY HD- Rs 19
+http://14.102.123.50:9080/play/a06o
+#EXTINF:-1,VTV News
+http://14.102.123.50:9080/play/a0tw
+#EXTINF:-1,Vijay HD - Rs 22.00
+http://14.102.123.50:9080/play/a0yf
+#EXTINF:-1,Vijay Super - Rs 10.00
+http://14.102.123.50:9080/play/a0z5
+#EXTINF:-1,Vijay Super HD - Rs 19
+http://14.102.123.50:9080/play/a0kc
+#EXTINF:-1,Vijay Takkar - Rs 2.00
+http://14.102.123.50:9080/play/a0xt
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://14.102.123.50:9080/play/a0me
+#EXTINF:-1,ZEE ANMOL CINEMA 2
+http://14.102.123.50:9080/play/a0ts
+#EXTINF:-1,ZEE ANMOL-10p
+http://14.102.123.50:9080/play/a0pk
+#EXTINF:-1,ZEE BANGLA HD-Rs 19
+http://14.102.123.50:9080/play/a0tz
+#EXTINF:-1,ZEE BOLLYWOOD-Rs3
+http://14.102.123.50:9080/play/a05p
+#EXTINF:-1,ZEE CINEMA HD-Rs 19
+http://14.102.123.50:9080/play/a055
+#EXTINF:-1,ZEE CINEMALU-Rs 15
+http://14.102.123.50:9080/play/a0t7
+#EXTINF:-1,ZEE Cafe HD - Rs10
+http://14.102.123.50:9080/play/a04a
+#EXTINF:-1,ZEE Chitra Mandir
+http://14.102.123.50:9080/play/a0n2
+#EXTINF:-1,ZEE CinemaluHD-Rs19
+http://14.102.123.50:9080/play/a0tf
+#EXTINF:-1,ZEE Kannada HD-Rs19
+http://14.102.123.50:9080/play/a0ja
