@@ -1,0 +1,437 @@
+
+#EXTINF:-1,SUN TV 
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+
+
+#EXTINF:-,SUNTV1
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+
+
+#EXTINF:-1,SUN TV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+#EXTINF:-1,STAR VIJAY 
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+
+
+
+/
+#EXTINF:-1,STARVIJAY1
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+#EXTINF:-1,STARVIJAY2
+http://xtv.ooo:8080/live/926320521/2229994223/244624.ts
+
+#EXTINF:-1,STARVIJAY3
+http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
+#EXTINF:-1,STAR VIJAY 4
+http://14.102.123.50:9080/play/a06o
+
+#EXTINF:-1,STAR VIJAY 5
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+
+#EXTINF:-1,VIJAY SUPER 
+http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
+
+#EXTINF:-1,COLORS TAMIL
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1,COLORS TAMIL1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
+#EXTINF:-1,COLORS TAMIL2
+http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
+#EXTINF:-1,ZEE TAMIL 
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+
+
+
+
+#EXTINF:-1,ZEE TAMIL 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+
+
+#EXTINF:-1,ZEE THIRAI 
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=14505&deviceMac=00:1A:79:A7:53:75
+
+
+
+#EXTINF:-1,KTV 
+http://116.202.46.40:9023/KTV_TAMIL/index.m3u8
+#EXTINF:-1,KTV 1
+http://sansat.net:25461/live/02026512172803/02026512172803/100125.ts
+
+#EXTINF:-1,KTV 2
+http://14.102.123.50:9080/play/a0j7
+#EXTINF:-1,KTV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+
+
+
+#EXTINF:-1,SUN MUSIC
+http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
+
+
+#EXTINF:-1,SUN MUSIC 1
+http://sansat.net:25461/live/02026512172803/02026512172803/100155.ts
+#EXTINF:-1,SUN MUSIC 2
+http://14.102.123.50:9080/play/a071
+
+
+#EXTINF:-1,ISAI ARUVI
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+
+
+
+#EXTINF:-1,SIRIPOLLI TV 
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,MURASU TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+
+
+#EXTINF:-1,JAYA TV 
+http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
+
+
+#EXTINF:-1,RAJ TV
+http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:-1,RAJ TV 1
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+#EXTINF:-1,VASANTH TV
+http://xtv.ooo:8080/MansoorWapda/258741/244533
+#EXTINF:-1,VASANTH TV 1
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
+#EXTINF:-1,THANTHI ONE TV
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1,SUN NEWS
+http://116.202.46.40:9023/SUN_NEWS_TAMIL/index.m3u8
+
+#EXTINF:-1,ZEE NEWS 
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1,NEWS 7 TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+#EXTINF:-1,NEWS 7 TV 1 TV1http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+
+#EXTINF:-1,POLIMER NEWS 
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1,PUTHIYATHAIMURAI 
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1, PUTHIYATHAIMURAI 1
+https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
+#EXTINF:-1,THANTHI TV
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
+
+
+#EXTINF:-1,SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+
+#EXTINF:-1,POGO TAMIL
+http://xtv.ooo:8080/MansoorWapda/258741/244545
+#EXTINF:-1,RASI COMEDY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI MOVIE
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI TAMIL
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI MUSIC
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI CLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI HOLLYWOOD
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1,ONE MOVIES HD
+https://ipcloud.live/onetv/onemovies/index.m3u8
+#EXTINF:-1,ONE HOLLYWOOD HD
+https://ipcloud.live/onetv/onehollywood/index.m3u8
+
+#EXTINF:-1,VINAYAGA MUSIC
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1,KRISHNA TV
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+#EXTINF:-1,MAKKAL TV 
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1,HISTORY 18 TAMIL
+http://xtv.ooo:8080/MansoorWapda/258741/244529
+#EXTINF:-1,GEMINI MUSIC
+http://116.202.46.40:9023/GEMINI_MUSIC_TELUGU/index.m3u8
+#EXTINF:-1,MALAYALA MANORAMA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1,MALAIYALA MANORAMMA
+http://xtv.ooo:8080/MansoorWapda/258741/244649
+#EXTINF:-1, TAMIL MOVIES 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301492.ts
+#EXTINF:-1, TAMIL MOVIES 1
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301493.ts
+#EXTINF:-1, TAMIL MOVIES 2
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301494.ts
+#EXTINF:-1, TAMIL MOVIES 3
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301495.ts
+#EXTINF:-1,TELUGU MOVIES 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301496.ts
+#EXTINF:-1,MALAYALAM MOVIES 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/301497.ts
+
+
+
+#EXTINF:-1,24*7 NETFLIX MOVIES 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/248000.ts
+#EXTINF:-1,24*7 NETFLIX MOVIES 1
+http://xtv.ooo:8080/live/03157485151R/03157485151R/248001.ts
+#EXTINF:-1,24*7 NETFLIX MOVIES 2
+http://xtv.ooo:8080/live/03157485151R/03157485151R/248002.ts
+#EXTINF:-1,24*7 NETFLIX MOVIES 3
+http://xtv.ooo:8080/live/03157485151R/03157485151R/248003.ts
+#EXTINF:-1,24*7 NETFLIX MOVIES 4
+http://xtv.ooo:8080/live/03157485151R/03157485151R/248005.ts
+#EXTINF:-1,24*7 NETFLIX MOVIES 5
+http://xtv.ooo:8080/live/03157485151R/03157485151R/247998.ts
+
+
+
+
+
+
+
+#EXTINF:-1,STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1,STAR MOVIES 1
+http://14.102.123.50:9080/play/a04c
+#EXTINF:-1,STAR MOVIES 2
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1,STAR MOVIES 3
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=356&deviceMac=00:1A:79:06:EF:A7
+
+
+
+
+#EXTINF:-1,STAR MOVIES SELECT 
+http://14.102.123.50:9080/play/a04d
+#EXTINF:-1,ACTION HOLLYWOOD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1,SONY MOVIES 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,T-SERIES
+http://xtv.ooo:8080/MansoorWapda/258741/362867
+
+#EXTINF:-1,BOOGLE BOLLYWOOD
+http://xtv.ooo:8080/MansoorWapda/258741/206045
+#EXTINF:-1,9X JALWA
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1,SHEMAROO
+http://xtv.ooo:8080/MansoorWapda/258741/362865
+#EXTINF:-1,YRF MUSIC 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1,24*7 HINDI VIDEO SONGS 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/219498.ts
+#EXTINF:-1,24*7 HINDI VIDEO SONGS 1
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
+#EXTINF:-1,24*7 HINDI VIDEO SONGS 2
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270508.ts
+#EXTINF:-1, 24*7HINDI VIDEO SONGS 3
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270514.ts
+#EXTINF:-1,24*7HINDI VIDEO SONGS 4
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270515.ts
+#EXTINF:-1,24*7 HINDI VIDEO SONGS 5
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270516.ts
+#EXTINF:-1,24*7 HINDI VIDEO SONGS 6
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270517.ts
+#EXTINF:-1, XITE HITS 
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1,VEVO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,DUCK TV
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1,CHHOTA BHEEM
+http://xtv.ooo:8080/MansoorWapda/258741/315401
+#EXTINF:-1,BBC EARTH 
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1,TRAVEL XP TAMIL 
+http://xtv.ooo:8080/MansoorWapda/258741/244634
+
+#EXTINF:-1, TRAVEL HD
+https://jmp2.uk/SamsungTVPlus/INBC43000016J.m3u8
+#EXTINF:-1,REDBULL TV
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1,IN WILD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
+#EXTINF:-1,DISCOVERY MULTI HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
+#EXTINF:-1,ANIMAL PLANET
+http://xtv.ooo:8080/MansoorWapda/258741/244595
+#EXTINF:-1,ANIMAL PLANET MULTI HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+#EXTINF:-1,MEGELLAN TV
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1, RAKUTEN TV
+https://rakuten-actionmovies-1-ie.lg.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1,TLC HD
+http://14.102.123.50:9080/play/a049
+#EXTINF:-1,HGTV
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1,CLARITY 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1,HOTEL INSPECTOR
+https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+#EXTINF:-1,NATURE ESCAPE 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6280
+#EXTINF:-1,XLPORE
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, OUTDOOR AUSTRALIA 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1,AWESOME AUSTRALIA 
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
+#EXTINF:-1,FEAR FACTOR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1,GP1
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+
+
+#EXTINF:-1,STAR SPORTS SELECT 
+http://14.102.123.50:9080/play/a0hm
+#EXTINF:-1,SPORTS 18
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,FIFA
+https://jmp2.uk/SamsungTVPlus/IN270000230.m3u8
+#EXTINF:-1,SKY SPORTS
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,SONY SPORTS
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1,SONY SPORTS 1
+http://xtv.ooo:8080/live/03157485151R/03157485151R/109983.ts
+
+
+
+
+#EXTINF:-1,STAR SPORTS SELECT 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/109993.ts
+#EXTINF:-1, STAR SPORTS SELECT 1
+http://xtv.ooo:8080/live/03157485151R/03157485151R/109994.ts
+
+
+#EXTINF:-1,KAAVAALA (JAILOR)
+https://drive.usercontent.google.com/download?id=1KdN4f-vdnINxMi3AQNBlQwjeO4spoKjW&export=download&confirm=t&uuid=76a7c941-c3c3-4a73-b41f-bc6c5c6dbc65
+
+
+#EXTINF:-1,KANNANA KANNEY
+https://mp4tamil.com/videos/videop/video/Tamil_Yearly_Video_Songs/2019_Tamil_Movies_Video_Songs/Viswasam_Video_Songs/1080p/Kannaana_Kanney_-_Viswasam_1080p_-_Mp4Tamil.Com.mp4
+
+
+#EXTINF:-,ORU KAL ORU KANNADI
+https://mp4tamil.com/videos/videop/video/Tamil_Yearly_Video_Songs/2012_Tamil_Movies_Video_Songs/Oru_Kal_Oru_Kannadi_Video_Songs/1080p/Adada_Oru_Devathai_-_OKOK_1080p_-_Mp4Tamil.Com.mp4
+
+#EXTINF:-1,KUKKU KUKKU
+https://drive.usercontent.google.com/download?id=1JgsJzk0MZ0HpPSIt-ecgf1lsND2KlR4p&export=download&confirm=t&uuid=d0a442b0-d7c8-4701-896f-6f69f14ae885
+#EXTINF:-1, MVS
+https://drive.usercontent.google.com/download?id=1q1KYAX_M_y4uk1E0gB347NTyDvbT-XXI&export=download&confirm=t&uuid=c7079013-284e-4baa-9a17-bb53f3cbf0c1
+#EXTINF:-1, MVS1
+https://drive.usercontent.google.com/download?id=1_JJ5fIoswr3KoaXGXXEX0UanvM8S_XjN&export=download&confirm=t&uuid=66aaa610-cae4-4b63-a0a8-aba724d774b8
+#EXTINF:-1, MVS2
+https://drive.usercontent.google.com/download?id=1YWqHSbPgZ7rdZ3rMTAoSMXgAfYkumU8G&export=download&confirm=t&uuid=c453dafd-ffe2-4a03-a21d-21fb008ef9d6
+#EXTINF:-1, MVS3
+https://drive.usercontent.google.com/download?id=1Y3CYNLIcxOvtT_DG9-02CAdgrSMqGC2g&export=download&confirm=t&uuid=f9f9af2b-f2d9-47fe-a7af-dc3b33b9e748
+
+
+#EXTINF:-1,ACHACHO (ARANMANAI 4)
+https://drive.usercontent.google.com/download?id=1KX7DqUE1NsV8fxGFe65zfQbg5ti4fNv7&export=download&confirm=t&uuid=3d2b21d6-b5c0-4a8a-be7e-b608baea4424
+
+#EXTINF:-1, MVS4
+https://drive.usercontent.google.com/download?id=1u6pt93A1RyWoFHkR4VLKpBREQDx81uog&export=download&confirm=t&uuid=1d1aae55-a0fb-4fa6-9a16-b3f4442a642c
+#EXTINF:-1,MVS5
+https://drive.usercontent.google.com/download?id=1smLNv8dZakVVk1QZ6t4kZxk-MQCZQXfE&export=download&confirm=t&uuid=d360a4f8-be50-4f35-b2bd-29707da8b274
+#EXTINF:-1,MVS6
+https://drive.usercontent.google.com/download?id=1sqqPDlhwj02PUSLoY-x1QsDpmgCilJOn&export=download&confirm=t&uuid=3ab8f906-733e-4397-baf1-57addd03f215
+#EXTINF:-1,MVS7
+https://drive.usercontent.google.com/download?id=1yAumn4hXrnX8Melr4odQeLLM0RT-KlKX&export=download&confirm=t&uuid=ef4d0037-6dfc-4c2a-9479-a2eda8de14c4
+
+#EXTINF:-1,MVS8
+https://drive.usercontent.google.com/download?id=1yi4D1oJhapo-Ylq7a3LIa4fBBlQvKX54&export=download&confirm=t&uuid=d70fe63b-5d8b-4efc-a511-743fd4bb4593
+
+#EXTINF:-1,ROWDY BABY
+https://drive.usercontent.google.com/download?id=1J0UadPXMiUIeRJRMnlOG8qtACwfnI-bY&export=download&confirm=t&uuid=2bd4a8fe-0031-426d-854a-dfec142b2227
+
+#EXTINF:-KANGAL IRANDAL
+https://drive.usercontent.google.com/download?id=1fWi2y6MdXz65ciNzZzVc18gWH429rRb2&export=download
+#EXTINF:-1,ARABIC KUTHU
+https://drive.usercontent.google.com/download?id=1MJujLXfIqsB-TR1hwp1tFKfqB0G0nDDy&export=download&confirm=t&uuid=3154ff65-89c0-41d6-b5f0-fe3a6ad3a050
+#EXTINF:-1,RANJITHAMEY
+https://drive.usercontent.google.com/download?id=1J3q-x2a_WADkFowJFQEAKP2ERXJVmQdW&export=download&confirm=t&uuid=6e1d6e54-9958-4f3a-85e7-626081824b97
+#EXTINF:-1,NAA READY VARAVA
+https://drive.usercontent.google.com/download?id=1JOtj99EKuLCnb4-Z1gET9H6etMZ0c2yJ&export=download&confirm=t&uuid=ba317419-d137-4a99-895c-faba3bce4d5c
+
+
+#EXTINF:-0,ADANGAMARU
+http://xtv.ooo:8080/movie/ahmedsyseng1974/51239512765/252801.mkv
+#EXTINF:-0,DARBAR
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/252838.mkv
+#EXTINF:-0,BIGIL
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/252823.mkv
+#EXTINF:-0,VARISU
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/312726.mkv
+#EXTINF:-0,VAATHI
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/315394.mkv
+#EXTINF:-0,LEO
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/372047.mkv
+#EXTINF:-0,VISWASAM
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/253038.mkv
+#EXTINF:-0,KOLAIGARAN
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/252904.mkv
+
+#EXTINF:-0,PONNIYIN SELVAN 1
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/307475.mkv
+#EXTINF:-0,PONNIYIN SELVAN 2
+http://xtv.ooo:8080/movie/03157485151R/03157485151R/344924.mkv
+
+#EXTINF:-0, MUMMY (1999)
+https://abra--7537cb52.api.brilliant-bittern.buzz/e77b63eba3dcc91b0d9d618be1c520a97a508987/The%20Mummy%20(1999)%20%5B1080p%5D%2FThe.Mummy.1999.1080p.BRrip.x264.GAZ.YIFY.mp4~vod/hls/4afd3f222c16f42053d5353fd7771d6b/index.m3u8?user-id=57f78c0399a81b7b9ccf1624a96c50cc&download-id=85edbb12b5461987235c2389e7b21dcc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIyNDA5OjQwZjQ6MTAyYjo0ZjQyOjg0ZjpkY2ZmOmZlY2E6NDFmIiwiZG9tYWluIjoieXRzLnJzIiwiZXhwIjoxNzIyNDQ2OTI5LCJzZXNzaW9uSUQiOiIwcTJSXy1EUkZwNUNYNlpQOG5NN3VZOE9fNWt2QUVfNyIsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0nJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.oC4R6otFWkiskWtfcLhF3bjiYz5hcwF3mqeMstSMpzY&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXTINF:-0, MADMAX (1979)
+https://abra--7537cb52.api.brilliant-bittern.buzz/e57735ae165956c7d7ac1d6a4ffd3a5349b01055/Mad%20Max%20(1979)%20%5B1080p%5D%2FMad.Max.1979.1080p.BRrip.x264.YIFY.mp4~vod/hls/7c6bef117287f15b74f46e06c418920e/index.m3u8?user-id=4757279278e5df83cc741abcf53ee452&download-id=d241ee855996e6ee3cbfcf9fec14d8f2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxMDQuMjguMTk3Ljc5IiwiZG9tYWluIjoieXRzLnJzIiwiZXhwIjoxNzIyNjE4OTIzLCJzZXNzaW9uSUQiOiIzYUlPSGJXbHNfM3BtZ040c3c4eTRXTmF0Zy1Nd0htVyIsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.LSUZoQ2clpuE2269XlLfGXjyebzfvfbqI4WtmqRSDbA&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXTINF:-0,MADMAX SAGA (2024)
+https://abra--2d8fde14.api.brilliant-bittern.buzz/1160d4cf2dd4dcf755227ba8011b32ccea502309/Furiosa%20A%20Mad%20Max%20Saga%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FFuriosa.A.Mad.Max.Saga.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/657ea090095aa1b42d6ba150237b3dc8/index.m3u8?user-id=e27f97cea0deb94b52e37d198f6a4b0b&download-id=c3242d2ce41dad98ff75763e9ab7046a&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIyNDA2Ojc0MDA6Y2E6OThmODo2NDgxOjg3ZWQ6NTUzYjo4NmJmIiwiZG9tYWluIjoieXRzLnJzIiwiZXhwIjoxNzIyNjE3NzIxLCJzZXNzaW9uSUQiOiJGLVdnRkhlVFFDZTNVM044OHJndGlMLUFiYzhpT1lNTCIsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.HdfwfiuxX5OmN0FNQJmJdjr5gdiFHyrd-4Vt87JrEbM&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXTINF:-0,BADBOYS RIDE OR DIE (2024)
+https://abra--2d8fde14.api.brilliant-bittern.buzz/2801dbb1e21b1d981ed977aaac0e2c100036fcd4/Bad%20Boys%20Ride%20Or%20Die%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FBad.Boys.Ride.Or.Die.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/7ac0809975efff99502b32531c8c1f6b/index.m3u8?user-id=fd55041b54f2f2003b49bf2d9b5a499e&download-id=b45a1265d0cd8294c3b54c8a5c11a73a&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIyNDA2Ojc0MDA6Y2E6MWZlYTo2NDgxOjg3ZWQ6NTUzYjo4NmJmIiwiZG9tYWluIjoieXRzLnJzIiwiZXhwIjoxNzIzMTM1ODI5LCJzZXNzaW9uSUQiOiJEWDE2V1l4bXg1d3F6Zldhd09xSEdJcUo2MjdnQTlJSSIsInJhdGUiOiIxME0iLCJyb2xlIjoibm9ib2R5In0.FUltqaHZXmeETrN8MSjLXlvatVl0Cs8MVfQD
+
+
+
+
+
+
