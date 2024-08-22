@@ -241,14 +241,11 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,T-SERIES
-http://xtv.ooo:8080/MansoorWapda/258741/362867
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
 
-#EXTINF:-1,BOOGLE BOLLYWOOD
-http://xtv.ooo:8080/MansoorWapda/258741/206045
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1,SHEMAROO
-http://xtv.ooo:8080/MansoorWapda/258741/362865
+
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
