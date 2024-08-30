@@ -197,7 +197,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,T-SERIES
 http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
-
+#EXTINF:-1,MTV BEATS 
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
 
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
