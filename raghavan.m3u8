@@ -42,7 +42,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
-
+#EXTINF:-1,SUN MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=2977&deviceMac=00:1A:79:A4:26:62
 
 
 
