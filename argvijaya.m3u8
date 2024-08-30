@@ -22,6 +22,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:
 
 #EXTINF:-1, STAR VIJAY 2
 http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:-1,COLORS TAMIL
+http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 
 #EXTINF:-1,ZEE TAMIL 
