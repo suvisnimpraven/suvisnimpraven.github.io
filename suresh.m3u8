@@ -105,3 +105,45 @@ http://ktv.im:8080/live/Nawal35/65329871/75327.ts
 
 #EXTINF:-1, SPICE
 http://ktv.im:8080/live/Nawal35/65329871/411.ts
+
+#EXTINF:-1,STAR VIJAY 
+http://vo01.mohdtv.com:8880/voby5005/0583b2580cde0947/55297
+#EXTINF:-1,SUNTV
+http://ktv.im:8080/live/1234512345/1234512345/82908.ts
+
+#EXTINF:-1,SUN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1,SUN TV
+http://vo01.mohdtv.com:8880/voby5005/0583b2580cde0947/55249
+#EXTINF:-1,SUN TV
+http://ktv.im:8080/live/1234512345/1234512345/82911.ts
+#EXTINF:-1,SUN LIFE
+http://vo01.mohdtv.com:8880/voby5005/0583b2580cde0947/55251
+
+#EXTINF:-1,ZEE TAMIL 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
+#EXTINF:-1,ZEE TAMIL 
+http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
+#EXTINF:-1,ZEE TAMIL 
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:-1,ZEE TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1,ZEE TAMIL 
+http://ktv.im:8080/live/1234512345/1234512345/82919.ts
+#EXTINF:-1,ZEE TAMIL 
+http://ktv.im:8080/live/1234512345/1234512345/82917.ts
+#EXTINF:-1,MTV BEATS 
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
+
+
+
+#EXTINF:-1,T SERIES 
+http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
+#EXTINF:-1,FANCODE
+https://dai.fancode.com/primary/103529_english_hls_5125ta-no/index.m3u8
+#EXTINF:-1,COLORS TAMIL
+http://ktv.im:8080/live/1234512345/1234512345/82892.ts
+#EXTINF:-1,COLORS TAMIL 
+http://ktv.im:8080/live/1234512345/1234512345/82894.ts
+#EXTINF:-1,COLORS TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
