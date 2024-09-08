@@ -147,3 +147,21 @@ http://ktv.im:8080/live/1234512345/1234512345/82892.ts
 http://ktv.im:8080/live/1234512345/1234512345/82894.ts
 #EXTINF:-1,COLORS TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-JOTHI TV
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=1526445&extension=ts&play_token=PZUSSKVE3h&sn2=
+#EXTINF:-1,SAI TV
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=281901&extension=ts&play_token=QyS6YYVvxW&sn2=
+#EXTINF:-1,VENDER TV
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=281914&extension=ts&play_token=K7rdh9A9NW&sn2=
+#EXTINF:-1, VIJAY SUPER
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=155875&extension=ts&play_token=K5yBtJ3chg&sn2=
+#EXTINF:-1,ZEE THIRAI
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=155912&extension=ts&play_token=nl41gh2sIi&sn2=
+#EXTINF:-1,ZEE TAMIL 
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=155901&extension=ts&play_token=PBZ6M3xsu8&sn2=
+#EXTINF:-1,ZEE TAMIL 
+http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=155876&extension=ts&play_token=RSGwll0i75&sn2=
+#EXTINF:-1,COLOR TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, HISTORY 18 TAMIL 
+https://hdipl.live/oz/linear-live.php?id=1006&vtoken=&e=.m3u8
