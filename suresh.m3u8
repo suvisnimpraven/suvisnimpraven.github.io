@@ -147,7 +147,7 @@ http://ktv.im:8080/live/1234512345/1234512345/82892.ts
 http://ktv.im:8080/live/1234512345/1234512345/82894.ts
 #EXTINF:-1,COLORS TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-JOTHI TV
+#EXTINF:-1,JOTHI TV
 http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=1526445&extension=ts&play_token=PZUSSKVE3h&sn2=
 #EXTINF:-1,SAI TV
 http://23232.top:80/play/live.php?mac=00:1A:79:08:98:AB&stream=281901&extension=ts&play_token=QyS6YYVvxW&sn2=
