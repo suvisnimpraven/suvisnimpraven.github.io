@@ -11,8 +11,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:
 
 #EXTINF:-1,SUN TV2
 http://217.20.112.199/suntv/index.m3u8
+#EXTINF:-1,STAR VIJAY
 
-
+http://217.20.112.199/vijaytv/index.m3u8
 /
 #EXTINF:-1,STARVIJAY
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
