@@ -9,30 +9,21 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2
 #EXTINF:-1,SUN TV 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1,SUN TV2
-http://217.20.112.199/suntv/index.m3u8
-#EXTINF:-1,STAR VIJAY
 
-http://217.20.112.199/vijaytv/index.m3u8
-/
+
 #EXTINF:-1,STARVIJAY
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 
 #EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1, STAR VIJAY 2
-http://217.20.112.199/vijaytv/index.m3u8
+
 #EXTINF:-1,COLORS TAMIL
 http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 
+
 #EXTINF:-1,ZEE TAMIL 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
-
-
-
-#EXTINF:-1,ZEE TAMIL 1
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
@@ -81,13 +72,10 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 
 
-#EXTINF:-1,RAJ TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
 
-#EXTINF:-1,VASANTH TV 
-http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
 
 #EXTINF:-1,THANTHI ONE TV
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
@@ -131,10 +119,7 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1,RASI HOLLYWOOD
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1,ONE MOVIES HD
-https://ipcloud.live/onetv/onemovies/index.m3u8
-#EXTINF:-1,ONE HOLLYWOOD HD
-https://ipcloud.live/onetv/onehollywood/index.m3u8
+
 
 #EXTINF:-1,VINAYAGA MUSIC
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
@@ -182,12 +167,11 @@ http://xtv.ooo:8080/live/03157485151R/03157485151R/247998.ts
 
 
 
-#EXTINF:-1,STAR MOVIES
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9312&deviceMac=00:1A:79:01:EC:E1
 
-#EXTINF:-1,STAR MOVIES 1
+
+#EXTINF:-1,STAR MOVIES 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-#EXTINF:-1,STAR MOVIES 2
+#EXTINF:-1,STAR MOVIES 1
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=356&deviceMac=00:1A:79:06:EF:A7
 
 
@@ -196,8 +180,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=356&deviceMac=00:1A:79:06:EF:
 
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1,SONY MOVIES 
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,T-SERIES
@@ -211,8 +194,7 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1,24*7 HINDI VIDEO SONGS 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/219498.ts
+
 #EXTINF:-1,24*7 HINDI VIDEO SONGS 1
 http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
 #EXTINF:-1,24*7 HINDI VIDEO SONGS 2
@@ -258,25 +240,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsun
 https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
 #EXTINF:-1,DISCOVERY MULTI HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
-#EXTINF:-1,ANIMAL PLANET
-http://xtv.ooo:8080/MansoorWapda/258741/244595
+
 #EXTINF:-1,ANIMAL PLANET MULTI HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 #EXTINF:-1,MEGELLAN TV
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
-#EXTINF:-1, RAKUTEN TV
-https://rakuten-actionmovies-1-ie.lg.wurl.tv/playlist.m3u8
 
-
-
-#EXTINF:-1,TLC HD
-http://14.102.123.50:9080/play/a049
 #EXTINF:-1,HGTV
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1,CLARITY 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1,LOVE NATURE
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 #EXTINF:-1,HOTEL INSPECTOR
 https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
 #EXTINF:-1,NATURE ESCAPE 
@@ -306,10 +278,8 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1,SONY SPORTS 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/109983.ts
-#EXTINF:-1,SONY SPORTS 1
-http://vo01.mohdtv.com:8880/voby5005/0583b2580cde0947/55271
+
+
 #EXTINF:-1,SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,SPOTV 1
@@ -319,10 +289,8 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #EXTINF:-1,STAR SPORTS SELECT 
 http://xtv.ooo:8080/live/03157485151R/03157485151R/109993.ts
-#EXTINF:-1, STAR SPORTS SELECT 1
-http://xtv.ooo:8080/live/03157485151R/03157485151R/109994.ts
-#EXTINF:-1, WILLOW CRICKET 
-http://vo01.mohdtv.com:8880/voby5005/0583b2580cde0947/55219
+
+
 
 
 #EXTINF:-0,ADANGAMARU
