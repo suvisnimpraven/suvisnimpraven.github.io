@@ -16,6 +16,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2
 
 #EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1,STAR VIJAY 2
+http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8
 
 
 #EXTINF:-1,COLORS TAMIL
@@ -25,6 +27,8 @@ http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53
 
 #EXTINF:-1,ZEE TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1,ZEE TAMIL 1
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 
 
 
@@ -245,6 +249,13 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 #EXTINF:-1,MEGELLAN TV
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1,LOVE NATURE 4K FHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1, LOVE NATURE 4K UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,DMAX HD
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
 #EXTINF:-1,HGTV
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
