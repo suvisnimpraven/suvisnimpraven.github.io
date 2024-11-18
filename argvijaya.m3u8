@@ -45,8 +45,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:
 
 
 
-#EXTINF:-1,SUN MUSIC 
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=2977&deviceMac=00:1A:79:A4:26:62
+
 
 
 
@@ -175,8 +174,7 @@ http://xtv.ooo:8080/live/03157485151R/03157485151R/247998.ts
 
 #EXTINF:-1,STAR MOVIES 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-#EXTINF:-1,STAR MOVIES 1
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=356&deviceMac=00:1A:79:06:EF:A7
+
 
 
 
@@ -298,8 +296,7 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 
 
-#EXTINF:-1,STAR SPORTS SELECT 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/109993.ts
+
 
 
 
