@@ -479,10 +479,7 @@ http://listen.radionomy.com/arrahman-radio
 https://hls.somafm.com/hls/gs-surround/program.m3u8
 
 
-#EXTINF:-1, POLIMER NEWS
-http://51.222.30.35:7688/1?type=http
-#EXTINF:-1,NEWS7
-http://51.222.30.35:7688/2?type=http
+
 
 
 
