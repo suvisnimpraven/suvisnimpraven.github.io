@@ -30,8 +30,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8
 #EXTINF:-1,ZEE TAMIL 1
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 
-
-
+#EXTINF:-1, ZEE THIRAI 
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
 
@@ -225,8 +225,8 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1,BBC EARTH 
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-
-
+#EXTINF:-1, TRAVEL XP HD
+https://jmp2.uk/sam-IN300000210.m3u8
 
 
 
@@ -247,6 +247,10 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 #EXTINF:-1,MEGELLAN TV
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1,CLARITY 4K
+https://jmp2.uk/sam-USBA3800005NI.m3u8
+#EXTINF:-1, LOVE NATURE 4K
+https://jmp2.uk/sam-USBA3400003IP.m3u8
 #EXTINF:-1,LOVE NATURE 4K FHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -284,8 +288,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,SKY SPORTS
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 
-
-
+#EXTINF:-1,FOX SPORTS 
+https://jmp2.uk/sam-US2700001QY.m3u8
 
 
 
