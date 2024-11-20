@@ -123,10 +123,7 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 
-#EXTINF:-1,VINAYAGA MUSIC
-http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,KRISHNA TV
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
 
 #EXTINF:-1,MAKKAL TV 
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
