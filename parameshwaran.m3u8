@@ -1,14 +1,7 @@
-#EXTINF:-1,COLORS TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=2977&deviceMac=00:1A:79:A4:26:62
+#EXTINF:-1, SUN MUSIC 
+http://195.26.87.217/live.ts?channelId=43420&uid=7435&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:-1, SUN MUSIC 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd?|drmScheme=clearkey&drmLicense=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
 
 #EXTINF:-1, COLORS TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=8399&deviceMac=00:1A:79:12:AB:2A
-
-
-
-#EXTINF:-1,COLORS TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b6:56:2d&stream=1526453&extension=ts&play_token=58vaTw6elw
-#EXTINF:-1, COLORS TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b6:56:2d&stream=1526452&extension=ts&play_token=fymU3WRpiU
-#EXTINF:-1, COLORS TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b6:56:2d&stream=155888&extension=ts&play_token=xbQGpzcgIc
