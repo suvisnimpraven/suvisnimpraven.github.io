@@ -20,8 +20,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:
 http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8
 
 
-#EXTINF:-1,COLORS TAMIL
-http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 
 
 
@@ -30,7 +29,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8
 #EXTINF:-1,ZEE TAMIL 1
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 
-#EXTINF:-1, ZEE THIRAI 
+#EXTINF:-1, ZEE TAMIL 2
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
@@ -124,10 +123,7 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 
-#EXTINF:-1,VINAYAGA MUSIC
-http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,KRISHNA TV
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
 
 #EXTINF:-1,MAKKAL TV 
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
@@ -136,33 +132,7 @@ http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.
 #EXTINF:-1,MALAYALA MANORAMA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
-#EXTINF:-1, TAMIL MOVIES 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301492.ts
-#EXTINF:-1, TAMIL MOVIES 1
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301493.ts
-#EXTINF:-1, TAMIL MOVIES 2
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301494.ts
-#EXTINF:-1, TAMIL MOVIES 3
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301495.ts
-#EXTINF:-1,TELUGU MOVIES 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301496.ts
-#EXTINF:-1,MALAYALAM MOVIES 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/301497.ts
 
-
-
-#EXTINF:-1,24*7 NETFLIX MOVIES 
-http://xtv.ooo:8080/live/03157485151R/03157485151R/248000.ts
-#EXTINF:-1,24*7 NETFLIX MOVIES 1
-http://xtv.ooo:8080/live/03157485151R/03157485151R/248001.ts
-#EXTINF:-1,24*7 NETFLIX MOVIES 2
-http://xtv.ooo:8080/live/03157485151R/03157485151R/248002.ts
-#EXTINF:-1,24*7 NETFLIX MOVIES 3
-http://xtv.ooo:8080/live/03157485151R/03157485151R/248003.ts
-#EXTINF:-1,24*7 NETFLIX MOVIES 4
-http://xtv.ooo:8080/live/03157485151R/03157485151R/248005.ts
-#EXTINF:-1,24*7 NETFLIX MOVIES 5
-http://xtv.ooo:8080/live/03157485151R/03157485151R/247998.ts
 
 
 
@@ -185,8 +155,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1,T-SERIES
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
 
 #EXTINF:-1,MTV BEATS 
 http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
@@ -197,18 +165,7 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 
-#EXTINF:-1,24*7 HINDI VIDEO SONGS 1
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270504.ts
-#EXTINF:-1,24*7 HINDI VIDEO SONGS 2
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270508.ts
-#EXTINF:-1, 24*7HINDI VIDEO SONGS 3
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270514.ts
-#EXTINF:-1,24*7HINDI VIDEO SONGS 4
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270515.ts
-#EXTINF:-1,24*7 HINDI VIDEO SONGS 5
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270516.ts
-#EXTINF:-1,24*7 HINDI VIDEO SONGS 6
-http://xtv.ooo:8080/live/03157485151R/03157485151R/270517.ts
+
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
@@ -297,7 +254,6 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,SPOTV 1
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
 
 
 
@@ -510,10 +466,7 @@ http://listen.radionomy.com/arrahman-radio
 https://hls.somafm.com/hls/gs-surround/program.m3u8
 
 
-#EXTINF:-1, POLIMER NEWS
-http://51.222.30.35:7688/1?type=http
-#EXTINF:-1,NEWS7
-http://51.222.30.35:7688/2?type=http
+
 
 
 
