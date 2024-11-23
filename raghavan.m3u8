@@ -32,7 +32,8 @@ http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B
 #EXTINF:-1, ZEE TAMIL 2
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-
+#EXTINF:-1,ZEE THIRAI 
+http://tv.cloudcdn.me/live.ts?channelId=78824&uid=15531&deviceMac=00:1A:79:09:2B:88
 
 
 
@@ -257,13 +258,33 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1, STAR SPORTS
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
-#EXTINF:-1, TEN SPORTS 
-http://109.61.81.147:2080/cdn2/510/video.m3u8?token=4444
-#EXTINF:-1, TEN SPORTS 1
-http://109.61.81.147:2080/cdn2/519/video.m3u8?token=4444
 
-  
+#EXTINF:-1, TNT SPORTS 
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 
+
+
+#EXTINF:-1,SONY SPORTS 3
+http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
+
+#EXTINF:-1,SONY SPORTS 3
+http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
+
+
+
+
+
+
+#EXTINF:-1, A SPORT 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1,PTV SPORTS 
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1, ARENA SPORTS 
+http://89.187.191.99:8080/arena1/index.m3u8
+
+#EXTINF:-1,TEN SPORTS 
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 
