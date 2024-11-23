@@ -256,7 +256,20 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 
+#EXTINF:-1, TNT SPORTS 
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+#EXTINF:-1, TNT SPORTS 
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 
+#EXTINF:-1, TNT SPORTS 
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1,SONY SPORTS 1
+http://109.61.81.147:2080/cdn2/4863/video.m3u8?token=4444
+#EXTINF:-1,SONY SPORTS 3
+http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
+
+#EXTINF:-1,SONY SPORTS 3
+http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
 
 
 
