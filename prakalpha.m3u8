@@ -32,7 +32,8 @@ http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B
 #EXTINF:-1, ZEE TAMIL 2
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-
+#EXTINF:-1,ZEE THIRAI 
+http://tv.cloudcdn.me/live.ts?channelId=78824&uid=15531&deviceMac=00:1A:79:09:2B:88
 
 
 
@@ -41,8 +42,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8
 #EXTINF:-1,KTV 
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-
-
+#EXTINF:-1, KALAIGNAR TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 
 
@@ -106,7 +107,12 @@ https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62
 
 #EXTINF:-1,SIVAN TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1,MAKKAL TV 
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
+
+#EXTINF:-1,MALAYALA MANORAMA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
 
 #EXTINF:-1,RASI COMEDY
@@ -125,12 +131,7 @@ http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 
 
-#EXTINF:-1,MAKKAL TV 
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-
-#EXTINF:-1,MALAYALA MANORAMA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
 
 
@@ -185,7 +186,8 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1, TRAVEL XP HD
 https://jmp2.uk/sam-IN300000210.m3u8
 
-
+#EXTINF:-1, HISTORY 18
+https://jmp2.uk/sam-IN1600008DN.m3u8
 
 
 
@@ -235,8 +237,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
-
-
+#EXTINF:-1,FIFA+
+https://jmp2.uk/sam-CABD1200008JG.m3u8
 
 
 #EXTINF:-1,TENNIS CHANNEL
@@ -254,17 +256,15 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,SPOTV 1
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-
-#EXTINF:-1, TNT SPORTS 
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+#EXTINF:-1, STAR SPORTS
+http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
+#EXTINF:-1, STAR SPORTS TAMIL 
+http://tv.cloudcdn.me/live.ts?channelId=89820&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1, TNT SPORTS 
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 
-#EXTINF:-1, TNT SPORTS 
-http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
-#EXTINF:-1,SONY SPORTS 1
-http://109.61.81.147:2080/cdn2/4863/video.m3u8?token=4444
+
+
 #EXTINF:-1,SONY SPORTS 3
 http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
 
@@ -272,6 +272,23 @@ http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
 http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
 
 
+
+
+#EXTINF:-1, A SPORTS 
+https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
+#EXTINF:-1, A SPORT 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1,PTV SPORTS 
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1, ARENA SPORTS 
+http://89.187.191.99:8080/arena1/index.m3u8
+
+#EXTINF:-1,TEN SPORTS 
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1, SOLH SPORTS 
+https://solhtvhls.wns.live/hls/stream.m3u8
 
 
 
