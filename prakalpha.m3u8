@@ -19,7 +19,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:
 #EXTINF:-1,STAR VIJAY 2
 http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8
 
-
+#EXTINF:-1, COLORS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 
 
