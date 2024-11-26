@@ -259,8 +259,6 @@ http://194.143.148.28:8080/MatchFutbol1/index.m3u8
 
 #EXTINF:-1,SKY SPORTS
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, SKY SPORTS
-http://128.0.104.56/live.ts?channelId=281&uid=7133&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1,FOX SPORTS 
 https://jmp2.uk/sam-US2700001QY.m3u8
 #EXTINF:-1, FOX SPORTS 
@@ -270,60 +268,48 @@ http://shacktv.com:8080/live/803comb/4159355/215.m3u8
 #EXTINF:-1, SPORTS GRID 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8
 
-#EXTINF:-1, ASTRO CRICKET 
-https://criccoder.pages.dev/astro.m3u8
+
 #EXTINF:-1,SUPER CRICKET 
 http://xtv.ooo:8080/live/Irfan99383/8888/167592.ts
-#EXTINF:-1, SUPER CRICKET 
-http://195.26.87.217/live.ts?channelId=125438&uid=3453&deviceMac=00:1A:79:11:10:28
+
 #EXTINF:-1, WILLOW CRICKET 
 http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:11:10:28
 #EXTINF:-1, WILLOW CRICKET 
 http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:11:10:28
 
-#EXTINF:-1, CRICBUZZ 
-http://195.26.87.217/live.ts?channelId=125423&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1, CRICBUZZ 
-http://195.26.87.217/live.ts?channelId=125421&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1,SPO TV
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+
 #EXTINF:-1,SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,SPOTV 1
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1, STAR SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2850.ts
-#EXTINF:-1, STAR SPORTS TAMIL 
-http://tv.cloudcdn.me/live.ts?channelId=89820&uid=15531&deviceMac=00:1A:79:09:2B:88
-#EXTINF:-1, TNT SPORTS 
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+T
+
 #EXTINF:-1,TNT SPORTS 
 http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
-#EXTINF:-1, TNT SPORTS 
+ #EXTINF:-1, TNT SPORTS 
 http://shacktv.com:8080/live/803comb/4159355/21818.m3u8
 
 #EXTINF:-1,TNT SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
 #EXTINF:-1,TNT SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
-
-#EXTINF:-1,SONY SPORTS 3
-http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
+#EXTINF:-1, TNT SPORTS 
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
 
 #EXTINF:-1,SONY SPORTS 3
 http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
 #EXTINF:-1, SONY TEN
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
-#EXTINF:-1, SONY TEN
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
+
 #EXTINF:-1, SPORTS 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1, A SPORT 
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1,PTV SPORTS 
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+
 #EXTINF:-1, ARENA SPORTS 
 http://89.187.191.99:8080/arena1/index.m3u8
 
@@ -335,8 +321,7 @@ https://solhtvhls.wns.live/hls/stream.m3u8
 
 
 
-#EXTINF:-1, FANCODE
-https://dai.fancode.com/primary/112344_english_hls_5928ta-no/index.m3u8
+
 
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
