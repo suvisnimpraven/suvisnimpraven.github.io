@@ -16,12 +16,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2
 
 #EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
 #EXTINF:-1,STAR VIJAY 2
-http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8
-#EXTINF:-1,STAR VIJAY 3
 https://fifabd.xyz/MAC/play.m3u8?id=66390
-#EXTINF:-1,COLORS TAMIL
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
+
 
 
 
@@ -257,8 +255,7 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1, FOOTBALL 
 http://194.143.148.28:8080/MatchFutbol1/index.m3u8
 
-#EXTINF:-1,TENNIS CHANNEL
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1,SKY SPORTS
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
@@ -272,8 +269,7 @@ http://shacktv.com:8080/live/803comb/4159355/216.m3u8
 http://shacktv.com:8080/live/803comb/4159355/215.m3u8
 #EXTINF:-1, SPORTS GRID 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8
-#EXTINF:-1,FOX CRICKET 
-https://allinonereborn.site/test/m3u.php?id=24016
+
 #EXTINF:-1, ASTRO CRICKET 
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1,SUPER CRICKET 
@@ -284,8 +280,7 @@ http://195.26.87.217/live.ts?channelId=125438&uid=3453&deviceMac=00:1A:79:11:10:
 http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:11:10:28
 #EXTINF:-1, WILLOW CRICKET 
 http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1, CRICBUZZ 
-http://195.26.87.217/live.ts?channelId=125422&uid=3453&deviceMac=00:1A:79:11:10:28
+
 #EXTINF:-1, CRICBUZZ 
 http://195.26.87.217/live.ts?channelId=125423&uid=3453&deviceMac=00:1A:79:11:10:28
 #EXTINF:-1, CRICBUZZ 
@@ -331,8 +326,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1, ARENA SPORTS 
 http://89.187.191.99:8080/arena1/index.m3u8
-#EXTINF:-1, TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 
 
 #EXTINF:-1, SOLH SPORTS 
