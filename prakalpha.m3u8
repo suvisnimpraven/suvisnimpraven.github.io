@@ -260,8 +260,7 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1, FOOTBALL 
 http://194.143.148.28:8080/MatchFutbol1/index.m3u8
 
-#EXTINF:-1,SKY SPORTS 
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+
 
 #EXTINF:-1,SKY SPORTS
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
@@ -323,13 +322,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://solhtvhls.wns.live/hls/stream.m3u8
 
 
-#EXTINF:-0,AMARAN HD
-http://rt-vod-load8.ssltv.net:9293/8be1228d28529b5ebfb5be3c20d44b2e7d68b251a8043772511b19c930969f8f1c33a1975f04da93dac8c02452894469a4505ae43d/index.m3u8?token=e2d39d19b5e8019fa562539d4f1bd62ce13189bb9706cd5c13e863e195fc0d5d0145c09f1b2965e8cb0e41d93f5bb66c0a4c64e8228065f78698d7577660497931224902e0aa-37c9fcf3f407a4859606a0e3efead0ac
 
-#EXTINF:-0,BROTHERS MOVIE HD
-http://rt-vod-load8.ssltv.net:9293/8be1228d28529b5ebfb5be3c20d44b2e7d68b251a8043772511b1ad63e909684402fa395591ec592d2c0807a28bc486da11219f97959/index.m3u8?token=6551d42a51eaaf99e8923a0cb05e06001492e304eea4700d190311daff828d63a7380754486ada0cdd700ab2c7066a0634e2911dec849d82ac7bab1f5440a89939e5297692e6-3beaf5916c1454428b7ded594735b417
-#EXTINF:-0, VETTAIYAN MOVIE HD
-http://rt-vod-load8.ssltv.net:9293/8be1228d28529b5ebfb5be3c20d44b2e7d68b251a8043772511b0ec125909f884b60ff8b591ad997ccc9803236980754a91319f97959/index.m3u8?token=0cacff848299d149877f7ffb5dfe186dd77598498a39cb0f6e7c2e95cd615e31dc1951da2536076f0a076f3893f9f5d51dccb4d0f23d56aed229aa939f294671cea9aaaf3df0-21b733c626eecdff755e7c733559595d
 
 
 
@@ -513,8 +506,7 @@ https://stream-148.zeno.fm/0ghtfp8ztm0uv
 http://stream-161.zeno.fm/87xam8pf7tzuv
 #EXTINF:-1, RADIO ASHA BHOSLE
 https://prclive1.listenon.in/
-#EXTINF:-1, RADIO CITY GHAZAL 
-https://stream.zeno.fm/bdpe99uzrf9uv
+
 #EXTINF:-1, RADIO BHAJAN 
 http://stream.radiosai.org:8000/
 #EXTINF:-1,RADIO SRI BAGAVATH
@@ -526,8 +518,7 @@ http://s3.yesstreaming.net:9000/
 https://s3.streamcaster.eu:8308/stream1
 #EXTINF:-1, RADIO EASY INSTRUMENTAL 
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-#EXTINF:-1, RADIO AR RAHMAN INSTRUMENTAL 
-http://listen.radionomy.com/arrahman-radio
+
 
 
 #EXTINF:-1,RADIO SURROUND MUSIC
