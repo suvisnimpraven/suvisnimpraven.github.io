@@ -117,16 +117,21 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1,RASI COMEDY
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI MOVIE
+#EXTINF:-1,RASI MOVIES
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
 #EXTINF:-1,RASI TAMIL
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI MUSIC
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+
 #EXTINF:-1,RASI CLASSIC
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1,RASI HOLLYWOOD
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+
+#EXTINF:-1,RASI TV
+https://tnm3u.in.net/channel/tamil.php?c=rasitv
+
+
+
 
 
 
@@ -299,8 +304,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.t
 #EXTINF:-1, TNT SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
 
-#EXTINF:-1,SONY SPORTS 3
-http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
+
 #EXTINF:-1, SONY TEN
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
 
@@ -310,8 +314,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1, ARENA SPORTS 
-http://89.187.191.99:8080/arena1/index.m3u8
+
 
 
 
