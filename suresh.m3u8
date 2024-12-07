@@ -1,23 +1,15 @@
 #EXTINF:-1,WILD EARTH 
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1,TEN SPORTS 
-http://stvlive.net:8080/tensports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ME TV
-http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR MOVIES SELECT HD
-http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1, MOVIES NOW 
 http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SUPER SPORTS FOOTBALL 
-http://stvlive.net:8080/sfootball/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T SPORTS 
-http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SPORTS 18
-http://stvlive.net:8080/sports18/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,PTV SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492421.ts
-#EXTINF:-1, STAR SPORTS 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492415.ts
+
 #EXTINF:-1,SS CRICKET 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492413.ts
 #EXTINF:-1, STAR SPORTS 
@@ -30,19 +22,55 @@ http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492412.ts
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492411.ts
 #EXTINF:-1,A SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492419.ts
-#EXTINF:-1,ASTRO CRICKET 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492414.ts
+
 #EXTINF:-1,ATN CRICKET 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492422.ts
 #EXTINF:-1,FOX SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492432.ts
 #EXTINF:-1,GEO SUPER 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492420.ts
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, ASTRO CRICKET 
+https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1,SONY SPORTS TEN
+http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
+#EXTINF:-1,SKY SPORTS 
+https://pulselink.my/live/3/chunks.m3u8?bongls.com
+#EXTINF:-1, SUPER SPORTS 
+https://nametopallsite.click/live/2/chunks.m3u8?bongls.com
+
+#EXTINF:-1, TRAVEL XP
+http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/592585.ts
+#EXTINF:-1,9 LIFE 
+http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605477.ts
+#EXTINF:-1, CHANNEL 9
+http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605451.ts
+#EXTINF:-1,9 RUSH
+http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605478.ts
+#EXTINF:-1, MUSEUM UHD
+http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/592565.ts
+#EXTINF:-1,RELAX TIME DUBAI UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1448301.ts
+#EXTINF:-1,RELAX TIME FRANCE UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1456226.ts
+#EXTINF:-1,RELAX TIME SPAIN UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1456227.ts
+#EXTINF:-1,RELAX TIME CHINA UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1448300.ts
+#EXTINF:-1,RELAX TIME BALI UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1448297.ts
+#EXTINF:-1,RELAX TIME NORWAY UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1448295.ts
+#EXTINF:-1,RELAX TIME BEACH UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1448305.ts
+#EXTINF:-1,RELAX TIME FOREST UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1444572.ts
+#EXTINF:-1,RELAX TIME JUNGLE UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1444570.ts
+#EXTINF:-1,RELAX TIME SAFARI UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1444571.ts
+#EXTINF:-1,RELAX TIME OCEAN UHD
+http://line.4k-beast.co:80/live/7F7C7A/353652/1444575.ts
+
 
 
 
