@@ -1,12 +1,18 @@
 #EXTINF:-1,WILD EARTH 
 https://wildearth-roku.amagi.tv/master.m3u8
-
+#EXTINF:-1,KTV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=3623&deviceMac=00:1A:79:03:ED:4F
+#EXTINF:-1,SUN MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1,COLORS TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 
 
 #EXTINF:-1, MOVIES NOW 
 http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1,RAJ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1,PTV SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492421.ts
 
@@ -48,49 +54,30 @@ http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605451.ts
 http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605478.ts
 #EXTINF:-1, MUSEUM UHD
 http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/592565.ts
-#EXTINF:-1,RELAX TIME DUBAI UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1448301.ts
-#EXTINF:-1,RELAX TIME FRANCE UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1456226.ts
-#EXTINF:-1,RELAX TIME SPAIN UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1456227.ts
-#EXTINF:-1,RELAX TIME CHINA UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1448300.ts
-#EXTINF:-1,RELAX TIME BALI UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1448297.ts
-#EXTINF:-1,RELAX TIME NORWAY UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1448295.ts
-#EXTINF:-1,RELAX TIME BEACH UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1448305.ts
-#EXTINF:-1,RELAX TIME FOREST UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1444572.ts
-#EXTINF:-1,RELAX TIME JUNGLE UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1444570.ts
-#EXTINF:-1,RELAX TIME SAFARI UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1444571.ts
-#EXTINF:-1,RELAX TIME OCEAN UHD
-http://line.4k-beast.co:80/live/7F7C7A/353652/1444575.ts
 
+#EXTINF:-1, SPORTS 18
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 
+#EXTINF:-1,STAR VIJAY
+http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3066.ts
 
+#EXTINF:-1,SUN TV
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3055.ts
+#EXTINF:-1,SUN NEWS
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2861.ts
+#EXTINF:-1,ZEE TAMIL HD
+http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
+#EXTINF:-1,BBC SONY EARTH TAMIL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373071&extension=ts
+#EXTINF:-1,SONY PIX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373072&extension=ts
+#EXTINF:-1,SONY MAX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373074&extension=ts
+#EXTINF:-1,SONY TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373075&extension=ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,BABY TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373053&extension=ts
 
 
 
