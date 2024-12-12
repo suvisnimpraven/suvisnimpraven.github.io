@@ -1,29 +1,24 @@
 
-
-
-
-#EXTINF:-,SUNTV
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
-
 #EXTINF:-1,SUN TV 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
-
-#EXTINF:-1,STARVIJAY
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
+#EXTINF:-1,SUNTV
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+#EXTINF:-1,STAR VIJAY 
+https://fifabd.xyz/MAC/play.m3u8?id=66390
 #EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1,STAR VIJAY 2
-https://fifabd.xyz/MAC/play.m3u8?id=66390
 
 
 
 
+#EXTINF:-1, COLOURS TAMIL 
+https://live.drmlive-02.workers.dev/jc/429.m3u8
 
+#EXTINF:-1,COLORS TAMIL 1
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1,ZEE TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 #EXTINF:-1,ZEE TAMIL 1
@@ -45,9 +40,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:
 #EXTINF:-1, KALAIGNAR TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-
-
-
+#EXTINF:-1,RAJ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:ED:4F
 
 
 
@@ -147,9 +141,10 @@ https://tnm3u.in.net/channel/tamil.php?c=rasitv
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
 #EXTINF:-1,COLORS CINEPLEX 
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
-
-
-#EXTINF:-1,ZEE CINEMA 
+#EXTINF:-1,COLORS HD
+http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
+#EXTINF:-1,SONY MAX HD
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8#EXTINF:-1,ZEE CINEMA 
 https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=2535
 #EXTINF:-1, SONY MOVIES 
 https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
@@ -159,8 +154,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4809&deviceMac=00:1A:79:C8:1A
 #EXTINF:-1,FLIM ZONE PLUS 
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/20025/index.m3u8
 
-
-
+#EXTINF:-1, HORROR EXTRA 
+http://92.114.85.81:8000/play/a01m/index.m3u8
 
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
@@ -177,10 +172,8 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1, HINDI HITS
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-
-
+#EXTINF:-1, HINDI MUSIC 
+https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Hindy-music.m3u8
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
@@ -203,15 +196,16 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1, TRAVEL XP HD
 https://jmp2.uk/sam-IN300000210.m3u8
 
+
 #EXTINF:-1, HISTORY 18
 https://jmp2.uk/sam-IN1600008DN.m3u8
 
 #EXTINF:-1, HISTORY 18
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
-
-
-
 #EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,REDBULL TV 1
 https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
 #EXTINF:-1,IN WILD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
@@ -281,8 +275,8 @@ http://xtv.ooo:8080/live/Irfan99383/8888/167592.ts
 http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:11:10:28
 #EXTINF:-1, WILLOW CRICKET 
 http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:11:10:28
-
-
+#EXTINF:-1, WILLOW CRICKET 
+http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
 
 #EXTINF:-1,SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -290,7 +284,8 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1, STAR SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2850.ts
-T
+#EXTINF:-1,STAR SPORTS TAMIL 
+http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3032.ts
 
 #EXTINF:-1,TNT SPORTS 
 http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
@@ -311,9 +306,8 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.t
 #EXTINF:-1, SPORTS 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-
-
-
+#EXTINF:-1, SPORTS 18
+http://port.yuvraj49.xyz/jc-sports-18-hd/video.m3u8?token=4dv7J9pr60BQ63
 
 
 
@@ -506,8 +500,7 @@ https://stream-148.zeno.fm/0ghtfp8ztm0uv
 http://stream-161.zeno.fm/87xam8pf7tzuv
 #EXTINF:-1, RADIO ASHA BHOSLE
 https://prclive1.listenon.in/
-#EXTINF:-1, RADIO CITY GHAZAL 
-https://stream.zeno.fm/bdpe99uzrf9uv
+
 #EXTINF:-1, RADIO BHAJAN 
 http://stream.radiosai.org:8000/
 #EXTINF:-1,RADIO SRI BAGAVATH
@@ -519,8 +512,7 @@ http://s3.yesstreaming.net:9000/
 https://s3.streamcaster.eu:8308/stream1
 #EXTINF:-1, RADIO EASY INSTRUMENTAL 
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-#EXTINF:-1, RADIO AR RAHMAN INSTRUMENTAL 
-http://listen.radionomy.com/arrahman-radio
+
 
 
 #EXTINF:-1,RADIO SURROUND MUSIC
