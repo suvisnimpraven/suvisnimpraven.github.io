@@ -1,23 +1,18 @@
 #EXTINF:-1,WILD EARTH 
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1,KTV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1,SUN MUSIC 
 http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1,COLORS TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 
 
-#EXTINF:-1, MOVIES NOW 
-http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,RAJ TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+
 #EXTINF:-1,PTV SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492421.ts
 
-#EXTINF:-1,SS CRICKET 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492413.ts
+
 #EXTINF:-1, STAR SPORTS 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492416.ts
 #EXTINF:-1, STAR SPORTS SELECT 
@@ -35,49 +30,30 @@ http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492422.ts
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492432.ts
 #EXTINF:-1,GEO SUPER 
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492420.ts
-#EXTINF:-1, ASTRO CRICKET 
-https://criccoder.pages.dev/astro.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 #EXTINF:-1,SKY SPORTS 
 https://pulselink.my/live/3/chunks.m3u8?bongls.com
-#EXTINF:-1, SUPER SPORTS 
+#EXTINF:-1, TNT SPORTS 
 https://nametopallsite.click/live/2/chunks.m3u8?bongls.com
 
-#EXTINF:-1, TRAVEL XP
-http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/592585.ts
-#EXTINF:-1,9 LIFE 
-http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605477.ts
-#EXTINF:-1, CHANNEL 9
-http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605451.ts
-#EXTINF:-1,9 RUSH
-http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/605478.ts
-#EXTINF:-1, MUSEUM UHD
-http://jmrk.xyz:3050/live/lornaheincy@gmail.com/ZiMpndk62a/592565.ts
+
+
+
 
 #EXTINF:-1, SPORTS 18
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 
-#EXTINF:-1,STAR VIJAY
-http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3066.ts
 
-#EXTINF:-1,SUN TV
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3055.ts
-#EXTINF:-1,SUN NEWS
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2861.ts
+
+
+
 #EXTINF:-1,ZEE TAMIL HD
 http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
-#EXTINF:-1,BBC SONY EARTH TAMIL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373071&extension=ts
-#EXTINF:-1,SONY PIX
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373072&extension=ts
-#EXTINF:-1,SONY MAX
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373074&extension=ts
-#EXTINF:-1,SONY TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373075&extension=ts
 
-#EXTINF:-1,BABY TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373053&extension=ts
+
+
 
 
 
