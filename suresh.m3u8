@@ -1,56 +1,103 @@
-#EXTINF:-1,WILD EARTH 
-https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1,SUN MUSIC 
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
-#EXTINF:-1,COLORS TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
-
-
-
-
-
-#EXTINF:-1,PTV SPORTS 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492421.ts
-
-
-#EXTINF:-1, STAR SPORTS 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492416.ts
-#EXTINF:-1, STAR SPORTS SELECT 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492417.ts
-#EXTINF:-1, WILLOW CRICKET 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492412.ts
-#EXTINF:-1, WILLOW CRICKET EXTRA 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492411.ts
-#EXTINF:-1,A SPORTS 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492419.ts
-
-#EXTINF:-1,ATN CRICKET 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492422.ts
-#EXTINF:-1,FOX SPORTS 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492432.ts
-#EXTINF:-1,GEO SUPER 
-http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492420.ts
-
-#EXTINF:-1,SONY SPORTS TEN
-http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
-#EXTINF:-1,SKY SPORTS 
-https://pulselink.my/live/3/chunks.m3u8?bongls.com
-#EXTINF:-1, TNT SPORTS 
-https://nametopallsite.click/live/2/chunks.m3u8?bongls.com
-
-
-
-
-
-#EXTINF:-1, SPORTS 18
-https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
-
-
-
-
-
+#EXTINF:-1,SUN TV
+https://tp.yg048.workers.dev/ch/521.m3u8
+#EXTINF:-1,T NEWS
+https://tp.yg048.workers.dev/ch/49.m3u8
+#EXTINF:-1,SUN LIFE
+https://tp.yg048.workers.dev/ch/474.m3u8
+#EXTINF:-1,STAR VIJAY 
+https://tp.yg048.workers.dev/ch/496.m3u8
 #EXTINF:-1,ZEE TAMIL HD
-http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
+https://tp.yg048.workers.dev/ch/608.m3u8
+#EXTINF:-1,ZEE TAMIL 
+https://tp.yg048.workers.dev/ch/257.m3u8
+#EXTINF:-1,COLORS TAMIL HD
+https://tp.yg048.workers.dev/ch/674.m3u8
+#EXTINF:-1,COLORS TAMIL 
+https://tp.yg048.workers.dev/ch/418.m3u8
+#EXTINF:-1, KALAIGNAR TV
+https://tp.yg048.workers.dev/ch/200.m3u8
+#EXTINF:-1,RAJ TV
+https://tp.yg048.workers.dev/ch/439.m3u8
+#EXTINF:-1,D TAMIL 
+https://tp.yg048.workers.dev/ch/99.m3u8
+#EXTINF:-1,RAJ DIGITAL PLUS
+https://tp.yg048.workers.dev/ch/426.m3u8
+#EXTINF:-1,MEGA TV
+https://tp.yg048.workers.dev/ch/37.m3u8
+#EXTINF:-1,SIRIPPOLI
+https://tp.yg048.workers.dev/ch/611.m3u8
+#EXTINF:-1, POLIMER TV
+https://tp.yg048.workers.dev/ch/272.m3u8
+#EXTINF:-1,MAKKAL TV
+https://tp.yg048.workers.dev/ch/392.m3u8
+#EXTINF:-1,VENDAR TV
+https://tp.yg048.workers.dev/ch/659.m3u8
+#EXTINF:-1,THANTHI ONE
+https://tp.yg048.workers.dev/ch/1322.m3u8
+#EXTINF:-1,KTV HD
+https://tp.yg048.workers.dev/ch/380.m3u8
+#EXTINF:-1,J MOVIES 
+https://tp.yg048.workers.dev/ch/201.m3u8
+#EXTINF:-1,ZEE THIRAI 
+https://tp.yg048.workers.dev/ch/797.m3u8
+#EXTINF:-1, TRAVEL XP TAMIL 
+https://tp.yg048.workers.dev/ch/444.m3u8
+#EXTINF:-1, PUTHIYA THAIMURAI
+https://tp.yg048.workers.dev/ch/220.m3u8
+#EXTINF:-1,THANTHI TV
+https://tp.yg048.workers.dev/ch/524.m3u8
+#EXTINF:-1,JAYA PLUS
+https://tp.yg048.workers.dev/ch/198.m3u8
+#EXTINF:-1, POLIMER NEWS
+https://tp.yg048.workers.dev/ch/509.m3u8
+#EXTINF:-1,NEWS 18 TAMIL 
+https://tp.yg048.workers.dev/ch/58.m3u8
+#EXTINF:-1,SEITHIGAL TV
+https://tp.yg048.workers.dev/ch/44.m3u8
+#EXTINF:-1,RAJ NEWS
+https://tp.yg048.workers.dev/ch/525.m3u8
+#EXTINF:-1,SATHIYAM TV
+https://tp.yg048.workers.dev/ch/455.m3u8
+#EXTINF:-1,MALAI MURASU NEWS
+https://tp.yg048.workers.dev/ch/391.m3u8
+#EXTINF:-1,NEWS J
+https://tp.yg048.workers.dev/ch/702.m3u8
+#EXTINF:-1,NEWS TAMIL 24*7
+https://tp.yg048.workers.dev/ch/968.m3u8
+#EXTINF:-1, TAMIL JANAM
+https://tp.yg048.workers.dev/ch/1317.m3u8
+#EXTINF:-1,JAYA MAX
+https://tp.yg048.workers.dev/ch/199.m3u8
+#EXTINF:-1,RAJ MUSIC 
+https://tp.yg048.workers.dev/ch/425.m3u8
+#EXTINF:-1,ISAI ARUVI
+https://tp.yg048.workers.dev/ch/647.m3u8
+#EXTINF:-1,MURASU TV
+https://tp.yg048.workers.dev/ch/411.m3u8
+#EXTINF:-1,MEGA MUSIC 
+https://tp.yg048.workers.dev/ch/400.m3u8
+#EXTINF:-1,JOTHI TV
+https://tp.yg048.workers.dev/ch/434.m3u8
+#EXTINF:-1,MADHA TV
+https://tp.yg048.workers.dev/ch/390.m3u8
+#EXTINF:-1, NAMBIKAI TV
+https://tp.yg048.workers.dev/ch/408.m3u8
+#EXTINF:-1,DD TAMIL 
+https://tp.yg048.workers.dev/ch/334.m3u8
+#EXTINF:-1,PEPPERS TV
+https://tp.yg048.workers.dev/ch/421.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
