@@ -90,6 +90,10 @@ http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 #EXTINF:-1,RASI TV
 https://tnm3u.in.net/channel/tamil.php?c=rasitv
+#EXTINF:-1,ONE HOLLYWOOD HD
+https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
+#EXTINF:-1,ONE MOVIES HD
+https://stream.onecloudlive.in/onetv/onemovies/index.m3u8
 
 #EXTINF:-1, SUN LIFE 
 http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -421,15 +425,13 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 
 #EXTINF:-1,SKY SPORTS
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,SKY SPORTS 
-https://pulselink.my/live/3/chunks.m3u8?bongls.com
+
 #EXTINF:-1,FOX SPORTS 
 https://jmp2.uk/sam-US2700001QY.m3u8
 
 
 
-#EXTINF:-1, SPORTS GRID 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8
+
 
 
 #EXTINF:-1,SUPER CRICKET 
@@ -447,13 +449,7 @@ http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
 
 #EXTINF:-1, STAR SPORTS 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2850.ts
-#EXTINF:-1,STAR SPORTS TAMIL 
-http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3032.ts
 
-
-
-#EXTINF:-1,TNT SPORTS 
-http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
  
 
 #EXTINF:-1,TNT SPORTS 
