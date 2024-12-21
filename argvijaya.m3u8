@@ -1,118 +1,81 @@
-
 #EXTINF:-1,SUN TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SUN TV 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 
-#EXTINF:-1,SUNTV 1
+#EXTINF:-1,SUNTV 2
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-#EXTINF:-1,STAR VIJAY 
-https://fifabd.xyz/MAC/play.m3u8?id=66390
+#EXTINF:-1,SUN TV BK
+http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SUN TV UK
+http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, STAR VIJAY 
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,STAR VIJAY 1
+https://fifabd.xyz/MAC/play.m3u8?id=66390
+#EXTINF:-1,STAR VIJAY 2
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1, STAR VIJAY BK
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-
-
-
-
-#EXTINF:-1, COLOURS TAMIL 
+#EXTINF:-1, STAR VIJAY SUPER HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, COLORS TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, COLOURS TAMIL 1
 https://live.drmlive-02.workers.dev/jc/429.m3u8
-#EXTINF:-1,COLORS TAMIL 1
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1,COLORS TAMIL 2
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1,COLORS TAMIL 3
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1,ZEE TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,ZEE TAMIL 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1,ZEE TAMIL 2
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 
-#EXTINF:-1, ZEE TAMIL 2
+#EXTINF:-1, ZEE TAMIL 3
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-#EXTINF:-1,ZEE TAMIL 3
+#EXTINF:-1,ZEE TAMIL 4
 http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
-
+#EXTINF:-1,ZEE TAMIL HD BK
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,ZEE THIRAI 
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,ZEE THIRAI 1
 http://tv.cloudcdn.me/live.ts?channelId=78824&uid=15531&deviceMac=00:1A:79:09:2B:88
-
-
-
-
-
 #EXTINF:-1,KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,KTV 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-
-#EXTINF:-1, KALAIGNAR TV
+#EXTINF:-1,KTV UK
+http://tv.cloudcdn.me:80/live.ts?channelId=89824&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, KALAIGNAR TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43520&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, KALAIGNAR TV 1
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-
+#EXTINF:-1,JAYA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,JAYA PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=85932&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,JAYA MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,JAYA MOVIES 
+http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,RAJ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,RAJ TV 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:ED:4F
-
-#EXTINF:-1,SUN MUSIC 
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
-
-
-#EXTINF:-1,ISAI ARUVI
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-
-
-
-
-#EXTINF:-1,SIRIPOLLI TV 
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1,MURASU TV
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,THANTHI ONE TV
-https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-
-
-#EXTINF:-1,ZEE NEWS 
-https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
-#EXTINF:-1,NEWS 7 TV
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:-1,NEWS 7 TV 1 TV1http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-
-
-
-
-
-#EXTINF:-1,POLIMER NEWS 
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-
-#EXTINF:-1,PUTHIYATHAIMURAI 
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1, PUTHIYATHAIMURAI 1
-https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
-#EXTINF:-1,THANTHI TV
-https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
-
-
-#EXTINF:-1,SIVAN TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1,MAKKAL TV 
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-
-
-#EXTINF:-1,MALAYALA MANORAMA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-
-
+#EXTINF:-1,RAJ DIGITAL PLUS 
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,VASANTH TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89835&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,VENDAR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,VIKATAN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=123917&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,RASI COMEDY
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 #EXTINF:-1,RASI MOVIES
@@ -127,6 +90,166 @@ http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 #EXTINF:-1,RASI TV
 https://tnm3u.in.net/channel/tamil.php?c=rasitv
+#EXTINF:-1,ONE HOLLYWOOD HD
+https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
+#EXTINF:-1,ONE MOVIES HD
+https://stream.onecloudlive.in/onetv/onemovies/index.m3u8
+
+#EXTINF:-1, SUN LIFE 
+http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, ADITHYA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1,SUN MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SUN MUSIC 1
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1,ISAI ARUVI 
+http://tv.cloudcdn.me:80/live.ts?channelId=43522&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,ISAI ARUVI 1
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1,RAJ MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,MK MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=89881&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, SIRIPPOLI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SIRIPOLLI TV 1
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1,MURASU TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89838&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,MURASU TV 1
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1, POLIMER TV
+http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,PEPPERS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,PUTHUYUGAM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89836&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,MAKKAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89839&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,MAKKAL TV 1
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1,THANTHI TV
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
+#EXTINF:-1,THANTHI ONE TV
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1,DD POTHIGAI 
+http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,ZEE NEWS 
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1,RAJ NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=85935&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1,NEWS 7 TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NEWS 7 TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+#EXTINF:-1,NEWS 7 TV 1 TV1http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+
+#EXTINF:-1,NEWS 18 TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, POLIMER NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=43515&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,POLIMER NEWS 1
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1, SEITHIGAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1,PUTHIYATHAIMURAI 
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1, PUTHIYATHAIMURAI 1
+https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
+#EXTINF:-1, PUTHIYA THAIMURAI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, JOTHI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89883&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SIVAN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89857&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SIVAN TV 1
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1,SAI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43519&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SVBC 1
+http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SVBC 2
+http://tv.cloudcdn.me:80/live.ts?channelId=132357&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SVBC 3
+http://tv.cloudcdn.me:80/live.ts?channelId=132358&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SVBC4
+http://tv.cloudcdn.me:80/live.ts?channelId=132359&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,IBC BHAKTHI TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=132205&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,IBC TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89821&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,3 TAMIL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89859&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,AASTHA TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89866&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,ATHAVAN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89837&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1, CHITHRAM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,MK TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89846&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, SATHIYAM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89841&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, TAMIL ONE HD
+http://tv.cloudcdn.me:80/live.ts?channelId=89882&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,TUNES 6
+http://tv.cloudcdn.me:80/live.ts?channelId=89843&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1,VAANAVIL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89871&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1, MOON TV
+http://tv.cloudcdn.me:80/live.ts?channelId=132362&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,DHEERAN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43514&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SWASTHI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89861&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,CHUTTI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NICK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89850&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,POGO TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89849&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, SONIC TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89864&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, TAMIL TOON TV
+http://tv.cloudcdn.me:80/live.ts?channelId=132371&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, ANIMAL PLANET TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=89826&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, DISCOVER CHANNEL TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43516&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1, HISTORY TV 18 TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89842&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1, TRAVEL XP TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89862&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,STAR SPORTS TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=89820&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SONY TV
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72146.ts
+#EXTINF:-1,& PICTURES HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/808790.ts
+#EXTINF:-1,& PICTURES HD 1
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72165.ts
+#EXTINF:-1,&FLIX HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/808789.ts
+#EXTINF:-1,&TV HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72166.ts
+#EXTINF:-1,STAR GOLD HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510292.ts
+
+#EXTINF:-1,CINE ACTIVE 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72213.ts
+#EXTINF:-1,B FLIX
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72171.ts
+
 
 
 
@@ -142,14 +265,41 @@ https://tnm3u.in.net/channel/tamil.php?c=rasitv
 
 
 #EXTINF:-1,B4U MOVIES 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020717.ts
+#EXTINF:-1,B4U MOVIES 1
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72155.ts
+
+#EXTINF:-1,B4U MOVIES 2
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
-#EXTINF:-1,COLORS CINEPLEX 
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
-#EXTINF:-1,COLORS HD
-http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
-#EXTINF:-1,SONY MAX HD
-http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8#EXTINF:-1,ZEE CINEMA 
-https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=2535
+
+#EXTINF:-1,COLORS HD 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/808857.ts
+#EXTINF:-1,SONY MAX 
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+#EXTINF:-1,SONY MAX 1
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020707.ts
+#EXTINF:-1,SONY MAX 2
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020709.ts
+#EXTINF:-1,SONY MAX  SERVER 2
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020708.ts
+#EXTINF:-1,SONY WAH
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72152.ts
+#EXTINF:-1,SONY PIX
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72148.ts
+#EXTINF:-1,SONY AATH
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/78972.ts
+#EXTINF:-1,SONY PAL
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72151.ts
+#EXTINF:-1,ZEE TV HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72135.ts
+
+#EXTINF:-1,ZEE CINEMA 
+http://opplex.tv:8080/live/315587154/331264554/206271.ts
+
+#EXTINF:-1,ZEE CINEMA 1
+http://opplex.tv:8080/live/315587154/331264554/206307.ts
+#EXTINF:-1,ZEE BOLLYWOOD 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/694135.ts
 #EXTINF:-1, SONY MOVIES 
 https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR MOVIES 
@@ -171,13 +321,25 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
 #EXTINF:-1,MTV
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
+#EXTINF:-1,MTV 1
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510261.ts
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1,9X JALWA 1 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72157.ts
+#EXTINF:-1,9X MUSIC 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510286.ts
 
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1, HINDI MUSIC 
 https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Hindy-music.m3u8
+#EXTINF:-1,SHEMAROO TV
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020236.ts
+#EXTINF:-1,DHOOM MUSIC 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/78953.ts
+#EXTINF:-1,SHOW BOX
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510230.ts
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
