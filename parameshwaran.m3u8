@@ -1,107 +1,18 @@
-#EXTINF:-1,SUN TV
-https://tp.yg048.workers.dev/ch/521.m3u8
-#EXTINF:-1,T NEWS
-https://tp.yg048.workers.dev/ch/49.m3u8
-#EXTINF:-1,SUN LIFE
-https://tp.yg048.workers.dev/ch/474.m3u8
-#EXTINF:-1,STAR VIJAY 
-https://tp.yg048.workers.dev/ch/496.m3u8
-#EXTINF:-1,ZEE TAMIL HD
-https://tp.yg048.workers.dev/ch/608.m3u8
-#EXTINF:-1,ZEE TAMIL 
-https://tp.yg048.workers.dev/ch/257.m3u8
-#EXTINF:-1,COLORS TAMIL HD
-https://tp.yg048.workers.dev/ch/674.m3u8
-#EXTINF:-1,COLORS TAMIL 
-https://tp.yg048.workers.dev/ch/418.m3u8
-#EXTINF:-1, KALAIGNAR TV
-https://tp.yg048.workers.dev/ch/200.m3u8
-#EXTINF:-1,RAJ TV
-https://tp.yg048.workers.dev/ch/439.m3u8
-#EXTINF:-1,D TAMIL 
-https://tp.yg048.workers.dev/ch/99.m3u8
-#EXTINF:-1,RAJ DIGITAL PLUS
-https://tp.yg048.workers.dev/ch/426.m3u8
-#EXTINF:-1,MEGA TV
-https://tp.yg048.workers.dev/ch/37.m3u8
-#EXTINF:-1,SIRIPPOLI
-https://tp.yg048.workers.dev/ch/611.m3u8
-#EXTINF:-1, POLIMER TV
-https://tp.yg048.workers.dev/ch/272.m3u8
-#EXTINF:-1,MAKKAL TV
-https://tp.yg048.workers.dev/ch/392.m3u8
-#EXTINF:-1,VENDAR TV
-https://tp.yg048.workers.dev/ch/659.m3u8
-#EXTINF:-1,THANTHI ONE
-https://tp.yg048.workers.dev/ch/1322.m3u8
-#EXTINF:-1,KTV HD
-https://tp.yg048.workers.dev/ch/380.m3u8
-#EXTINF:-1,J MOVIES 
-https://tp.yg048.workers.dev/ch/201.m3u8
-#EXTINF:-1,ZEE THIRAI 
-https://tp.yg048.workers.dev/ch/797.m3u8
-#EXTINF:-1, TRAVEL XP TAMIL 
-https://tp.yg048.workers.dev/ch/444.m3u8
-#EXTINF:-1, PUTHIYA THAIMURAI
-https://tp.yg048.workers.dev/ch/220.m3u8
-#EXTINF:-1,THANTHI TV
-https://tp.yg048.workers.dev/ch/524.m3u8
-#EXTINF:-1,JAYA PLUS
-https://tp.yg048.workers.dev/ch/198.m3u8
-#EXTINF:-1, POLIMER NEWS
-https://tp.yg048.workers.dev/ch/509.m3u8
-#EXTINF:-1,NEWS 18 TAMIL 
-https://tp.yg048.workers.dev/ch/58.m3u8
-#EXTINF:-1,SEITHIGAL TV
-https://tp.yg048.workers.dev/ch/44.m3u8
-#EXTINF:-1,RAJ NEWS
-https://tp.yg048.workers.dev/ch/525.m3u8
-#EXTINF:-1,SATHIYAM TV
-https://tp.yg048.workers.dev/ch/455.m3u8
-#EXTINF:-1,MALAI MURASU NEWS
-https://tp.yg048.workers.dev/ch/391.m3u8
-#EXTINF:-1,NEWS J
-https://tp.yg048.workers.dev/ch/702.m3u8
-#EXTINF:-1,NEWS TAMIL 24*7
-https://tp.yg048.workers.dev/ch/968.m3u8
-#EXTINF:-1, TAMIL JANAM
-https://tp.yg048.workers.dev/ch/1317.m3u8
-#EXTINF:-1,JAYA MAX
-https://tp.yg048.workers.dev/ch/199.m3u8
-#EXTINF:-1,RAJ MUSIC 
-https://tp.yg048.workers.dev/ch/425.m3u8
-#EXTINF:-1,ISAI ARUVI
-https://tp.yg048.workers.dev/ch/647.m3u8
-#EXTINF:-1,MURASU TV
-https://tp.yg048.workers.dev/ch/411.m3u8
-#EXTINF:-1,MEGA MUSIC 
-https://tp.yg048.workers.dev/ch/400.m3u8
-#EXTINF:-1,JOTHI TV
-https://tp.yg048.workers.dev/ch/434.m3u8
-#EXTINF:-1,MADHA TV
-https://tp.yg048.workers.dev/ch/390.m3u8
-#EXTINF:-1, NAMBIKAI TV
-https://tp.yg048.workers.dev/ch/408.m3u8
-#EXTINF:-1,DD TAMIL 
-https://tp.yg048.workers.dev/ch/334.m3u8
-#EXTINF:-1,PEPPERS TV
-https://tp.yg048.workers.dev/ch/421.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)",ABC
+https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)",A&E
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)",AMC
+https://xyzdddd.mizhls.ru/lb/premium303/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)",Animal Planet
+https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-name="AXS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA (DADDY LIVE)",AXS TV
+https://xyzdddd.mizhls.ru/lb/premium742/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)",ABCNY
+https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA (DADDY LIVE)",Boomerang
+https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="USA (DADDY LIVE)",BBC America (BBCA)
+https://xyzdddd.mizhls.ru/lb/premium305/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="https://raw.githubusercont
