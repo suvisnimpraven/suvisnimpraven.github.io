@@ -40,6 +40,8 @@ http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 #EXTINF:-1,ZEE TAMIL 4
 http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
+#EXTINF:-1,ZEE TAMIL 5
+http://watchindia.net:8880/live/55901/63571/887.m3u8
 #EXTINF:-1,ZEE TAMIL HD BK
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,ZEE THIRAI 
