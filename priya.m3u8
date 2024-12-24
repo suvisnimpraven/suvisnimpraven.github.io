@@ -172,14 +172,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89857&uid=12643&deviceMac=00:1A:79:03
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,SAI TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43519&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SVBC 1
-http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SVBC 2
+
+#EXTINF:-1,SVBC 
 http://tv.cloudcdn.me:80/live.ts?channelId=132357&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SVBC 3
-http://tv.cloudcdn.me:80/live.ts?channelId=132358&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SVBC4
-http://tv.cloudcdn.me:80/live.ts?channelId=132359&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1,IBC BHAKTHI TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=132205&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,IBC TAMIL 
