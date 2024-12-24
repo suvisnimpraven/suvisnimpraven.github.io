@@ -308,6 +308,28 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1,NETFLIX MOVIES 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128495&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=128496&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 3 
+http://tv.cloudcdn.me:80/live.ts?channelId=128497&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1,NETFLIX MOVIES 4 
+http://tv.cloudcdn.me:80/live.ts?channelId=128498&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 5 
+http://tv.cloudcdn.me:80/live.ts?channelId=128499&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 6
+http://tv.cloudcdn.me:80/live.ts?channelId=128500&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 7 
+http://tv.cloudcdn.me:80/live.ts?channelId=128501&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 8 
+http://tv.cloudcdn.me:80/live.ts?channelId=128502&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 9
+http://tv.cloudcdn.me:80/live.ts?channelId=128503&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,NETFLIX MOVIES 10
+http://tv.cloudcdn.me:80/live.ts?channelId=128504&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 #EXTINF:-1,MTV BEATS 
 http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
