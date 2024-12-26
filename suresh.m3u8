@@ -29,6 +29,8 @@ https://live.drmlive-02.workers.dev/jc/429.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1,COLORS TAMIL 2
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1, ZEE TAMIL CHROME 
+https://drmlive.in/zee5/play.php?id=0-9-zeetamil
 #EXTINF:-1,ZEE TAMIL HD 
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,ZEE TAMIL 
