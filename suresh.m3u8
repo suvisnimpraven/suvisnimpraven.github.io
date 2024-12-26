@@ -308,7 +308,8 @@ http://92.114.85.81:8000/play/a01m/index.m3u8
 
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-
+#EXTINF:-1,YOUNG HOLLYWOOD 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,NETFLIX MOVIES 1
