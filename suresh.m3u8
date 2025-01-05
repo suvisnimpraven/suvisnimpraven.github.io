@@ -12,10 +12,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=12643&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,STARVIJAY
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-#EXTINF:-1, STAR VIJAY 1
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1,STAR VIJAY 2
+
+#EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
 #EXTINF:-1, STAR VIJAY BK
