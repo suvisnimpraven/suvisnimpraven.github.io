@@ -14,3 +14,6 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/media.m3u8
 #EXTINF:-0, KAAVYA 1
 https://drive.usercontent.google.com/download?id=1xwZ8yVcrJt4ebbObWaeE6N4A-NLwu7vD
 &export=download&confirm=t&uuid=1_mgy6Nfa5FakeVvldu_llfjzB9zm61ro
+#EXTINF:-0, KAAVYA 2
+https://drive.usercontent.google.com/download?id=1_mgy6Nfa5FakeVvldu_llfjzB9zm61ro
+&export=download&confirm=t&uuid=1xwZ8yVcrJt4ebbObWaeE6N4A-NLwu7vD
