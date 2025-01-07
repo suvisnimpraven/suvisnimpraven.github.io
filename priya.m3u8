@@ -26,9 +26,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, COLOURS TAMIL 
 https://live.drmlive-02.workers.dev/jc/429.m3u8
+#EXTINF:-1, ZEE TAMIL 1
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,ZEE TAMIL 2
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510445.ts
+#EXTINF:-1,ZEE TAMIL 3
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1,ZEE TAMIL 4
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-
-#EXTINF:-1, ZEE TAMIL 
+#EXTINF:-1, ZEE TAMIL 5
 http://extraott.com:900//live/3586573392/7591141273/355372.ts
 
 #EXTINF:-1,ZEE THIRAI 
