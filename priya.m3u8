@@ -16,34 +16,24 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2
 
 #EXTINF:-1,STAR VIJAY 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-#EXTINF:-1, STAR VIJAY BK
+
+#EXTINF:-1, STAR VIJAY SUPER
 http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1, STAR VIJAY SUPER HD
+#EXTINF:-1, STAR VIJAY SUPER 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, COLORS TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1, COLOURS TAMIL 1
+#EXTINF:-1, COLOURS TAMIL 
 https://live.drmlive-02.workers.dev/jc/429.m3u8
-#EXTINF:-1,COLORS TAMIL 2
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
-#EXTINF:-1,COLORS TAMIL 3
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
+
 
 #EXTINF:-1, ZEE TAMIL 
 http://extraott.com:900//live/3586573392/7591141273/355372.ts
-#EXTINF:-1,ZEE TAMIL 1
-http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:-1, ZEE TAMIL 2
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1, ZEE TAMIL 3
-http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/63492
-
 
 #EXTINF:-1,ZEE THIRAI 
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ZEE THIRAI 1
-http://tv.cloudcdn.me/live.ts?channelId=78824&uid=15531&deviceMac=00:1A:79:09:2B:88
+
 #EXTINF:-1,KTV 
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,KTV 1
@@ -60,7 +50,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=85932&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,JAYA MAX
 http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,JAYA MOVIES 
+#EXTINF:-1,J MOVIES 
 http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,RAJ TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -76,22 +66,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=123917&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,RASI COMEDY
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI MOVIES
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI TAMIL
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+
+
 
 #EXTINF:-1,RASI CLASSIC
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1,RASI HOLLYWOOD
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
-#EXTINF:-1,RASI TV
-https://tnm3u.in.net/channel/tamil.php?c=rasitv
-#EXTINF:-1,ONE HOLLYWOOD HD
-https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
-#EXTINF:-1,ONE MOVIES HD
-https://stream.onecloudlive.in/onetv/onemovies/index.m3u8
+
 
 #EXTINF:-1, SUN LIFE 
 http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -126,8 +109,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=89836&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,MAKKAL TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89839&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,MAKKAL TV 1
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
 
 #EXTINF:-1,THANTHI TV
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
@@ -160,10 +142,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=12643&deviceMac=00:1A:79:03
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1, PUTHIYATHAIMURAI 1
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
-#EXTINF:-1, PUTHIYA THAIMURAI TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1, JOTHI TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89883&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1,SIVAN TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89857&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,SIVAN TV 1
@@ -182,8 +164,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89821&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=89859&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,AASTHA TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=89866&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ATHAVAN TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89837&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 #EXTINF:-1, CHITHRAM TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -193,14 +174,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89846&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=89841&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, TAMIL ONE HD
 http://tv.cloudcdn.me:80/live.ts?channelId=89882&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TUNES 6
-http://tv.cloudcdn.me:80/live.ts?channelId=89843&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1,VAANAVIL TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89871&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1, MOON TV
-http://tv.cloudcdn.me:80/live.ts?channelId=132362&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+
+
 #EXTINF:-1,DHEERAN TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43514&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,SWASTHI TV
@@ -213,8 +191,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89850&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=89849&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, SONIC TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=89864&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1, TAMIL TOON TV
-http://tv.cloudcdn.me:80/live.ts?channelId=132371&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1, ANIMAL PLANET TAMIL
 http://tv.cloudcdn.me:80/live.ts?channelId=89826&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, DISCOVER CHANNEL TAMIL 
@@ -224,8 +201,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43516&uid=12643&deviceMac=00:1A:79:03
 http://tv.cloudcdn.me:80/live.ts?channelId=89842&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, TRAVEL XP TAMIL 
 http://tv.cloudcdn.me:80/live.ts?channelId=89862&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=89820&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1,SONY TV
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72146.ts
 #EXTINF:-1,& PICTURES HD
@@ -298,6 +274,8 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/694135.ts
 https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR MOVIES 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+#EXTINF:-1,ROMEDY NOW
+http://tv.cloudcdn.me:80/live.ts?channelId=107581&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1,FLIM ZONE PLUS 
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/20025/index.m3u8
@@ -358,9 +336,11 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1,BBC EARTH 
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-
+#EXTINF:-1,TRAVEL XP ENGLISH 
+http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1, TRAVEL XP HD
 https://jmp2.uk/sam-IN300000210.m3u8
+
 
 
 #EXTINF:-1, HISTORY 18
@@ -494,85 +474,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=12643&deviceMac=00:1A:79:03
 #EXTINF:-1,SKY SPORTS F1
 http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,SKY SPORTS FOOTBALL 
-http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS GOLF 
-http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS MIX 
-http://tv.cloudcdn.me:80/live.ts?channelId=32489&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 5
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 1
-http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=132373&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=132374&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-
-#EXTINF:-1,STAR SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS SELECT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS SELECT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STARZPLAY CRICLIFE 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STARZPLAY CRICLIFE 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-#EXTINF:-1,T SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 3
-http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-#EXTINF:-1,TSN 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 4
-http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 5 
-http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TEN CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TEN SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TENNIS CHANNEL 
-http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,VISION SPORTS TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=132401&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-#EXTINF:-1,WILLOW CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WILLOW CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WILLOW XTRA 
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=12643&deviceMac=00:1A:79:03:13:DE
-
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=12643&deviceMac=00:1A:79
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
 #EXTINF:-1,FIFA+
