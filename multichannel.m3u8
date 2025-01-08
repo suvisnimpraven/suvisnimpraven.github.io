@@ -28,64 +28,35 @@ https://baskardo.vip/TSER247/index.m3u8
 https://baskardo.vip/zecVOD24/7/index.m3u8
 #EXTINF:-1,ONLY MUSIC 
 http://tv.cloudcdn.me:80/live.ts?channelId=61898&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1,ZEE TAMIL 
+#EXTINF:-0,ZEE TAMIL 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155876&extension=ts
 
-#EXTINF:-1,ZEE TAMIL 
+#EXTINF:-0,ZEE TAMIL 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155901&extension=ts
 
 
-#EXTINF:-1,ZEE THIRAI
+#EXTINF:-0,ZEE THIRAI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1526440&extension=ts
-#EXTINF:-1,ZEE THIRAI 
+#EXTINF:-0,ZEE THIRAI 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155912&extension=ts
 
-#EXTINF:-1,TRAVEL XP TAMIL 
+#EXTINF:-0,TRAVEL XP TAMIL 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=281863&extension=ts
-#EXTINF:-1,TRAVEL XP 
+#EXTINF:-0,TRAVEL XP 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=97100&extension=ts
-#EXTINF:-1,LOVE NATURE UHD 
+#EXTINF:-0,LOVE NATURE UHD 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1471386&extension=ts
-#EXTINF:-1,MUSEUM UHD
+#EXTINF:-0,MUSEUM UHD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1632124&extension=ts
-#EXTINF:-1,RELAX AUSTRALIA
+#EXTINF:-0,RELAX AUSTRALIA
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1502985&extension=ts
 
 
 
-#EXTINF:-1,RELAX EARTH NATURE
+#EXTINF:-0,RELAX EARTH NATURE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1502986&extension=ts
 
 
-#EXTINF:-1,SUN MUSIC 
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=155881&extension=ts
-#EXTINF:-1,SUN NEWS TAMIL
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=155890&extension=ts
-#EXTINF:-1,SUN TV 
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=155880&extension=ts
-#EXTINF:-1,SVBC
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=281904&extension=ts
-#EXTINF:-1,SVBC
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=281905&extension=ts
-#EXTINF:-1,ZEE THIRAI 
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=1526440&extension=ts
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
 
 
 
@@ -110,12 +81,7 @@ http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=1526440&e
 
 
 
-#EXTINF:-1,SUN TV 
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=155880&extension=ts&play_token=yetXVWmfev
-#EXTINF:-1,SVBC
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=281904&extension=ts&play_token=zJfdUOIG7Q
-#EXTINF:-1,SVBC
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:64:db:13&stream=281905&extension=ts&play_token=qPbx6K8gHU
+
 
 
 
