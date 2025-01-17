@@ -36,25 +36,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03
 
 #EXTINF:-1,ZEE TAMIL 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1,ZEE TAMIL 2
-http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1, ZEE TAMIL 3
+
+#EXTINF:-1, ZEE TAMIL 2
 http://extraott.com:900//live/3586573392/7591141273/355372.ts
-#EXTINF:-1, ZEE TAMIL 4
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4166&deviceMac=00:1A:79:F3:9F:F5
-#EXTINF:-1,ZEE TAMIL 5
-http://starshare.live/live/jonyahmedjoy/8706543/98897.ts
-#EXTINF:-1,ZEE TAMIL 6
-http://starshare.live/live/jonyahmedjoy/8706543/9971.ts
-#EXTINF:-1,ZEE TAMIL 7
-http://starshare.live/live/jonyahmedjoy/8706543/5930.ts
-#EXTINF:-1,ZEE TAMIL 8
-http://starshare.live/live/jonyahmedjoy/8706543/225.ts
-#EXTINF:-1,ZEE TAMIL 9
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-#EXTINF:-1,ZEE TAMIL 10
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4966&deviceMac=00:1A:79:5E:84:87
+
 #EXTINF:-1,ZEE THIRAI 
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=12643&deviceMac=00:1A:79:03:13:DE
 
