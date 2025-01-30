@@ -1,31 +1,37 @@
 #EXTINF:-1,SUN TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12643&deviceMac=00:1A:79:03:13:DE
+http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=4309&deviceMac=00:1A:79:96:06:4F
 #EXTINF:-1,SUN TV 1
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-
-
-#EXTINF:-1,SUNTV 2
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-#EXTINF:-1,SUN TV BK
 http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SUN TV UK
+#EXTINF:-1,SUN TV 2
 http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,STARVIJAY
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
-
-#EXTINF:-1,STAR VIJAY 1
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
-
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,STARVIJAY 1
+http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63494
+#EXTINF:-1,STARVIJAY 2
+http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3066.ts
+#EXTINF:-1,STARVIJAY 3
+http://extraott.com:900//live/3586573392/7591141273/187272.ts
+#EXTINF:-1,STARVIJAY 4
+http://starshare.live:8080/16003/16003/98898
+#EXTINF:-1,STARVIJAY 5
+http://starshare.live:8080/16003/16003/9969
 #EXTINF:-1, STAR VIJAY SUPER
 http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1, STAR VIJAY SUPER 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1, COLORS TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1, COLOURS TAMIL 
 https://live.drmlive-02.workers.dev/jc/429.m3u8
+#EXTINF:-1, COLOURS TAMIL 1
+http://zamlb.co.uk:80/play/FkxVplE8D9Im76zYdEW-I1g1qLKscDzlxbn1LmzSbw0
+#EXTINF:-1, COLOURS TAMIL 2
+http://extraott.com:900/3586573392/7591141273/355363
+#EXTINF:-1, COLOURS TAMIL 3
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3044.ts
+#EXTINF:-1, COLOURS TAMIL 4
+http://starshare.live:8080/16003/16003/98911
 #EXTINF:-1, ZEE TAMIL 1
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1,ZEE TAMIL 2
