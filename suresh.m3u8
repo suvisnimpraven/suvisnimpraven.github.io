@@ -41,7 +41,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:
 #EXTINF:-1, ZEE TAMIL 2
 http://extraott.com:900//live/3586573392/7591141273/355372.ts
 
-#EXTINF:-1,ZEE THIRAI 
+#EXTINF:-1,ZEE THIRAI 1
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1,KTV 
