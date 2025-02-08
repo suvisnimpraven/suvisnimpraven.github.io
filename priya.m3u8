@@ -10,14 +10,13 @@ http://starshare.live/16003/16003/98899
 #EXTINF:-1,SUN TV 2
 http://starshare.live/16003/16003/23320
 
-#EXTINF:-1,STARVIJAY 1
-http://starshare.live:8080/16003/16003/98898
 
-#EXTINF:-1,STARVIJAY 2
+
+#EXTINF:-1,STARVIJAY 1
 http://starshare.live:8080/16003/16003/5916
 
 
-#EXTINF:-1,STARVIJAY 3
+#EXTINF:-1,STARVIJAY 2
 http://starshare.live:8080/16003/16003/9969
 #EXTINF:-1, STAR VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
@@ -168,8 +167,7 @@ https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1, PUTHIYATHAIMURAI 2
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
 
-#EXTINF:-1, JOTHI TV
-http://extraott.com:900//live/3586573392/7591141273/400374735.ts
+
 
 
 
@@ -179,8 +177,7 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
 
 
-#EXTINF:-1,IBC TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=89821&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
