@@ -402,86 +402,17 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 #EXTINF:-1,FEAR FACTOR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
-#EXTINF:-1, A SPORTS FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 3
-http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1, ASTRO CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,BEIN SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1,BEIN SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=125428&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,DAZN 1
-http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,SUPER CRICKET 
+http://xtv.ooo:8080/live/Irfan99383/8888/167592.ts
 
-#EXTINF:-1,DAZN 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,DD SPORTS
-http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ESPN US 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,EUROSPORT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=272&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,EUROSPORT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FIGHT BOX 
-http://tv.cloudcdn.me:80/live.ts?channelId=125426&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FS1 FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=102480&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FAST SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=100432&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FLOW SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=105348&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FOX SPORTS 501 
-http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FOX SPORTS 502 
-http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,GEO SUPER 
-http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,INTER TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=61668&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,LIVE KABADDI 
-http://tv.cloudcdn.me:80/live.ts?channelId=276&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,MUTV FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=125434&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,NBC GOLF FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=341&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ONE GOLF TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=33163&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PREMIER SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PREMIER SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=91159&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1,PTV SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=12643&deviceMac=00:1A:79:03:13:DE
 
-#EXTINF:-1,REAL MADRID TV
-http://tv.cloudcdn.me:80/live.ts?channelId=125433&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 KHEL
-http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS ACTION
-http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS ARENA 
-http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS F1
-http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS FOOTBALL 
-http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=12643&deviceMac=00:1A:79
+#EXTINF:-1, WILLOW CRICKET 1
+http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
+#EXTINF:-1, SOLH SPORTS 
+https://solhtvhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
 #EXTINF:-1,FIFA+
@@ -501,34 +432,22 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 
 
 
-#EXTINF:-1,SUPER CRICKET 
-http://xtv.ooo:8080/live/Irfan99383/8888/167592.ts
-
-#EXTINF:-1, WILLOW CRICKET 
-http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1, WILLOW CRICKET 
-http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1, WILLOW CRICKET 
-http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
 
 
 
 
-#EXTINF:-1, STAR SPORTS 
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2850.ts
+
 
  
 
-#EXTINF:-1,TNT SPORTS 
+#EXTINF:-1,TNT SPORTS 1
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
-#EXTINF:-1,TNT SPORTS 
+#EXTINF:-1,TNT SPORTS 2
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
-#EXTINF:-1, TNT SPORTS 
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
 
 
-#EXTINF:-1, SONY TEN
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
+
+
 #EXTINF:-1,SONY SPORTS TEN
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 
@@ -536,13 +455,11 @@ http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1, SPORTS 18
-https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 
 
 
-#EXTINF:-1, SOLH SPORTS 
-https://solhtvhls.wns.live/hls/stream.m3u8
+
+
 
 
 
