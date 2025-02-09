@@ -1,108 +1,29 @@
-#EXTINF:-1,4k TRAVEL 
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1,SONY TV
-https://baskardo.vip/IN_STVS/index.m3u8
-
-#EXTINF:-1, JOTHI TV
-http://extraott.com:900//live/3586573392/7591141273/400374735.ts
-
-#EXTINF:-1, RASI MUSIC 
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/media.m3u8
+#EXTINF:-1,STAR VIJAY SUPER 
+http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
 #EXTINF:-1, ZEE TAMIL 
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4166&deviceMac=00:1A:79:F3:9F:F5
-
-#EXTINF:-1, ZEE TAMIL 1
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ZEE TAMIL 2
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510445.ts
-#EXTINF:-1,ZEE TAMIL 3
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
-#EXTINF:-1,ZEE TAMIL 4
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1,ZEE TAMIL 5
-http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
-
-#EXTINF:-1, T-SERIES 
-https://baskardo.vip/TSER247/index.m3u8
-#EXTINF:-1,ZEE MUSIC 
-https://baskardo.vip/zecVOD24/7/index.m3u8
-#EXTINF:-1,ONLY MUSIC 
-http://tv.cloudcdn.me:80/live.ts?channelId=61898&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-0,ZEE TAMIL 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155876&extension=ts
-
-#EXTINF:-0,ZEE TAMIL 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155901&extension=ts
-
-
-#EXTINF:-0,ZEE THIRAI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1526440&extension=ts
-#EXTINF:-0,ZEE THIRAI 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=155912&extension=ts
-
-#EXTINF:-0,TRAVEL XP TAMIL 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=281863&extension=ts
-#EXTINF:-0,TRAVEL XP 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=97100&extension=ts
-#EXTINF:-0,LOVE NATURE UHD 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1471386&extension=ts
-#EXTINF:-0,MUSEUM UHD
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1632124&extension=ts
-#EXTINF:-0,RELAX AUSTRALIA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1502985&extension=ts
-
-
-
-#EXTINF:-0,RELAX EARTH NATURE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FF:08:3E&stream=1502986&extension=ts
+http://iptv12k.com:35461/live/654321/123456/8454.ts
+#EXTINF:-1, STAR VIJAY
+http://iptv12k.com:35461/live/654321/123456/8987.ts
+#EXTINF:-1, ZEE TAMIL 
+http://iptv12k.com:35461/live/654321/123456/4274.ts
+#EXTINF:-1,STAR VIJAY 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72120.ts
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, STAR VIJAY 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72121.ts
+#EXTINF:-1, SUNTV
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72125.ts
+#EXTINF:-1, ZEE TAMIL 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72132.ts
+#EXTINF:-1, ZEE TAMIL 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72131.ts
+#EXTINF:-1,ZEE TAMIL 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510445.ts
+#EXTINF:-1, COLORS TAMIL 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052468.ts
+#EXTINF:-1, COLORS TAMIL 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052470.ts
