@@ -1,4 +1,21 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, SUNTV 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72125.ts
 
@@ -13,11 +30,10 @@ http://103.115.126.26:8000/play/a03a/index.m3u8
 #EXTINF:-1, SUN TV 4
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
-
 #EXTINF:-1, SUN TV 5
 http://15.235.144.67:35461/654321/123456/1863
-
-
+#EXTINF:-1, SUN TV 6
+http://humsab.xyz/IN_ST/index.m3u8
 
 
 #EXTINF:-1,STAR VIJAY 1
@@ -40,20 +56,19 @@ http://15.235.144.67:35461/654321/123456/1862
 http://ktv.im:8080/92829747/92829747/82897
 #EXTINF:-1, STAR VIJAY 8
 http://ktv.im:8080/92829747/92829747/82900
-
-
-#EXTINF:-1,STARVIJAY 9
-http://extraott.com:900//live/3586573392/7591141273/187272.ts
-
+#EXTINF:-1, STAR VIJAY 9
+http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 #EXTINF:-1, STAR VIJAY 10
+http://humsab.xyz/IN_IN_VIJAYTVHD/index.m3u8
+#EXTINF:-1, STAR VIJAY 11
 http://iptv12k.com:35461/live/654321/123456/8987.ts
 
 #EXTINF:-1, STAR VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-
-
 #EXTINF:-1, STAR VIJAY SUPER 2
-http://extraott.com:900//live/3586573392/7591141273/400159597.ts
+http://humsab.xyz/IND_VijaySuper/index.m3u8
+#EXTINF:-1, STAR VIJAY SUPER 3
+http://humsab.xyz/IND_VijaySuper/index.m3u8
 #EXTINF:-1, COLORS TAMIL 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052468.ts
 #EXTINF:-1, COLORS TAMIL 2
@@ -63,8 +78,8 @@ http://ktv.im:8080/92829747/92829747/82894
 #EXTINF:-1, COLORS TAMIL 4
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052470.ts
 
-
-
+#EXTINF:-1, COLORS TAMIL 5
+http://humsab.xyz/IN_CLORT/index.m3u8
 
 
 #EXTINF:-1, ZEE TAMIL 1
@@ -86,44 +101,33 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/510445.ts
 
 
 
-#EXTINF:-1,ZEE THIRAI 1
-http://starshare.live/live/KVSingh/KVSingh/181966.m3u8
-#EXTINF:-1,ZEE THIRAI 2
-http://extraott.com:900//live/3586573392/7591141273/187369.ts
 
+
+
+
+
+
+
+#EXTINF:-1,ZEE THIRAI 
+http://humsab.xyz/IN_ZT/index.m3u8
 #EXTINF:-1,KTV 1
-http://extraott.com:900//live/3586573392/7591141273/355367.ts
+http://humsab.xyz/IN_KT/index.m3u8
 
 #EXTINF:-1,KTV 2
 http://15.235.144.67:35461/654321/123456/2282
 
 
-
-#EXTINF:-1, KALAIGNAR TV 1
-http://extraott.com/live/6945574629/7169628753/187114.m3u8
-
-#EXTINF:-1, KALAIGNAR TV 2
+#EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1,JAYA TV
-http://extraott.com:900//live/3586573392/7591141273/355366.ts
+http://humsab.xyz/IN_JT/index.m3u8
 
-#EXTINF:-1,JAYA PLUS
-http://15.235.144.67:35461/654321/123456/4282
-
-#EXTINF:-1,JAYA MAX
-http://15.235.144.67:35461/654321/123456/1855
-
-#EXTINF:-1,J MOVIES 
-http://extraott.com:900//live/3586573392/7591141273/187101.ts
-
-#EXTINF:-1,RAJ TV 
-http://extraott.com:900//live/3586573392/7591141273/187224.ts
-
-
-#EXTINF:-1,RAJ DIGITAL PLUS 
-http://15.235.144.67:35461/654321/123456/1843
-#EXTINF:-1,VASANTH TV
-http://15.235.144.67:35461/654321/123456/1835
+#EXTINF:-1, JAYA MOVIE 
+http://humsab.xyz/IN_D2HJAYAMOVIE/index.m3u8
+#EXTINF:-1, PEPPERS TV
+http://humsab.xyz/IND_Peppers_TV/index.m3u8
+#EXTINF:-1,RAJ TV
+http://humsab.xyz/IN_Rajtv/index.m3u8
 
 
 
@@ -137,47 +141,42 @@ http://15.235.144.67:35461/654321/123456/1835
 
 
 
-#EXTINF:-1, SUN LIFE 
-http://extraott.com:900//live/3586573392/7591141273/187276.ts
 
-#EXTINF:-1, ADITHYA TV
-http://extraott.com:900//live/3586573392/7591141273/191840.ts
+
 
 #EXTINF:-1,SUN MUSIC 1
 http://15.235.144.67:35461/654321/123456/1837
-
 #EXTINF:-1,SUN MUSIC 2
+http://humsab.xyz/IN_SunMusicHD/index.m3u8
+#EXTINF:-1,SUN MUSIC 3
 http://15.235.144.67:35461/654321/123456/990
-
 
 #EXTINF:-1,ISAI ARUVI 
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1,RAJ MUSIC 
-http://extraott.com:900//live/3586573392/7591141273/187215.ts
 
 
-#EXTINF:-1, SIRIPPOLI TV 1
-http://extraott.com:900//live/3586573392/7591141273/400374732.ts
 
-#EXTINF:-1,SIRIPOLLI TV 2
+#EXTINF:-1, ADITYA 
+http://humsab.xyz/IN_ADITYATA/index.m3u8
+
+#EXTINF:-1,SIRIPOLLI TV 
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1,MURASU TV 1
-http://extraott.com:900//live/3586573392/7591141273/187156.ts
 
-#EXTINF:-1,MURASU TV 2
+
+#EXTINF:-1,MURASU TV 
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1, POLIMER TV
 http://extraott.com:900//live/3586573392/7591141273/187196.ts
 
-
+#EXTINF:-1, SUN NEWS 
+http://15.235.144.67:35461/654321/123456/1836
 
 
 #EXTINF:-1,THANTHI TV
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
 #EXTINF:-1,THANTHI ONE TV
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-#EXTINF:-1,DD POTHIGAI 
-http://extraott.com:900//live/3586573392/7591141273/187037.ts
+
 
 #EXTINF:-1,ZEE NEWS 
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
@@ -203,11 +202,15 @@ https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
 
 
-
-
+#EXTINF:-1, JOTHI TV 1
+http://103.115.126.26:8000/play/a06i/index.m3u8
+#EXTINF:-1, JOTHI TV 2
+http://humsab.xyz/IN_JoTV/index.m3u8
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
+#EXTINF:-1, SANKAR TV
+http://humsab.xyz/IND_N/index.m3u8
 
 
 
