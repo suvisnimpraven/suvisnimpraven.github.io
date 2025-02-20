@@ -1,21 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1, SUNTV 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72125.ts
 
@@ -209,24 +194,6 @@ http://humsab.xyz/IN_JoTV/index.m3u8
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
-#EXTINF:-1, SANKAR TV
-http://humsab.xyz/IND_N/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -244,10 +211,7 @@ http://92.114.85.81:8000/play/a01m/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1,YOUNG HOLLYWOOD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
-#EXTINF:-1, COMEDY CENTRAL HD
-https://live.drmlive-02.workers.dev/jc/1157.m3u8
-#EXTINF:-1, COLORS INFINITY HD
-https://live.drmlive-02.workers.dev/jc/1158.m3u8
+
 
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
@@ -260,15 +224,14 @@ https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1,DUCK TV
 https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
-#EXTINF:-1,DAVINCI
-https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8
+
 #EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,BBC EARTH 
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1,TRAVEL XP ENGLISH 
-http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+
 
 
 
@@ -278,17 +241,15 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/titl
 #EXTINF:-1, HISTORY 18
 https://jmp2.uk/sam-IN1600008DN.m3u8
 
-#EXTINF:-1, HISTORY 18 1
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
-#EXTINF:-1,REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1,REDBULL TV 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,REDBULL TV 2
 https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
 #EXTINF:-1,IN WILD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1,WILD EARTH 
-https://wildearth-roku.amagi.tv/master.m3u8
+
 #EXTINF:-1, ADVENTURE EARTH (AU)  https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 
 
@@ -321,6 +282,7 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 #EXTINF:-1,FEAR FACTOR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+
 #EXTINF:-1,SONY TV
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72146.ts
 
@@ -343,10 +305,7 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/72151.ts
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/808790.ts
 #EXTINF:-1,& PICTURES 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72165.ts
-#EXTINF:-1, & PICTURES 2
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1, &XPLORE
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+
 #EXTINF:-1,&FLIX HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/808789.ts
 #EXTINF:-1,&TV HD
@@ -368,40 +327,26 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/72155.ts
 
 #EXTINF:-1,COLORS HD 
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/808857.ts
-#EXTINF:-1, COLORS HD 1
-https://live.drmlive-02.workers.dev/jc/144.m3u8
-#EXTINF:-1, COLORS RISHTEY
-https://live.drmlive-02.workers.dev/jc/1370.m3u8
-#EXTINF:-1, COLORS CINEPLX HD
-https://live.drmlive-02.workers.dev/jc/1477.m3u8
-#EXTINF:-1, COLORS CINEPLX SUPER HIT https://live.drmlive-02.workers.dev/jc/1450.m3u8
-#EXTINF:-1, CINEPLX BOLLYWOOD 
-https://live.drmlive-02.workers.dev/jc/1763.m3u8
+
+
 
 #EXTINF:-1,ZEE TV HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72135.ts
 
-#EXTINF:-1,ZEE CINEMA 
+#EXTINF:-1,ZEE CINEMA 1
 http://opplex.tv:8080/live/315587154/331264554/206271.ts
 
-#EXTINF:-1,ZEE CINEMA 1
+#EXTINF:-1,ZEE CINEMA 2
 http://opplex.tv:8080/live/315587154/331264554/206307.ts
 #EXTINF:-1,ZEE BOLLYWOOD 
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/694135.ts
-#EXTINF:-1,ZEE BOLLYWOOD 1
-https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
-#EXTINF:-1,ZEE ZEST
-https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
 
 
-#EXTINF:-1, BIG MAGIC 
-https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
-#EXTINF:-1,MTV BEATS 
-http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=2977&deviceMac=00:1A:79:A4:26:62
-#EXTINF:-1, MTV BEATS 1
-https://live.drmlive-02.workers.dev/jc/753.m3u8
-#EXTINF:-1,MTV 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510261.ts
+
+
+
+
+
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1,9X JALWA 1 
@@ -420,12 +365,18 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/78953.ts
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510230.ts
 
 
-#EXTINF:-1,ONLY MUSIC 
-http://tv.cloudcdn.me:80/live.ts?channelId=61898&uid=7238&deviceMac=00:1A:79:22:59:72
+
 #EXTINF:-1, TRAVEL XP HD
 https://jmp2.uk/sam-IN300000210.m3u8
 
 
+
+
+
+#EXTINF:-1, WILLOW CRICKET 
+http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
+#EXTINF:-1, SOLH SPORTS 
+https://solhtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
@@ -446,13 +397,6 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 
 
 
-#EXTINF:-1,SUPER CRICKET 
-http://xtv.ooo:8080/live/Irfan99383/8888/167592.ts
-
-
-
-#EXTINF:-1, WILLOW CRICKET 1
-http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
 
 
 
@@ -474,15 +418,6 @@ http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 
 #EXTINF:-1, SPORTS 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1, SOLH SPORTS 
-https://solhtvhls.wns.live/hls/stream.m3u8
 
 RADIO SINGER (48)
 #EXTINF:-1,TMS
@@ -583,6 +518,8 @@ https://stream.zeno.fm/9qw2dqvtzv8uv
 https://stream.zeno.fm/tmq9kydsy7zuv
 #EXTINF:-1,Na.MUTHUKUMAR HITS
 http://154.38.171.207:8250/na.muthukumar_r
+
+
 RADIO FM (48)
 #EXTINF:-1,RADIO MADURAI FM 103.3
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
@@ -685,6 +622,23 @@ http://listen.radionomy.com/arrahman-radio
 
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
