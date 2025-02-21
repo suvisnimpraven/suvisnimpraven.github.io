@@ -48,10 +48,9 @@ http://humsab.xyz/IN_IN_VIJAYTVHD/index.m3u8
 #EXTINF:-1, STAR VIJAY 11
 http://iptv12k.com:35461/live/654321/123456/8987.ts
 
-#EXTINF:-1, STAR VIJAY SUPER 1
+#EXTINF:-1, STAR VIJAY SUPER 
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-#EXTINF:-1, STAR VIJAY SUPER 2
-http://humsab.xyz/IND_VijaySuper/index.m3u8
+
 
 #EXTINF:-1, COLORS TAMIL 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052468.ts
@@ -101,8 +100,6 @@ http://15.235.144.67:35461/654321/123456/2282
 
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1,JAYA TV
-http://humsab.xyz/IN_JT/index.m3u8
 
 #EXTINF:-1, JAYA MOVIE 
 http://humsab.xyz/IN_D2HJAYAMOVIE/index.m3u8
