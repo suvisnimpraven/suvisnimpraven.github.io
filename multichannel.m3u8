@@ -1,26 +1,11 @@
 
-#EXTINF:-1, SPORTS 18
-http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507163
-#EXTINF:-1, ASTRO CRICKET 
-http://line.cee-ott.xyz:80/live/A0571F/2D83F1/656962.m3u8
-#EXTINF:-1, TSPORTS
-http://ktv.im:8080/92829747/92829747/83779
-#EXTINF:-1, SOLH SPORTS 
-https://solhtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1,GP1
-https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
-#EXTINF:-1,FIFA+
-https://jmp2.uk/sam-CABD1200008JG.m3u8
 
 
+#EXTINF:-1,SUN TV (USE NS PLAYER)
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
-
-#EXTINF:-1,SKY SPORTS
-https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS 
-https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1, STAR VIJAY (USE NS PLAYER)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 
 
 
@@ -29,30 +14,120 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 
 
 
-
-
-
-
- 
-
-#EXTINF:-1,TNT SPORTS 1
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
-#EXTINF:-1,TNT SPORTS 2
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
-
-
-
-
-#EXTINF:-1,SONY SPORTS TEN
-http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
-
-#EXTINF:-1, SPORTS 4K
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
+#EXTINF:-1, SANKARA TV
+http://extraott.com:900//live/3586573392/7591141273/187264.ts
+#EXTINF:-1,KALAIGNAR TV
+http://extraott.com:900//live/3586573392/7591141273/187114.ts
+#EXTINF:-1, TRAVEL XP TAMIL 
+http://extraott.com:900//live/3586573392/7591141273/187319.ts
+#EXTINF:-1, ZEE THIRAI 
+http://extraott.com:900//live/3586573392/7591141273/187369.ts
+#EXTINF:-1, ANIMAL PLANET TAMIL 
+http://extraott.com:900//live/3586573392/7591141273/400159783.ts
+#EXTINF:-1, DISCOVERY TAMIL 
+http://extraott.com:900//live/3586573392/7591141273/400159780.ts
+#EXTINF:-1, SUN LIFE (USE NS PLAYER)
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1, ADITYA TV (USE NS PLAYER)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1, ASTRO VELLI THIRAI (USE NS PLAYER)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 
 
 
 
 
+
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
