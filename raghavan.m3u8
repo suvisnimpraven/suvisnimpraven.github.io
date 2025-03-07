@@ -1,85 +1,60 @@
 
 
 
-#EXTINF:-1, SUNTV 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72125.ts
 
 
 
-#EXTINF:-1,SUN TV 2
+
+#EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 
-#EXTINF:-1, SUN TV 3
-http://103.115.126.26:8000/play/a03a/index.m3u8
 
-#EXTINF:-1, SUN TV 4
+
+
+
+
+#EXTINF:-1, SUN TV 2
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
-#EXTINF:-1, SUN TV 5
-http://15.235.144.67:35461/654321/123456/1863
-#EXTINF:-1, SUN TV 6
-http://humsab.xyz/IN_ST/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1,STAR VIJAY 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72120.ts
-
-#EXTINF:-1, STAR VIJAY 2
-http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
-#EXTINF:-1, STAR VIJAY 3
-http://103.115.126.26:8000/play/a038/index.m3u8
-#EXTINF:-1, STAR VIJAY 4
-http://15.235.144.67:35461/654321/123456/1861
-
-
-
-#EXTINF:-1, STAR VIJAY 5
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72121.ts
-#EXTINF:-1,STAR VIJAY 6
-http://15.235.144.67:35461/654321/123456/1862
-#EXTINF:-1,STAR VIJAY 7
 http://ktv.im:8080/92829747/92829747/82897
-#EXTINF:-1, STAR VIJAY 8
+#EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
-#EXTINF:-1, STAR VIJAY 9
-http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
-#EXTINF:-1, STAR VIJAY 10
-http://humsab.xyz/IN_IN_VIJAYTVHD/index.m3u8
-#EXTINF:-1, STAR VIJAY 11
-http://iptv12k.com:35461/live/654321/123456/8987.ts
+
+
 
 #EXTINF:-1, STAR VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-#EXTINF:-1, STAR VIJAY SUPER 2
-http://humsab.xyz/IND_VijaySuper/index.m3u8
-#EXTINF:-1, STAR VIJAY SUPER 3
-http://humsab.xyz/IND_VijaySuper/index.m3u8
+
+
+
 #EXTINF:-1, COLORS TAMIL 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052468.ts
-#EXTINF:-1, COLORS TAMIL 2
 http://ktv.im:8080/92829747/92829747/82892
-#EXTINF:-1, COLORS TAMIL 3
+
+#EXTINF:-1, COLORS TAMIL 2
 http://ktv.im:8080/92829747/92829747/82894
-#EXTINF:-1, COLORS TAMIL 4
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052470.ts
-
-#EXTINF:-1, COLORS TAMIL 5
-http://humsab.xyz/IN_CLORT/index.m3u8
 
 
-#EXTINF:-1, ZEE TAMIL 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72132.ts
-#EXTINF:-1,ZEE TAMIL 2
+
+
+
+#EXTINF:-1,ZEE TAMIL 1
 http://ktv.im:8080/92829747/92829747/82916
+#EXTINF:-1,ZEE TAMIL 2
+http://humsab.xyz/IN_SunMusicHD/index.m3u8
 #EXTINF:-1, ZEE TAMIL 3
-http://103.115.126.26:8000/play/a08t/index.m3u8
-#EXTINF:-1, ZEE TAMIL 4
-http://103.115.126.26:8000/play/a036/index.m3u8
+https://allinonereborn.com/tata-tv1.php?id=11807
 
-#EXTINF:-1, ZEE TAMIL 5
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72131.ts
-#EXTINF:-1,ZEE TAMIL 6
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510445.ts
+#EXTINF:-1,ZEE TAMIL 4
+https://allinonereborn.com/tata-tv1.php?id=603
 
 
 
@@ -93,13 +68,18 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/510445.ts
 
 
 
-#EXTINF:-1,ZEE THIRAI 
+
+#EXTINF:-1, ZEE THIRAI 1
+https://allinonereborn.com/tata-tv1.php?id=796
+#EXTINF:-1,ZEE THIRAI 2
+https://allinonereborn.com/tata-tv1.php?id=11756
+
+
+#EXTINF:-1,ZEE THIRAI 3
 http://humsab.xyz/IN_ZT/index.m3u8
-#EXTINF:-1,KTV 1
-http://humsab.xyz/IN_KT/index.m3u8
 
-#EXTINF:-1,KTV 2
-http://15.235.144.67:35461/654321/123456/2282
+#EXTINF:-1,KTV 
+http://humsab.xyz/IN_KT/index.m3u8
 
 
 #EXTINF:-1, KALAIGNAR TV 
@@ -129,20 +109,13 @@ http://humsab.xyz/IN_Rajtv/index.m3u8
 
 
 
-#EXTINF:-1,SUN MUSIC 1
-http://15.235.144.67:35461/654321/123456/1837
-#EXTINF:-1,SUN MUSIC 2
-http://humsab.xyz/IN_SunMusicHD/index.m3u8
-#EXTINF:-1,SUN MUSIC 3
-http://15.235.144.67:35461/654321/123456/990
+
 
 #EXTINF:-1,ISAI ARUVI 
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 
 
-#EXTINF:-1, ADITYA 
-http://humsab.xyz/IN_ADITYATA/index.m3u8
 
 #EXTINF:-1,SIRIPOLLI TV 
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
@@ -197,15 +170,8 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
 
 
-#EXTINF:-1,MNX HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020230.ts
-#EXTINF:-1,&PRIVE HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/809015.ts
-#EXTINF:-1,&PRIVE HD 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/809014.ts
 
-#EXTINF:-1, HORROR EXTRA 
-http://92.114.85.81:8000/play/a01m/index.m3u8
+
 
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
@@ -283,63 +249,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/pl
 #EXTINF:-1,FEAR FACTOR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 
-#EXTINF:-1,SONY TV
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72146.ts
-
-
-#EXTINF:-1,SONY MAX 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020707.ts
-#EXTINF:-1,SONY MAX 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020709.ts
-#EXTINF:-1,SONY MAX  2
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020708.ts
-#EXTINF:-1,SONY WAH
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72152.ts
-#EXTINF:-1,SONY PIX
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72148.ts
-#EXTINF:-1,SONY AATH
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/78972.ts
-#EXTINF:-1,SONY PAL
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72151.ts
-#EXTINF:-1,& PICTURES 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808790.ts
-#EXTINF:-1,& PICTURES 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72165.ts
-
-#EXTINF:-1,&FLIX HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808789.ts
-#EXTINF:-1,&TV HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72166.ts
-#EXTINF:-1,STAR GOLD HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510292.ts
-#EXTINF:-1,SHEMAROO TV
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020236.ts
-#EXTINF:-1,CINE ACTIVE 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72213.ts
-#EXTINF:-1,B FLIX
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72171.ts
-#EXTINF:-1,B4U MOVIES 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020717.ts
-#EXTINF:-1,B4U MOVIES 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72155.ts
 
 
 
-#EXTINF:-1,COLORS HD 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808857.ts
-
-
-
-#EXTINF:-1,ZEE TV HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72135.ts
 
 #EXTINF:-1,ZEE CINEMA 1
 http://opplex.tv:8080/live/315587154/331264554/206271.ts
 
 #EXTINF:-1,ZEE CINEMA 2
 http://opplex.tv:8080/live/315587154/331264554/206307.ts
-#EXTINF:-1,ZEE BOLLYWOOD 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/694135.ts
+
 
 
 
@@ -349,20 +268,14 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/694135.ts
 
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1,9X JALWA 1 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72157.ts
-#EXTINF:-1,9X MUSIC 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510286.ts
+
 
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1, HINDI MUSIC 
 https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Hindy-music.m3u8
 
-#EXTINF:-1,DHOOM MUSIC 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/78953.ts
-#EXTINF:-1,SHOW BOX
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510230.ts
+
 
 
 
@@ -372,9 +285,8 @@ https://jmp2.uk/sam-IN300000210.m3u8
 
 
 
-
-#EXTINF:-1, WILLOW CRICKET 
-http://extraott.com:80/live/3969424152/3723991250/175793.m3u8
+#EXTINF:-1, SPORTS 18
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507163
 #EXTINF:-1, SOLH SPORTS 
 https://solhtvhls.wns.live/hls/stream.m3u8
 
@@ -405,10 +317,6 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 
  
 
-#EXTINF:-1,TNT SPORTS 1
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
-#EXTINF:-1,TNT SPORTS 2
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
 
 
 
@@ -518,8 +426,6 @@ https://stream.zeno.fm/9qw2dqvtzv8uv
 https://stream.zeno.fm/tmq9kydsy7zuv
 #EXTINF:-1,Na.MUTHUKUMAR HITS
 http://154.38.171.207:8250/na.muthukumar_r
-
-
 RADIO FM (48)
 #EXTINF:-1,RADIO MADURAI FM 103.3
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
@@ -622,6 +528,8 @@ http://listen.radionomy.com/arrahman-radio
 
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
+
+
 
 
 
