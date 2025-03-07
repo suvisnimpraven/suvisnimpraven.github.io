@@ -1,54 +1,38 @@
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
+
+
+
+
+
+
 #EXTINF:-1, SUN TV 2
-https://allinonereborn.com/tata-tv1.php?id=11806
-#EXTINF:-1, SUN TV 3
-https://allinonereborn.com/tata-tv1.php?id=927
-
-
-
-
-
-#EXTINF:-1, SUN TV 4
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
-#EXTINF:-1, SUN TV 5
-http://15.235.144.67:35461/654321/123456/1863
-#EXTINF:-1, SUN TV 6
-http://humsab.xyz/IN_ST/index.m3u8
 
 
 
-#EXTINF:-1, STAR VIJAY 1
-http://15.235.144.67:35461/654321/123456/1861
-#EXTINF:-1, STAR VIJAY 2
-https://allinonereborn.com/tata-tv1.php?id=11733
-#EXTINF:-1,STAR VIJAY 3
-https://allinonereborn.com/tata-tv1.php?id=924
 
 
 
-#EXTINF:-1,STAR VIJAY 4
+
+
+#EXTINF:-1,STAR VIJAY 1
 http://ktv.im:8080/92829747/92829747/82897
-#EXTINF:-1, STAR VIJAY 5
+#EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
 
-#EXTINF:-1, STAR VIJAY 6
-http://iptv12k.com:35461/live/654321/123456/8987.ts
+
 
 #EXTINF:-1, STAR VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-#EXTINF:-1, STAR VIJAY SUPER 2
-http://humsab.xyz/IND_VijaySuper/index.m3u8
+
 
 
 #EXTINF:-1, COLORS TAMIL 1
 http://ktv.im:8080/92829747/92829747/82892
+
 #EXTINF:-1, COLORS TAMIL 2
-https://allinonereborn.com/tata-tv1.php?id=742
-#EXTINF:-1, COLORS TAMIL 3
-https://allinonereborn.com/tata-tv1.php?id=2769
-#EXTINF:-1, COLORS TAMIL 4
 http://ktv.im:8080/92829747/92829747/82894
 
 
@@ -57,10 +41,12 @@ http://ktv.im:8080/92829747/92829747/82894
 
 #EXTINF:-1,ZEE TAMIL 1
 http://ktv.im:8080/92829747/92829747/82916
-#EXTINF:-1, ZEE TAMIL 2
+#EXTINF:-1,ZEE TAMIL 2
+http://humsab.xyz/IN_SunMusicHD/index.m3u8
+#EXTINF:-1, ZEE TAMIL 3
 https://allinonereborn.com/tata-tv1.php?id=11807
 
-#EXTINF:-1,ZEE TAMIL 3
+#EXTINF:-1,ZEE TAMIL 4
 https://allinonereborn.com/tata-tv1.php?id=603
 
 
@@ -85,14 +71,8 @@ https://allinonereborn.com/tata-tv1.php?id=11756
 #EXTINF:-1,ZEE THIRAI 3
 http://humsab.xyz/IN_ZT/index.m3u8
 
-
-
-
-#EXTINF:-1,KTV 1
+#EXTINF:-1,KTV 
 http://humsab.xyz/IN_KT/index.m3u8
-
-#EXTINF:-1,KTV 2
-http://15.235.144.67:35461/654321/123456/2282
 
 
 #EXTINF:-1, KALAIGNAR TV 
