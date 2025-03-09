@@ -327,6 +327,8 @@ http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 #EXTINF:-1, SPORTS 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1, GEO SUPER
+https://amitb3669.github.io/allinonereborn/geo-supr.html
 RADIO SINGER (48)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
