@@ -5,15 +5,18 @@
 
 
 
+
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-
-
-
-
-
-
 #EXTINF:-1, SUN TV 2
+http://humsab.xyz/IN_ST/index.m3u8
+#EXTINF:-1, SUN TV 3
+http://humsab.xyz/IN_SUNTV/index.m3u8
+
+
+
+
+#EXTINF:-1, SUN TV 4
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
 
@@ -28,18 +31,23 @@ http://humsab.xyz/IN_SUNTV/index.m3u8
 http://ktv.im:8080/92829747/92829747/82897
 #EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
+#EXTINF:-1, STAT VIJAY 3
+http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 
 
-
-#EXTINF:-1, STAR VIJAY SUPER 1
+#EXTINF:-1, VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-
+#EXTINF:-1, VIJAY SUPER 2
+http://humsab.xyz/IND_VijaySuper/index.m3u8
+#EXTINF:-1, VIJAY SUPER 3
+http://humsab.xyz/IND_VijaySuper/index.m3u8
 
 
 #EXTINF:-1, COLORS TAMIL 1
 http://ktv.im:8080/92829747/92829747/82892
-
 #EXTINF:-1, COLORS TAMIL 2
+http://humsab.xyz/IN_CLORT/index.m3u8
+#EXTINF:-1, COLORS TAMIL 3
 http://ktv.im:8080/92829747/92829747/82894
 
 
@@ -56,7 +64,8 @@ https://allinonereborn.com/tata-tv1.php?id=11807
 #EXTINF:-1,ZEE TAMIL 4
 https://allinonereborn.com/tata-tv1.php?id=603
 
-
+#EXTINF:-1, ZEE TAMIL 5
+http://humsab.xyz/IN_ZEETAMILHD/index.m3u8
 
 
 
@@ -74,7 +83,6 @@ https://allinonereborn.com/tata-tv1.php?id=796
 #EXTINF:-1,ZEE THIRAI 2
 https://allinonereborn.com/tata-tv1.php?id=11756
 
-
 #EXTINF:-1,ZEE THIRAI 3
 http://humsab.xyz/IN_ZT/index.m3u8
 
@@ -85,10 +93,7 @@ http://humsab.xyz/IN_KT/index.m3u8
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1,JAYA TV
-http://humsab.xyz/IN_JT/index.m3u8
-
-#EXTINF:-1, JAYA MOVIE 
-http://humsab.xyz/IN_D2HJAYAMOVIE/index.m3u8
+http://humsab.xyz/IN_JT/index.m3u,8
 #EXTINF:-1, PEPPERS TV
 http://humsab.xyz/IND_Peppers_TV/index.m3u8
 #EXTINF:-1,RAJ TV
@@ -102,13 +107,12 @@ http://humsab.xyz/IN_Rajtv/index.m3u8
 
 
 
+#EXTINF:-1, SUN MUSIC 
+http://humsab.xyz/IN_SunMusicHD/index.m3u8
 
 
-
-
-
-
-
+#EXTINF:-1, ADITYA TV
+http://humsab.xyz/IN_ADITYATA/index.m3u8
 
 
 #EXTINF:-1,ISAI ARUVI 
@@ -123,11 +127,9 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1,MURASU TV 
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
 #EXTINF:-1, POLIMER TV
 http://extraott.com:900//live/3586573392/7591141273/187196.ts
-
-#EXTINF:-1, SUN NEWS 
-http://15.235.144.67:35461/654321/123456/1836
 
 
 #EXTINF:-1,THANTHI TV
@@ -158,14 +160,51 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1, PUTHIYATHAIMURAI 2
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
+#EXTINF:-1,VENDAR TV
+http://humsab.xyz/Tamil_VendharTV/index.m3u8
+#EXTINF:-1, SAI SHANKAR TV
+http://humsab.xyz/IND_N/index.m3u8
+#EXTINF:-1, PEPPERS TV
+http://humsab.xyz/IND_Peppers_TV/index.m3u8
 
-
-#EXTINF:-1, JOTHI TV 1
-http://103.115.126.26:8000/play/a06i/index.m3u8
-#EXTINF:-1, JOTHI TV 2
+#EXTINF:-1, JOTHI TV 
 http://humsab.xyz/IN_JoTV/index.m3u8
+
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1, TRAVEL XP TAMIL 
+http://humsab.xyz/IN_Travel_XP_Tamil/index.m3u8
+
+
+
+
+#EXTINF:-1, DISCOVERY TAMIL 
+http://humsab.xyz/IN_DisTamil/index.m3u8
+#EXTINF:-1, CARTOON NETWORK 
+http://humsab.xyz/CN_HD_Tamil/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,7 +217,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1,YOUNG HOLLYWOOD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
 
-
+#EXTINF:-1, SONY MOVIES 
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,K-POP
