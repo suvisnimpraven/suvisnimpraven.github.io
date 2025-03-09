@@ -8,18 +8,15 @@
 
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-
-#EXTINF:-1, SUN TV
-http://humsab.xyz/IN_SUNT/index.m3u8
-#EXTINF:-1, SUN TV
+#EXTINF:-1, SUN TV 2
 http://humsab.xyz/IN_ST/index.m3u8
-#EXTINF:-1, SUN TV
+#EXTINF:-1, SUN TV 3
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
 
 
 
-#EXTINF:-1, SUN TV 2
+#EXTINF:-1, SUN TV 4
 http://humsab.xyz/IN_SUNTV/index.m3u8
 
 
@@ -34,25 +31,23 @@ http://humsab.xyz/IN_SUNTV/index.m3u8
 http://ktv.im:8080/92829747/92829747/82897
 #EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
-#EXTINF:-1, VIJAY TV
-http://humsab.xyz/IN_IN_VIJAYTVHD/index.m3u8
-#EXTINF:-1, VIJAY TV
+#EXTINF:-1, STAT VIJAY 3
 http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 
 
-#EXTINF:-1, STAR VIJAY SUPER 1
+#EXTINF:-1, VIJAY SUPER 1
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/406.m3u8
-#EXTINF:-1, VIJAY SUPER 
+#EXTINF:-1, VIJAY SUPER 2
 http://humsab.xyz/IND_VijaySuper/index.m3u8
-#EXTINF:-1, VIJAY SUPER
+#EXTINF:-1, VIJAY SUPER 3
 http://humsab.xyz/IND_VijaySuper/index.m3u8
 
 
 #EXTINF:-1, COLORS TAMIL 1
 http://ktv.im:8080/92829747/92829747/82892
-#EXTINF:-1, COLORS TAMIL 
-http://humsab.xyz/IN_CLORT/index.m3u8
 #EXTINF:-1, COLORS TAMIL 2
+http://humsab.xyz/IN_CLORT/index.m3u8
+#EXTINF:-1, COLORS TAMIL 3
 http://ktv.im:8080/92829747/92829747/82894
 
 
@@ -69,7 +64,7 @@ https://allinonereborn.com/tata-tv1.php?id=11807
 #EXTINF:-1,ZEE TAMIL 4
 https://allinonereborn.com/tata-tv1.php?id=603
 
-#EXTINF:-1, ZEE TAMIL HD
+#EXTINF:-1, ZEE TAMIL 5
 http://humsab.xyz/IN_ZEETAMILHD/index.m3u8
 
 
@@ -98,27 +93,18 @@ http://humsab.xyz/IN_KT/index.m3u8
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1,JAYA TV
-http://humsab.xyz/IN_JT/index.m3u8
-
-#EXTINF:-1, JAYA MOVIE 
-http://humsab.xyz/IN_D2HJAYAMOVIE/index.m3u8
+http://humsab.xyz/IN_JT/index.m3u,8
 #EXTINF:-1, PEPPERS TV
 http://humsab.xyz/IND_Peppers_TV/index.m3u8
 #EXTINF:-1,RAJ TV
 http://humsab.xyz/IN_Rajtv/index.m3u8
 
-#EXTINF:-1, RAJ DIGITAL PLUS
-http://humsab.xyz/IN_RajDigitalPLus/index.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1, SUN LIFE
-http://humsab.xyz/IN_sunlife/index.m3u8
 
 
 #EXTINF:-1, SUN MUSIC 
@@ -141,19 +127,9 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1,MURASU TV 
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1,MURASU TV
-http://humsab.xyz/taml_murusutv/index.m3u8 
-#EXTINF:-1, MAKKAL TV
-http://humsab.xyz/tan1616/index.m3u8
+
 #EXTINF:-1, POLIMER TV
 http://extraott.com:900//live/3586573392/7591141273/187196.ts
-#EXTINF:-1, POLIMER TV
-http://humsab.xyz/TAM_POLIMAR/index.m3u8
-
-
-
-#EXTINF:-1, SUN NEWS 
-http://15.235.144.67:35461/654321/123456/1836
 
 
 #EXTINF:-1,THANTHI TV
