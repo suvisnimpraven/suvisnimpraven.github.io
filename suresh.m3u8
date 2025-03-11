@@ -5,9 +5,10 @@
 
 
 
-
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
+
+
 #EXTINF:-1, SUN TV 2
 http://humsab.xyz/IN_ST/index.m3u8
 #EXTINF:-1, SUN TV 3
@@ -31,7 +32,8 @@ http://humsab.xyz/IN_SUNTV/index.m3u8
 http://ktv.im:8080/92829747/92829747/82897
 #EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
-#EXTINF:-1, STAT VIJAY 3
+
+#EXTINF:-1, STAR VIJAY 3
 http://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 
 
@@ -66,7 +68,8 @@ https://allinonereborn.com/tata-tv1.php?id=603
 
 #EXTINF:-1, ZEE TAMIL 5
 http://humsab.xyz/IN_ZEETAMILHD/index.m3u8
-
+#EXTINF:-1, ZEE TAMIL 6
+http://humsab.xyz/IN_SunMusicHD/index.m3u8
 
 
 
@@ -93,7 +96,9 @@ http://humsab.xyz/IN_KT/index.m3u8
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1,JAYA TV
-http://humsab.xyz/IN_JT/index.m3u,8
+http://humsab.xyz/IN_JT/index.m3u8
+
+
 #EXTINF:-1, PEPPERS TV
 http://humsab.xyz/IND_Peppers_TV/index.m3u8
 #EXTINF:-1,RAJ TV
@@ -107,8 +112,11 @@ http://humsab.xyz/IN_Rajtv/index.m3u8
 
 
 
-#EXTINF:-1, SUN MUSIC 
-http://humsab.xyz/IN_SunMusicHD/index.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1, ADITYA TV
@@ -130,6 +138,7 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 #EXTINF:-1, POLIMER TV
 http://extraott.com:900//live/3586573392/7591141273/187196.ts
+
 
 
 #EXTINF:-1,THANTHI TV
@@ -183,6 +192,46 @@ http://humsab.xyz/IN_Travel_XP_Tamil/index.m3u8
 http://humsab.xyz/IN_DisTamil/index.m3u8
 #EXTINF:-1, CARTOON NETWORK 
 http://humsab.xyz/CN_HD_Tamil/index.m3u8
+
+#EXTINF:-1, SUN TV (NS)
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF:-1,STAR VIJAY(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:-1, ZEE TAMIL (NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1, ADITYA TV(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1, ASTRO VAANAVIL(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd?|drmScheme=clearkey&drmLicense=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+#EXTINF:-1,ASTRO VELLITHIRAI(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1, SUN LIFE(NS)
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1, TNT SPORTS (NS)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#EXTINF:-1, NEWS 18 TAMIL 
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,ZEE NEWS TAMIL 
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
