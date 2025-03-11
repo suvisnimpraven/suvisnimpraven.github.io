@@ -361,11 +361,10 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 
 #EXTINF:-1,YRF MUSIC 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1, HINDI MUSIC 
-https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Hindy-music.m3u8
 
 
-
+#EXTINF:-1, 8X MUSIC 
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 
 #EXTINF:-1, TRAVEL XP HD
