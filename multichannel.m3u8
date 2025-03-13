@@ -1,14 +1,202 @@
-#EXTINF:-1, SUN TV (NS)
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-#EXTINF:-1,STAR VIJAY(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
-#EXTINF:-1, ZEE TAMIL (NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-#EXTINF:-1, ADITYA TV(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#EXTINF:-1, ASTRO VAANAVIL(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd?|drmScheme=clearkey&drmLicense=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-#EXTINF:-1,ASTRO VELLITHIRAI(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-#EXTINF:-1, SUN LIFE(NS)
-https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+
+#EXTINF:-1, NEWS 18 TAMIL 
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,VASANTHAM TV
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
+
+
+#EXTINF:-1, FMH MOVIES 
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+#EXTINF:-1, SONY YAY
+http://161.248.188.124:8080/SonyYay/index.m3u8
+#EXTINF:-1, COLORS TAMIL 
+http://mega4k.one:8080/Kala/1234/132040
+
+#EXTINF:-1,ZEE TAMIL 
+http://mega4k.one:8080/Kala/1234/132041
+#EXTINF:-1, COLORS TAMIL 
+http://mega4k.one:8080/Kala/1234/132042
+#EXTINF:-1, KTV
+http://mega4k.one:8080/Kala/1234/132043
+#EXTINF:-1,STAR VIJAY 
+http://mega4k.one:8080/Kala/1234/132044
+#EXTINF:-1, VIJAY SUPER 
+http://mega4k.one:8080/Kala/1234/132045
+#EXTINF:-1,SUN NEWS
+http://mega4k.one:8080/Kala/1234/132047
+#EXTINF:-1, SUN TV
+http://mega4k.one:8080/Kala/1234/132048
+#EXTINF:-1, 9LIFE HD
+http://mega4k.one:8080/Kala/1234/121631
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
