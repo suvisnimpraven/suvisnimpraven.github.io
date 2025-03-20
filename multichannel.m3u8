@@ -2,85 +2,43 @@
 
 
 
+#EXTINF:-1,ZEE CINEMA 1
+http://opplex.tv:8080/live/315587154/331264554/206271.ts
+
+#EXTINF:-1,ZEE CINEMA 2
+http://opplex.tv:8080/live/315587154/331264554/206307.ts
+
+#EXTINF:-1, GOLDMINES 
+http://202.164.50.194:8000/play/a08j/index.m3u8
+
+#EXTINF:-1, GOLDMINES
+http://202.164.50.194:8000/play/a089/index.m3u8
+#EXTINF:-1, GOLDMINES ACTION 
+http://202.164.50.194:8000/play/a090/index.m3u8
 
 
-#EXTINF:-1,ACTION HOLLYWOOD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1,YOUNG HOLLYWOOD 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
-#EXTINF:-1, SONY MOVIES 
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1, XITE HITS 
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,K-POP
-https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
-
-
-
-#EXTINF:-1,VEVO
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1,DUCK TV
-https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
-
-#EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
-https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,BBC EARTH 
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1, GOLDMINES BOLLYWOOD 
+http://202.164.50.194:8000/play/a08e/index.m3u8
 
 
 
 
 
-#EXTINF:-1,4k TRAVEL 
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1, HISTORY 18
-https://jmp2.uk/sam-IN1600008DN.m3u8
+#EXTINF:-1,9X JALWA
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
 
-#EXTINF:-1,REDBULL TV 1
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,YRF MUSIC 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1,REDBULL TV 2
-https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
-#EXTINF:-1,IN WILD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-
-#EXTINF:-1, ADVENTURE EARTH (AU)  https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1, 8X MUSIC 
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 
 
 
-#EXTINF:-1,MEGELLAN TV
-https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
-
-#EXTINF:-1, LOVE NATURE 4K
-https://jmp2.uk/sam-USBA3400003IP.m3u8
-#EXTINF:-1,LOVE NATURE 4K FHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1, LOVE NATURE 4K UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-
-
-#EXTINF:-1,HOTEL INSPECTOR
-https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
-
-#EXTINF:-1,XLPORE
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1, OUTDOOR AUSTRALIA 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
-#EXTINF:-1,AWESOME AUSTRALIA 
-https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,FUEL TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
-#EXTINF:-1,FEAR FACTOR
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
-#EXTINF:-1, DISNEY CHANNEL (NS)
-http://158.69.52.98:25461/tech48/12345/97
-#EXTINF:-1, DISNEY JUNIOR (NS)
-http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/3141.m3u8
+#EXTINF:-1, TRAVEL XP HD
+https://jmp2.uk/sam-IN300000210.m3u8
+#EXTINF:-1, COLORS HD (NS)
+http://12.troya.info:34000/ch1013/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizuPymUJOTbEJXlmfvrGwa-x-hisLyv-l1uF7qieIa2QD
