@@ -1,241 +1,86 @@
 
-#EXTINF:-0, MOVIES 
-http://103.154.49.205/FTP/
-#EXTINF:-0, SUN TV
-https://its-ferdos-alom.top/iptv/play.php?cid=380967.ts
-#EXTINF:-0, COLORS TAMIL 
-https://its-ferdos-alom.top/iptv/play.php?cid=388808.ts
-#EXTINF:-0, RAJ NEWS
-https://its-ferdos-alom.top/iptv/play.php?cid=381055.ts
-#EXTINF:-0, ZEE TAMIL 
-https://its-ferdos-alom.top/iptv/play.php?cid=388815.ts
-#EXTINF:-0, ASTRO CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=167581.ts
-
-#EXTINF:-0, WILLOW CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=167583.ts
-#EXTINF:-0, ASTRO CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=388706.ts
 
 
 
 
 
-#EXTINF:-0, SUN TV
-https://www.8088y.site/Sunnxt/player.php?id=195491
-#EXTINF:-0, KTV
-https://www.8088y.site/Sunnxt/player.php?id=194405
-#EXTINF:-0, SUN MUSIC 
-https://www.8088y.site/Sunnxt/player.php?id=194406
-#EXTINF:-0, SUN LIFE 
-https://www.8088y.site/Sunnxt/player.php?id=194391
-#EXTINF:-0, SUN NEWS 
-https://www.8088y.site/Sunnxt/player.php?id=194404
-#EXTINF:-0, ADITYA TV
-https://www.8088y.site/Sunnxt/player.php?id=194407
-#EXTINF:-0, CHUTTI TV
-https://www.8088y.site/Sunnxt/player.php?id=194390
-#EXTINF:-0, ASTRO VAANAVIL 
-https://www.8088y.site/Astro/play.php?id=Astro+Vaanavil
-#EXTINF:-0, ASTRO VELLITHIRAI 
-https://www.8088y.site/Astro/play.php?id=Astro+Vellithirai
-#EXTINF:-0, STAR VIJAY 
-https://www.8088y.site/Astro/play.php?id=Star+Vijay
-#EXTINF:-0, COLORS TAMIL 
-https://www.8088y.site/Astro/play.php?id=Colors+Tamil
-#EXTINF:-0, ZEE TAMIL 
-https://www.8088y.site/Astro/play.php?id=Zee+Tamil
-#EXTINF:-0, SUN NEWS 
-https://www.8088y.site/Astro/play.php?id=Sun+News
-#EXTINF:-0, ASN
-https://www.8088y.site/Star-Network/play.php?id=Star+Movies+HD
-#EXTINF:-0, 8088 MUSIC 
-https://www.8088y.site/Music-Player/
+#EXTINF:-1,ACTION HOLLYWOOD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1,YOUNG HOLLYWOOD 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
+#EXTINF:-1, SONY MOVIES 
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-0, TEN CRICKET 
-https://www.8088y.site/YuppTV/play.php?id=Ten+Cricket
-#EXTINF:-0, STAR SPORTS SELECT 1
-https://www.8088y.site/YuppTV/play.php?id=Star+Sports+Select+1
-#EXTINF:-0, STAR SPORTS SELECT 2
-https://www.8088y.site/YuppTV/play.php?id=Star+Sports+Select+2
-#EXTINF:-0, SIRIPOLLI TV
-https://www.8088y.site/YuppTV/play.php?id=Sirippoli+TV
-#EXTINF:-0, KALAIGNAR TV
-https://www.8088y.site/YuppTV/play.php?id=Kalaignar+TV
-#EXTINF:-0, SHAKTHI TV
-https://www.8088y.site/YuppTV/play.php?id=Shakthi+TV
-#EXTINF:-0, STAR TAMIL 
-https://www.8088y.site/YuppTV/play.php?id=Star+Tamil
-#EXTINF:-0, MURASU TV
-https://www.8088y.site/YuppTV/play.php?id=Murasu
-#EXTINF:-0, ISAI ARUVI
-https://www.8088y.site/YuppTV/play.php?id=Isai+Aruvi
-#EXTINF:-0, VASANTHAM TV
-https://www.8088y.site/YuppTV/play.php?id=Vasantham+TV
-#EXTINF:-0, PUTHIYA THALAIMURAI 
-https://www.8088y.site/YuppTV/play.php?id=Puthiya+Thalaimurai
-#EXTINF:-0, POLIMER NEWS
-https://www.8088y.site/YuppTV/play.php?id=Polimer+News
-#EXTINF:-0, NEWS 7 TAMIL 
-https://www.8088y.site/YuppTV/play.php?id=News7+Tamil
-#EXTINF:-0, THANTHI TV
-https://www.8088y.site/YuppTV/play.php?id=Thanthi+TV
-#EXTINF:-0, ZEE NEWS TAMIL 
-https://www.8088y.site/News/play.php?id=Zee+Tamil+News
-#EXTINF:-0, SANA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Sana+TV
-#EXTINF:-0,NTV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=NTV
-#EXTINF:-0, ANANTAM TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Anandham+TV
-#EXTINF:-0, UTV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=UTV
-#EXTINF:-0, MULLAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Mullai+TV
-#EXTINF:-0, THIRUMALAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Thirumalai+HD
-#EXTINF:-0, SACHIN MUSIC 
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Sachin+Music
-#EXTINF:-0, DHONI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Dhoni+TV
-#EXTINF:-0, RIO TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Rio+Tv
-#EXTINF:-0, DURAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Durai+Tv
-#EXTINF:-0, NILA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Nila+Tv+HD
-#EXTINF:-0, LEO TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Leo+Tv
-#EXTINF:-0, YOGGA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Yogaa+Tv
-#EXTINF:-0, MSN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MSN+Tv
-#EXTINF:-0, KARTHIK TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Karthick+Tv
-#EXTINF:-0, VEERALI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Veerali+Tv
+#EXTINF:-1, XITE HITS 
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,K-POP
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-0, VAJRA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vajra+Tv
-#EXTINF:-0, ASHOKA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Ashoka+HD+Tv
-#EXTINF:-0, SAAMI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Saami+TV
-#EXTINF:-0, MALATHI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Malathi+HD
-#EXTINF:-0, VEERA BOX
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Veerbox
 
-#EXTINF:-0, TAITAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Taital+TV
-#EXTINF:-0, NO 1 TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=NO1+TV
-#EXTINF:-0, MP TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MP+TV
-#EXTINF:-0, MDN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MDN+TV
-#EXTINF:-0, PATHAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Irratai+Pathai+Tv
-#EXTINF:-0, VIDIYAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vidiyal+Tv
-#EXTINF:-0, URCHAGAM TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Urchagam+TV
-#EXTINF:-0, SS HD TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=SS+HD
-#EXTINF:-0, VINOTH TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vinoth+TV
-#EXTINF:-0, VISIL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Visil+Tv
-#EXTINF:-0, MAYURI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Mayuri+Tv
-#EXTINF:-0, VISIL 2
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Visil+2+HD
-#EXTINF:-0, MARAN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Maran+Tv
-#EXTINF:-0, THENDRAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Thendral+TV
-#EXTINF:-0, SURYA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Surya+Tv
-#EXTINF:-0, AKASH TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Akash+Tv
-#EXTINF:-0, FIVE MAN ARMY MOVIE 
-https://vidbox.to/watch/movie/38670
-#EXTINF:-0, S CRICKET 
-https://xfireflix.infy.uk/s/player.php?id=2496
-#EXTINF:-0, WILLOW CRICKET 
-https://xfireflix.infy.uk/s/player.php?id=23943
-#EXTINF:-0, WILLOW EXTRA
-https://xfireflix.infy.uk/s/player.php?id=5040
-#EXTINF:-0, PTV SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=89
-#EXTINF:-0, A SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=43444
-#EXTINF:-0, GEO SUPER SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=101
 
-#EXTINF:-0, TEN SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=98
-#EXTINF:-0, SKY SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=150854
-#EXTINF:-0, SONY WAY
-https://xfireflix.ct.ws/opx/play.php?cid=245959
-#EXTINF:-0, RACING 
-https://iptv-web.app/AU/Racingcom.au/
-#EXTINF:-0, DTH
-https://cricktv.site/player?id=521
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
+#EXTINF:-1,VEVO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,DUCK TV
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+
+#EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,BBC EARTH 
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+
+
+
+
+#EXTINF:-1,4k TRAVEL 
+https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1, HISTORY 18
+https://jmp2.uk/sam-IN1600008DN.m3u8
+
+
+#EXTINF:-1,REDBULL TV 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,REDBULL TV 2
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1,IN WILD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+
+#EXTINF:-1, ADVENTURE EARTH (AU)  https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1,MEGELLAN TV
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+
+#EXTINF:-1, LOVE NATURE 4K
+https://jmp2.uk/sam-USBA3400003IP.m3u8
+#EXTINF:-1,LOVE NATURE 4K FHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1, LOVE NATURE 4K UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+
+
+#EXTINF:-1,HOTEL INSPECTOR
+https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+
+#EXTINF:-1,XLPORE
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, OUTDOOR AUSTRALIA 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1,AWESOME AUSTRALIA 
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
+#EXTINF:-1,FEAR FACTOR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1, DISNEY CHANNEL (NS)
+http://158.69.52.98:25461/tech48/12345/97
+#EXTINF:-1, DISNEY JUNIOR (NS)
+http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/3141.m3u8
