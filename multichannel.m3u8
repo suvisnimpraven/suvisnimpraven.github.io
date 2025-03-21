@@ -1,44 +1,441 @@
 
 
+#EXTINF:-1,SUN TV
+http://ktv.im:8080/live/fullpack12months75/8754213690/82906.ts
+#EXTINF:-1, SUN TV
+http://ktv.im:8080/live/fullpack12months75/8754213690/82908.ts
+#EXTINF:-1, KTV
+http://ktv.im:8080/live/fullpack12months75/8754213690/82921.ts
+#EXTINF:-1, KTV
+http://ktv.im:8080/live/fullpack12months75/8754213690/82923.ts
 
 
-#EXTINF:-1,ZEE CINEMA 1
-http://opplex.tv:8080/live/315587154/331264554/206271.ts
+#EXTINF:-1,SONY SPORTS ,(NS)
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1, 
+#EXTINF:-1,SKY SPORTS CRICKET 
+http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/2879.m3u8
+#EXTINF:-1, YRF MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1, MOVIES ACTION 
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1, WILLOW CRICKET (NS)
+http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
+#EXTINF:-1, 4K TRAVEL 
+https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1,XITE HITS
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1, SONY TEN FOOTBALL 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1158.ts
+#EXTINF:-1, TNT SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1161.ts
 
-#EXTINF:-1,ZEE CINEMA 2
-http://opplex.tv:8080/live/315587154/331264554/206307.ts
+#EXTINF:-1, PREMIER SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1165.ts
+#EXTINF:-1,SKY SPORTS PREMIER 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1170.ts
+#EXTINF:-1, BEIN SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1173.ts
+#EXTINF:-1, BEIN SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/1183.ts
+#EXTINF:-1, SKY SPORTS FOOTBALL 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/133886.ts
+#EXTINF:-1,STAR SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75291.ts
+#EXTINF:-1, STAR SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75292.ts
+#EXTINF:-1, STAR SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75295.ts
+#EXTINF:-1, STAR SPORTS TAMIL 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75299.ts
+#EXTINF:-1,T SPORTS 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75301.ts
+#EXTINF:-1, STAR SPORTS SELECT 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/75303.ts
 
-#EXTINF:-1, GOLDMINES 
-http://202.164.50.194:8000/play/a08j/index.m3u8
+#EXTINF:-1, COLORS TAMIL 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/82894.ts
+#EXTINF:-1, STAR VIJAY 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/82900.ts
 
-#EXTINF:-1, GOLDMINES
-http://202.164.50.194:8000/play/a089/index.m3u8
-#EXTINF:-1, GOLDMINES ACTION 
-http://202.164.50.194:8000/play/a090/index.m3u8
+#EXTINF:-1, VIJAY SUPER 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/82905.ts
+
+#EXTINF:-1, SUN MUSIC 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/83013.ts
+#EXTINF:-1, ZEE THIRAI 
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/83020.ts
+#EXTINF:-1, TRAVEL XP
+http://skyglass.vip:8080/live/fullpack12months75/8754213690/83027.ts
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
 
 
-#EXTINF:-1, GOLDMINES BOLLYWOOD 
-http://202.164.50.194:8000/play/a08e/index.m3u8
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
 
 
 
 
 
 
-#EXTINF:-1,9X JALWA
-https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
 
 
-#EXTINF:-1,YRF MUSIC 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1, 8X MUSIC 
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
 
 
-#EXTINF:-1, TRAVEL XP HD
-https://jmp2.uk/sam-IN300000210.m3u8
-#EXTINF:-1, COLORS HD (NS)
-http://12.troya.info:34000/ch1013/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizuPymUJOTbEJXlmfvrGwa-x-hisLyv-l1uF7qieIa2QD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
