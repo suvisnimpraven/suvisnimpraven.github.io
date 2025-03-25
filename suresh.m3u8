@@ -5,11 +5,10 @@
 
 
 
-#EXTINF:-1,SUN TV 1
+#EXTINF:-1,SUN TV 
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 
-#EXTINF:-1,SUN TV 2
-http://ktv.im:8080/live/fullpack12months75/8754213690/82906.ts
+
 
 
 #EXTINF:-1, SUN TV (NS)
@@ -21,13 +20,11 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 http://ktv.im:8080/92829747/92829747/82897
 #EXTINF:-1, STAR VIJAY 2
 http://ktv.im:8080/92829747/92829747/82900
-#EXTINF:-1, STAR VIJAY 3
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/82900.ts
+
 #EXTINF:-1,STAR VIJAY(NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 
-#EXTINF:-1, VIJAY SUPER 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/82905.ts
+
 
 
 
@@ -35,26 +32,22 @@ http://skyglass.vip:8080/live/fullpack12months75/8754213690/82905.ts
 http://ktv.im:8080/92829747/92829747/82892
 
 #EXTINF:-1, COLORS TAMIL 2
-http://humsab.xyz/IN_CLORT/index.m3u8
-#EXTINF:-1, COLORS TAMIL 3
 http://ktv.im:8080/92829747/92829747/82894
 
-#EXTINF:-1, COLORS TAMIL 4
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/82894.ts
+
 
 
 
 
 #EXTINF:-1,ZEE TAMIL 1
 http://ktv.im:8080/92829747/92829747/82916
+
 #EXTINF:-1,ZEE TAMIL 2
-http://humsab.xyz/IN_SunMusicHD/index.m3u8
+
+https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 
 
-#EXTINF:-1, ZEE TAMIL 3
-http://humsab.xyz/IN_ZEETAMILHD/index.m3u8
-#EXTINF:-1, ZEE TAMIL 4
-http://humsab.xyz/IN_SunMusicHD/index.m3u8
+
 
 
 #EXTINF:-1, ZEE TAMIL (NS)
@@ -69,25 +62,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|dr
 
 
 
-#EXTINF:-1,ZEE THIRAI 1
-http://humsab.xyz/IN_ZT/index.m3u8
-#EXTINF:-1, ZEE THIRAI 2
-http://starshare.org:8080/live/431235685370/653123468749/144636.ts
+
 #EXTINF:-1, SUN LIFE(NS)
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 
 
-#EXTINF:-1, KALAIGNAR TV 1
+#EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1, KALAIGNAR TV 2
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2791.ts
-#EXTINF:-1,JAYA TV
-http://humsab.xyz/IN_JT/index.m3u8
 
 
 
-#EXTINF:-1,RAJ TV
-http://humsab.xyz/IN_Rajtv/index.m3u8
+
+
+
 
 #EXTINF:-1,VASANTHAM TV
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
@@ -106,8 +93,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|dr
 
 
 
-#EXTINF:-1, ADITYA TV
-http://humsab.xyz/IN_ADITYATA/index.m3u8
+
 #EXTINF:-1, ADITYA TV(NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 
@@ -158,31 +144,17 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1, PUTHIYATHAIMURAI 2
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
-#EXTINF:-1,VENDAR TV
-http://humsab.xyz/Tamil_VendharTV/index.m3u8
+
+
 #EXTINF:-1,SVBC
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1, SAI SHANKAR TV
-http://humsab.xyz/IND_N/index.m3u8
-#EXTINF:-1, PEPPERS TV
-http://humsab.xyz/IND_Peppers_TV/index.m3u8
 
-#EXTINF:-1, JOTHI TV 
-http://humsab.xyz/IN_JoTV/index.m3u8
+
+
+
 
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-
-#EXTINF:-1, TRAVEL XP TAMIL 
-http://humsab.xyz/IN_Travel_XP_Tamil/index.m3u8
-
-
-
-
-#EXTINF:-1, DISCOVERY TAMIL 
-http://humsab.xyz/IN_DisTamil/index.m3u8
-#EXTINF:-1, CARTOON NETWORK 
-http://humsab.xyz/CN_HD_Tamil/index.m3u8
 
 
 
@@ -271,13 +243,13 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 
 
-
-
 #EXTINF:-1,ZEE CINEMA 1
-http://opplex.tv:8080/live/315587154/331264554/206271.ts
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
 #EXTINF:-1,ZEE CINEMA 2
-http://opplex.tv:8080/live/315587154/331264554/206307.ts
+http://opplex.tv:8080/live/315587154/331264554/206271.ts
+
+
 #EXTINF:-1,ZEE CINEMA 3
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,SONY MAX
@@ -312,20 +284,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 
-#EXTINF:-1,STAR SPORTS 1
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75291.ts
-#EXTINF:-1, STAR SPORTS 2
+
+#EXTINF:-1, STAR SPORTS 1
 http://skyglass.vip:8080/live/fullpack12months75/8754213690/75292.ts
-#EXTINF:-1, STAR SPORTS 3
+#EXTINF:-1, STAR SPORTS 2
 http://skyglass.vip:8080/live/fullpack12months75/8754213690/75295.ts
-#EXTINF:-1,STAR SPORTS 4
+#EXTINF:-1,STAR SPORTS 3
 http://extraott.com/live/3162523972/3791698850/400159568.m3u8
-#EXTINF:-1, CRICKET 
-https://www.mediaserver.express/live/EgwziQj2/index.m3u8
+
 #EXTINF:-1, STAR SPORTS TAMIL 
 http://skyglass.vip:8080/live/fullpack12months75/8754213690/75299.ts
 #EXTINF:-1,T SPORTS 
 http://skyglass.vip:8080/live/fullpack12months75/8754213690/75301.ts
+
 #EXTINF:-1,SKY SPORTS CRICKET 
 http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/2879.m3u8
 
@@ -336,6 +307,8 @@ http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507163
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1, PTV SPORTS 
 https://bdcast-free.b-cdn.net/live/ssports.m3u8
+#EXTINF:-1, SUPER CRICKET 
+http://3.troya.one:34000/ch2244/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UZI8z-h4gL1ZdY-YmuTG5C1ELcnk2DvHVY1kLw1nWqv
 
 #EXTINF:-1, WILLOW CRICKET 
 http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
@@ -366,8 +339,7 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 
 https://jmp2.uk/sam-US2700001QY.m3u8
 
-#EXTINF:-1, WILLOW CRICKET (NS)
-http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
+
 
 
 
@@ -392,6 +364,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 #EXTINF:-1, SKY SPORTS CRICKET (NS)
 http://filex.tv:8080/03119660/06691130/250199
+#EXTINF:-1, WILLOW CRICKET (NS)
+http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
+
+#EXTINF:-1,ASTRO CRICKET IPL(NS)
+
+https://vsd74.okcdn.ru/hls/8185160731313.m3u8/sig/7-L2wbraFZc/expires/1742903157024/srcIp/42.106.176.108/urls/45.136.21.82/clientType/1/srcAg/CHROME_ANDROID/mid/9827498794673/8185160731313/video.m3u8?p
+
+#EXTINF:-1, TEN CRICKET (NS)
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
 RADIO SINGER (48)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -593,93 +575,6 @@ http://listen.radionomy.com/arrahman-radio
 
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
-
-
-#EXTINF:-1,KHAKKI SATTAI POTTA MATCHAN
-https://drive.google.com/uc?export=download&id=108BagDOZGy0zEJZfthc71ifk6d7XKuL0
-#EXTINF:-1,ADHO VAANILE
-https://drive.google.com/uc?export=download&id=1ODdk6NNnHzU3e3EID9N6e910LT4mIKkn
-#EXTINF:-1,APPA YAARU
-https://drive.google.com/uc?export=download&id=1Gyp98D2eHVlD0oSLvJ7rv0gNxyi_a7Ub
-#EXTINF:-1,ATHANIN NENJUKULLE
-https://drive.google.com/uc?export=download&id=14EZ7BYcg-XqiHE8UNeWXNulsgZbxyaxf
-#EXTINF:-1,AZHANAA PULLI MANE
-https://drive.google.com/uc?export=download&id=1FVgKKRd5YxnOCEV0dTurpd9QOTyDs4AE
-#EXTINF:-1,CHINNA CHINNA 
-https://drive.google.com/uc?export=download&id=1_PoxVPomHi_C5mymTVZdwuKJqCK30hvJ
-#EXTINF:-1,ENNA KADHA SOLLA SONNA
-https://drive.google.com/uc?export=download&id=1r7ZlRkQlXirgMUj6_P0owOA3AX5mZxxp
-#EXTINF:-1,ENNA KADHA SOLLA SONNA
-https://drive.google.com/uc?export=download&id=1_QDBHjA45_zc0zu3jvhT33ij_DFpfnHd
-#EXTINF:-1,ENNA PATHI
-https://drive.google.com/uc?export=download&id=1H58TbY0Y0hR5EUjnbQftc2MB4UAHQ-xk
-#EXTINF:-1,KAVINGAN ENNAI
-https://drive.google.com/uc?export=download&id=1jvxG3_wU7rxBOkvTEEUyGVnVhGgug96H
-#EXTINF:-1, KUMBAKONAME
-https://drive.google.com/uc?export=download&id=1Ak6fFJX60I7qacxqF0augcE6A55F3agS
-#EXTINF:-1,MAADI VEEDU
-https://drive.google.com/uc?export=download&id=1QkpNypHKdbs80VXYZ8mmMaD1nQus2ZLy
-#EXTINF:-1,MEDHUVA MEDHUVA 
-https://drive.google.com/uc?export=download&id=1s-sw2IT1YuwAxV7Zha-976vIV_xWzJW_
-#EXTINF:-1,ORU PANPADU
-https://drive.google.com/uc?export=download&id=1NUmQgnWcP-KVQJ4SZG_dYUZuQMYm1Bzp
-#EXTINF:-1,PACHA KIZHI
-https://drive.google.com/uc?export=download&id=1p4AbeSLeXxexwV_pltUPrSl900g34yq9
-#EXTINF:-1,PACHA PULLA
-https://drive.google.com/uc?export=download&id=1bc2JCpv2qe1RYRGGUanj4FT72ea7CMvG
-#EXTINF:-1,POO POOPIL MANASIRUKKU
-https://drive.google.com/uc?export=download&id=125XnnSvcxLjzPXLfjVosgIUiLQLm-TDY
-#EXTINF:-1,RAJA CHINNA ROJA
-https://drive.google.com/uc?export=download&id=1qDNgLaHzRn_1nk8EYR9_mbNoLUwzn0tT
-#EXTINF:-1,SUPER STARU YAARUNNU
-https://drive.google.com/uc?export=download&id=1_GzxPa-NwQCpphjXtmbEwJlU43WOhlWm
-#EXTINF:-1,THODI RAGHAM
-https://drive.google.com/uc?export=download&id=1Dvlmw5fwBVordPeleNxfg4KwQrvHlENq
-#EXTINF:-1,UNGAPPANUKKUM
-https://drive.google.com/uc?export=download&id=1zAVKwsvAY0jWQIR70gfY3i6w8XluT01V
-#EXTINF:-1,VANDIKARAN SONDHA OORU
-https://drive.google.com/uc?export=download&id=1lhhpxAbf_HmJ9d8FAJ3rCNJ_O7Us6uLC
-#EXTINF:-1,VARUNGALA MANNARGALAE
-https://drive.google.com/uc?export=download&id=1ckX6ZHxGdL9TwItv4e7aQBRcML4XOyYR
-#EXTINF:-1,VENNILA MUGAM PADUTHU
-https://drive.google.com/uc?export=download&id=1IjCCdecawCAD1aBJnSYzS9ZVeC2rVHq5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
