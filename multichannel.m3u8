@@ -1,241 +1,556 @@
+#EXTINF:-1, SUN TV (NS)
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF:-1,STAR VIJAY(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:-1, STAR VIJAY (NS)
+http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
 
-#EXTINF:-0, MOVIES 
-http://103.154.49.205/FTP/
-#EXTINF:-0, SUN TV
-https://its-ferdos-alom.top/iptv/play.php?cid=380967.ts
-#EXTINF:-0, COLORS TAMIL 
-https://its-ferdos-alom.top/iptv/play.php?cid=388808.ts
-#EXTINF:-0, RAJ NEWS
-https://its-ferdos-alom.top/iptv/play.php?cid=381055.ts
-#EXTINF:-0, ZEE TAMIL 
-https://its-ferdos-alom.top/iptv/play.php?cid=388815.ts
-#EXTINF:-0, ASTRO CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=167581.ts
+#EXTINF:-1, ZEE TAMIL (NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1, ADITYA TV(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 
-#EXTINF:-0, WILLOW CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=167583.ts
-#EXTINF:-0, ASTRO CRICKET 
-https://its-ferdos-alom.top/iptv/play.php?cid=388706.ts
+#EXTINF:-1,ASTRO VELLITHIRAI(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1, SUN LIFE(NS)
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1, TNT SPORTS (NS)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#EXTINF:-1, DISNEY CHANNEL (NS)
+http://158.69.52.98:25461/tech48/12345/97
+#EXTINF:-1, COLORS HD (NS)
+http://12.troya.info:34000/ch1013/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizuPymUJOTbEJXlmfvrGwa-x-hisLyv-l1uF7qieIa2QD
+#EXTINF:-1, ZEE THIRAI (NS)
+http://starshare.org:8080/live/431235685370/653123468749/144636.ts
+#EXTINF:-1, VIJAY SUPER (NS)
+http://starshare.org:8080/live/431235685370/653123468749/1614.ts
+#EXTINF:-1, VIJAY SUPER (NS)
+http://david52792.cdngold.me:80/live/b30981e69988/e15c506832/440675.ts
+#EXTINF:-1, KALAIGNAR TV (NS)
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2791.ts
+#EXTINF:-1, SKY SPORTS CRICKET (NS)
+http://filex.tv:8080/03119660/06691130/250199
+#EXTINF:-1, DISNEY JUNIOR (NS)
+http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/3141.m3u8
+#EXTINF:-1,SUN NXT
+https://raw.githubusercontent.com/8088yyy/TV/74cc2132e227500974eb8fceb7c1671fbdd4ea9a/Playlist/SunNxt.m3u
+
+#EXTINF:-1, SUN TV
+http://50.7.234.10:8278/Suntv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fe31efa8c8ec3c3bfecc89bac3131aa5
+
+#EXTINF:-1, SUN MUSIC 
+http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+
+
+#EXTINF:-1, MY TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1, HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
 
 
 
-#EXTINF:-0, SUN TV
-https://www.8088y.site/Sunnxt/player.php?id=195491
-#EXTINF:-0, KTV
-https://www.8088y.site/Sunnxt/player.php?id=194405
-#EXTINF:-0, SUN MUSIC 
-https://www.8088y.site/Sunnxt/player.php?id=194406
-#EXTINF:-0, SUN LIFE 
-https://www.8088y.site/Sunnxt/player.php?id=194391
-#EXTINF:-0, SUN NEWS 
-https://www.8088y.site/Sunnxt/player.php?id=194404
-#EXTINF:-0, ADITYA TV
-https://www.8088y.site/Sunnxt/player.php?id=194407
-#EXTINF:-0, CHUTTI TV
-https://www.8088y.site/Sunnxt/player.php?id=194390
-#EXTINF:-0, ASTRO VAANAVIL 
-https://www.8088y.site/Astro/play.php?id=Astro+Vaanavil
-#EXTINF:-0, ASTRO VELLITHIRAI 
-https://www.8088y.site/Astro/play.php?id=Astro+Vellithirai
-#EXTINF:-0, STAR VIJAY 
-https://www.8088y.site/Astro/play.php?id=Star+Vijay
-#EXTINF:-0, COLORS TAMIL 
-https://www.8088y.site/Astro/play.php?id=Colors+Tamil
-#EXTINF:-0, ZEE TAMIL 
-https://www.8088y.site/Astro/play.php?id=Zee+Tamil
-#EXTINF:-0, SUN NEWS 
-https://www.8088y.site/Astro/play.php?id=Sun+News
-#EXTINF:-0, ASN
-https://www.8088y.site/Star-Network/play.php?id=Star+Movies+HD
-#EXTINF:-0, 8088 MUSIC 
-https://www.8088y.site/Music-Player/
 
-#EXTINF:-0, TEN CRICKET 
-https://www.8088y.site/YuppTV/play.php?id=Ten+Cricket
-#EXTINF:-0, STAR SPORTS SELECT 1
-https://www.8088y.site/YuppTV/play.php?id=Star+Sports+Select+1
-#EXTINF:-0, STAR SPORTS SELECT 2
-https://www.8088y.site/YuppTV/play.php?id=Star+Sports+Select+2
-#EXTINF:-0, SIRIPOLLI TV
-https://www.8088y.site/YuppTV/play.php?id=Sirippoli+TV
-#EXTINF:-0, KALAIGNAR TV
-https://www.8088y.site/YuppTV/play.php?id=Kalaignar+TV
-#EXTINF:-0, SHAKTHI TV
-https://www.8088y.site/YuppTV/play.php?id=Shakthi+TV
-#EXTINF:-0, STAR TAMIL 
-https://www.8088y.site/YuppTV/play.php?id=Star+Tamil
-#EXTINF:-0, MURASU TV
-https://www.8088y.site/YuppTV/play.php?id=Murasu
-#EXTINF:-0, ISAI ARUVI
-https://www.8088y.site/YuppTV/play.php?id=Isai+Aruvi
-#EXTINF:-0, VASANTHAM TV
-https://www.8088y.site/YuppTV/play.php?id=Vasantham+TV
-#EXTINF:-0, PUTHIYA THALAIMURAI 
-https://www.8088y.site/YuppTV/play.php?id=Puthiya+Thalaimurai
-#EXTINF:-0, POLIMER NEWS
-https://www.8088y.site/YuppTV/play.php?id=Polimer+News
-#EXTINF:-0, NEWS 7 TAMIL 
-https://www.8088y.site/YuppTV/play.php?id=News7+Tamil
-#EXTINF:-0, THANTHI TV
-https://www.8088y.site/YuppTV/play.php?id=Thanthi+TV
-#EXTINF:-0, ZEE NEWS TAMIL 
-https://www.8088y.site/News/play.php?id=Zee+Tamil+News
-#EXTINF:-0, SANA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Sana+TV
-#EXTINF:-0,NTV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=NTV
-#EXTINF:-0, ANANTAM TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Anandham+TV
-#EXTINF:-0, UTV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=UTV
-#EXTINF:-0, MULLAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Mullai+TV
-#EXTINF:-0, THIRUMALAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Thirumalai+HD
-#EXTINF:-0, SACHIN MUSIC 
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Sachin+Music
-#EXTINF:-0, DHONI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Dhoni+TV
-#EXTINF:-0, RIO TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Rio+Tv
-#EXTINF:-0, DURAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Durai+Tv
-#EXTINF:-0, NILA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Nila+Tv+HD
-#EXTINF:-0, LEO TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Leo+Tv
-#EXTINF:-0, YOGGA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Yogaa+Tv
-#EXTINF:-0, MSN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MSN+Tv
-#EXTINF:-0, KARTHIK TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Karthick+Tv
-#EXTINF:-0, VEERALI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Veerali+Tv
 
-#EXTINF:-0, VAJRA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vajra+Tv
-#EXTINF:-0, ASHOKA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Ashoka+HD+Tv
-#EXTINF:-0, SAAMI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Saami+TV
-#EXTINF:-0, MALATHI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Malathi+HD
-#EXTINF:-0, VEERA BOX
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Veerbox
 
-#EXTINF:-0, TAITAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Taital+TV
-#EXTINF:-0, NO 1 TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=NO1+TV
-#EXTINF:-0, MP TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MP+TV
-#EXTINF:-0, MDN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=MDN+TV
-#EXTINF:-0, PATHAI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Irratai+Pathai+Tv
-#EXTINF:-0, VIDIYAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vidiyal+Tv
-#EXTINF:-0, URCHAGAM TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Urchagam+TV
-#EXTINF:-0, SS HD TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=SS+HD
-#EXTINF:-0, VINOTH TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Vinoth+TV
-#EXTINF:-0, VISIL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Visil+Tv
-#EXTINF:-0, MAYURI TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Mayuri+Tv
-#EXTINF:-0, VISIL 2
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Visil+2+HD
-#EXTINF:-0, MARAN TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Maran+Tv
-#EXTINF:-0, THENDRAL TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Thendral+TV
-#EXTINF:-0, SURYA TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Surya+Tv
-#EXTINF:-0, AKASH TV
-https://www.8088y.site/Tamil-Local-Channel/play.php?id=Akash+Tv
-#EXTINF:-0, FIVE MAN ARMY MOVIE 
-https://vidbox.to/watch/movie/38670
-#EXTINF:-0, S CRICKET 
-https://xfireflix.infy.uk/s/player.php?id=2496
-#EXTINF:-0, WILLOW CRICKET 
-https://xfireflix.infy.uk/s/player.php?id=23943
-#EXTINF:-0, WILLOW EXTRA
-https://xfireflix.infy.uk/s/player.php?id=5040
-#EXTINF:-0, PTV SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=89
-#EXTINF:-0, A SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=43444
-#EXTINF:-0, GEO SUPER SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=101
 
-#EXTINF:-0, TEN SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=98
-#EXTINF:-0, SKY SPORTS 
-https://xfireflix.infy.uk/s/player.php?id=150854
-#EXTINF:-0, SONY WAY
-https://xfireflix.ct.ws/opx/play.php?cid=245959
-#EXTINF:-0, RACING 
-https://iptv-web.app/AU/Racingcom.au/
-#EXTINF:-0, DTH
-https://cricktv.site/player?id=521
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
+
+
+#EXTINF:-1,ZEE TAMIL NEWS
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1,IPL
+https://vkvsd211.okcdn.ru/hls/8319316200078.m3u8/sig/w-mIrfOCNV0/expires/1742994637833/srcIp/92.62.121.100/urls/45.136.21.86/clientType/14/srcAg/CHROME_ANDROID/mid/10226689977230/8319316200078/8319316200078_high/index.m3u8
+#EXTINF:-1, TOTAL SPORTS 
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+#EXTINF:-1, STAR SPORTS 
+https://edge4-moblive.yuppcdn.net/drm1/smil:starsports1drm.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1, STAR SPORTS 
+http://extraott.com/live/3162523972/3791698850/400159568.m3u8
+#EXTINF:-1,BEIN SPORTS 
+http://humsab.xyz/IN_E5/index.m3u8
+#EXTINF:-1, APS TV
+http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+#EXTINF:-1, SONY LIVE 1
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1, SONY LIVE 2
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1, SONY LIVE 3
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1, SONY LIVE 4
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1, SONY LIVE 5
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1, ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1, DISCOVERY KIDS TAMIL 
+https://fifabd.site/CDNBDIX/RANAPKX73/play.m3u8?id=155897
+#EXTINF:-1, ITV SPORTS 
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SUN TV
+http://exm3u.extraott.com:900/live/1103581436/4099381829/355371.m3u8
+#EXTINF:-1, STAR VIJAY 
+http://exm3u.extraott.com:900/live/1103581436/4099381829/187272.m3u8
+#EXTINF:-1,SUN MUSIC 
+http://exm3u.extraott.com:900/live/1103581436/4099381829/355370.m3u8
+#EXTINF:-1, HGTV
+http://extraott.com:80/live/6772191932/1654508883/191944.m3u8
+#EXTINF:-1, ASTRO PREMIER LEAGUE 
+http://50.7.234.10:8278/go_assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9c9c39ed91bf3e5de6f4a6bfdf276bb8
+#EXTINF:-1, SUPER SPORTS 
+http://50.7.234.10:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
+#EXTINF:-1,
+#EXTINF:-1, CHAMPION TV
+http://203.77.246.14:8001/udp/239.1.2.244:5000.ts
+#EXTINF:-1, CHAMPION TV
+http://203.77.246.14:8001/udp/239.1.2.240:5000.ts
+#EXTINF:-1,CHAMPION TV
+http://203.77.246.14:8001/udp/239.1.2.242:5000.ts
+#EXTINF:-1,SKY SPORTS 
+https://1a-1791.com/live/v0xi25uh/slot-111/rgci-lz9s_1080p/chunklist_DVR.m3u8
+#EXTINF:-1, FIRST MUSIC 
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
+#EXTINF:-1, 
