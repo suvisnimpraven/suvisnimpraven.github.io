@@ -14,7 +14,8 @@ http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 #EXTINF:-1, SUN TV (NS)
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
-
+#EXTINF:-1, SUN TV (NS)
+http://50.7.234.10:8278/Suntv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fe31efa8c8ec3c3bfecc89bac3131aa5
 
 #EXTINF:-1,STAR VIJAY 1
 http://ktv.im:8080/92829747/92829747/82897
@@ -24,7 +25,8 @@ http://ktv.im:8080/92829747/92829747/82900
 #EXTINF:-1,STAR VIJAY(NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 
-
+#EXTINF:-1, STAR VIJAY (NS)
+http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
 
 
 
@@ -59,7 +61,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|dr
 
 
 
-
+#EXTINF:-1, SUN MUSIC (NS)
+http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
 
 
 
@@ -105,7 +108,8 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:-1,SIRIPOLLI TV 
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-
+#EXTINF:-1, APS TV
+http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 
 #EXTINF:-1,MURASU TV 
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
@@ -123,6 +127,7 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 
 #EXTINF:-1,ZEE NEWS 
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
 #EXTINF:-1,RAJ NEWS
 http://extraott.com:900//live/3586573392/7591141273/187219.ts
 
@@ -161,6 +166,7 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
 
 
+
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1,YOUNG HOLLYWOOD 
@@ -172,7 +178,8 @@ http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,K-POP
 https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
-
+#EXTINF:-1, FIRST MUSIC 
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 #EXTINF:-1,VEVO
@@ -236,6 +243,7 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 #EXTINF:-1,FEAR FACTOR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+
 #EXTINF:-1, DISNEY CHANNEL (NS)
 http://158.69.52.98:25461/tech48/12345/97
 #EXTINF:-1,BBC EARTH (NS)
@@ -283,6 +291,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1, 8X MUSIC 
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
+#EXTINF:-1, HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 
 
 #EXTINF:-1, STAR SPORTS 1
@@ -314,6 +325,13 @@ http://3.troya.one:34000/ch2244/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UZI8
 http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
 #EXTINF:-1, TNT SPORTS 
 http://skyglass.vip:8080/live/fullpack12months75/8754213690/1161.ts
+#EXTINF:-1, TOTAL SPORTS 
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+
+#EXTINF:-1, STAR SPORTS 
+http://extraott.com/live/3162523972/3791698850/400159568.m3u8
+#EXTINF:-1,BEIN SPORTS 
+http://humsab.xyz/IN_E5/index.m3u8
 
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
@@ -352,14 +370,33 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 
  
 
-
-
-
-
-
-
 #EXTINF:-1, SPORTS 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1, ITV SPORTS 
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, ASTRO PREMIER LEAGUE (NS)
+http://50.7.234.10:8278/go_assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9c9c39ed91bf3e5de6f4a6bfdf276bb8
+#EXTINF:-1, CHAMPION TV
+http://203.77.246.14:8001/udp/239.1.2.240:5000.ts
+#EXTINF:-1,CHAMPION TV
+http://203.77.246.14:8001/udp/239.1.2.242:5000.ts
+
+
+#EXTINF:-1, SONY LIVE 1(NS)
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1, SONY LIVE 2 (NS)
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1, SONY LIVE 3 (NS)
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1, SONY LIVE 4 (NS)
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1, SONY LIVE 5 (NS)
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1, TNT SPORTS (NS)
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 #EXTINF:-1, SKY SPORTS CRICKET (NS)
@@ -373,7 +410,8 @@ https://vsd74.okcdn.ru/hls/8185160731313.m3u8/sig/7-L2wbraFZc/expires/1742903157
 
 #EXTINF:-1, TEN CRICKET (NS)
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-
+#EXTINF:-1, SUPER SPORTS (NS)
+http://50.7.234.10:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
 RADIO SINGER (48)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -576,12 +614,13 @@ http://listen.radionomy.com/arrahman-radio
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,KHAKKI SATTAI POTTA MATCHAN
+https://drive.google.com/uc?export=download&id=108BagDOZGy0zEJZfthc71ifk6d7XKuL0
+#EXTINF:-1,ADHO VAANILE
+https://drive.google.com/uc?export=download&id=1ODdk6NNnHzU3e3EID9N6e910LT4mIKkn
+#EXTINF:-1,APPA YAARU
+https://drive.google.com/uc?export=download&id=1Gyp98D2eHVlD0oSLvJ7rv0gNxyi_a7Ub
+#EXTINF:-1,ATHANIN NENJUKULLE
+https://drive.google.com/uc?export=download&id=14EZ7BYcg-XqiHE8UNeWXNulsgZbxyaxf
+#EXTINF:-1,AZHANAA PULLI MANE
+https://drive.google.com/uc?exp
