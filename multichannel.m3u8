@@ -113,25 +113,42 @@ http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=
 
 #EXTINF:-1, CRICKET GOLD 
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, ASTRO FOOTBALL 
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,ASTRO SUPER SPORTS 
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,ASTRO MTV
+http://50.7.234.10:8278/AstroMTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a85ea5addd1138e7b1f9f14e38f210d1
+#EXTINF:-1, ASTRO VAANAVIL
+http://50.7.234.10:8278/Vaanavil/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0570df88311c784f03633ea8e2884aa7
+#EXTINF:-1,CRIME FLIX
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
 
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,AXN
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656863.ts
+#EXTINF:-1,CINEMAX
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656879.ts
+#EXTINF:-1, ASTRO CRICKET 
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656962.ts
 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
+
+#EXTINF:-1, ASTRO VELLITHIRAI
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656860.ts
+
+#EXTINF:-1,KTV
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656843.ts
+#EXTINF:-1,HGTV
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656840.ts
+#EXTINF:-1,VENDAR TV
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441520.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD FHD
+http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441519.ts
+#EXTINF:-1, MOVIE POKKIRI
+http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/884256.mkv
+#EXTINF:-0,MIVIE POKKIRI
+http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/884256.mkv
 
 #EXTINF:-1, 
 #EXTINF:-1, 
