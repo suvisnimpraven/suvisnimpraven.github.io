@@ -1,2 +1,98 @@
-#EXTINF:-0,DHOOL
+EXTM3U
+#EXTINF:24,5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0,A&E
+http://23.237.104.106:8080/USA_AE/index.m3u8
+#EXTINF:0,AMC
+http://23.237.104.106:8080/USA_AMC/index.m3u8
+#EXTINF:0,Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:0,Cartoon Network / Adult Swim
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0,Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0,Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:0,Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:0,Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:0,Discovery Investigation
+http://23.237.104.106:8080/USA_ID/index.m3u8
+#EXTINF:0,E! Entertainment Television
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:0,ESPN
+http://23.237.104.106:8080/USA_ESPN1/index.m3u8
+#EXTINF:0,ESPN 2
+http://23.237.104.106:8080/USA_ESPN2/index.m3u8
+#EXTINF:0,Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:0,Freeform
+http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
+#EXTINF:0,FS1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:0,FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:0,FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:0,Game Show Network
+http://23.237.104.106:8080/USA_GSN/index.m3u8
+#EXTINF:0,HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:0,HBO 2 west
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:0,HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:0,HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:0,HGTV
+http://23.237.104.106:8080/USA_HGTV/index.m3u8
+#EXTINF:0,History
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:0,IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0,MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0,MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0,MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:0,National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:0,NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0,NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:0,Paramount + Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:0,Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0,Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0,Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:0,Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0,Starz Edge
+http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
+#EXTINF:0,Starz Encore Westerns
+http://23.237.104.106:8080/USA_STARZ_WESTERNS/index.m3u8
+#EXTINF:0,Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0,TBS
+http://23.237.104.106:8080/USA_TBS/index.m3u8
+#EXTINF:0,TNT
+http://23.237.104.106:8080/USA_TNT/index.m3u8
+#EXTINF:0,TruTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:0,USA Network
+http://23.237.104.106:8080/USA_NETWORK/index.m3u8
+#EXTINF:0,VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0,Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0,WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8#EXTINF:-0,DHOOL
 https://www.tamildhool.net/sun-tv/
