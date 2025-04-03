@@ -6,12 +6,9 @@
 
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-#EXTINF:-1,SUN TV 2
-http://50.7.234.10:8278/Suntv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fe31efa8c8ec3c3bfecc89bac3131aa5
-#EXTINF:-1,SUN TV 3
-http://50.7.234.10:8278/suntv_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8fce20a1c0985db67b2c6903db19edef
 
-#EXTINF:-1,SUN TV 4
+
+#EXTINF:-1,SUN TV 2
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63493.ts
 
 
@@ -76,10 +73,9 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63485.ts
 
 #EXTINF:-1, SUN MUSIC 2
 http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
-#EXTINF:-1, SUN LIFE 1
+#EXTINF:-1, SUN LIFE 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63268.ts
-#EXTINF:-1,ASTRO SUNLIFE 2
-http://50.7.234.10:8278/Sunlife/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=de86c17664c47a5227262aef07a01b20
+
 
 
 
@@ -106,8 +102,7 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63364.ts
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656860.ts
 
 
-#EXTINF:-1, J MOVIES
-http://m4.dns-speedy.com:80/live/451AAD/3F41A2/143554.ts
+
 
 
 #EXTINF:-1,JAYA MAX
@@ -230,9 +225,8 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63495.ts
 
 #EXTINF:-1, SUN TV (NS)
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-#EXTINF:-1, SUN TV (NS)
-http://50.7.234.10:8278/Suntv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fe31efa8c8ec3c3bfecc89bac3131aa5
-#EXTINF:-1, SUN MUSIC 
+
+#EXTINF:-1, SUN MUSIC (NS)
 http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
 #EXTINF:-1, SUN LIFE(NS)
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
@@ -269,8 +263,7 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1, SKY SPORTS CRICKET (NS)
 http://filex.tv:8080/03119660/06691130/250199
-#EXTINF:-1, DISNEY JUNIOR (NS)
-http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/3141.m3u8
+
 
 
 
@@ -284,17 +277,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
 #EXTINF:-1, SONY MOVIES 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1, HBO MOVIES 1
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/144266.ts
-#EXTINF:-1, HBO MOVIES 2
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/144209.ts
-#EXTINF:-1, HBO MOVIES 3
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/143983.ts
-#EXTINF:-1, WATCH HORROR
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/399946.ts
- 
-#EXTINF:-1, WATCH MOVIES
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/399945.ts
+
+
 #EXTINF:-1,&PRIVE HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
@@ -306,14 +290,10 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656863.ts
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656879.ts
 #EXTINF:-1, MOVIES ACTION 
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1,HGTV 1
+#EXTINF:-1,HGTV 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656840.ts
-#EXTINF:-1, HGTV 2
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376722.ts
-#EXTINF:-1, HGTV 3
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/386579.ts
-#EXTINF:-1,DISCOVERY+
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/245977.ts
+
+
 
 
 
@@ -572,17 +552,6 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 
 #EXTINF:-1,STAR SPORTS TAMIL(NS)
 https://streamsun.cloudflare-863.workers.dev/sungo/live/stream.m3u8?id=sptamil2|Referer=https://play.tamilbulbtv.live/
-
-
-#EXTINF:-1, MOVIE POKKIRI
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/884256.mkv
-
-#EXTINF:-1, MOVIE RRR
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/1176201.mkv
-#EXTINF:-1, MOVIE JAILOR
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/1098038.mkv
-#EXTINF:-1, THUPPAKKI
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/884239.mkv
 
 RADIO SINGER (48)
 #EXTINF:-1,TMS
