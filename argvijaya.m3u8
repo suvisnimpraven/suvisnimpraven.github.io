@@ -1,4 +1,4 @@
-
+ 
 
 
 
@@ -7,17 +7,17 @@
 
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-#EXTINF:-1,SUN TV 2
-http://50.7.234.10:8278/Suntv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fe31efa8c8ec3c3bfecc89bac3131aa5
-#EXTINF:-1,SUN TV 3
-http://50.7.234.10:8278/suntv_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8fce20a1c0985db67b2c6903db19edef
 
-#EXTINF:-1,SUN TV 4
+
+#EXTINF:-1,SUN TV 2
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63493.ts
 
-#EXTINF:-1, SUN TV (NS)
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-
+#EXTINF:-1,SUN TV 3
+http://mitvpro.online:25461/live/GtHHraAxrBTgbhm/ZgnLpytQcvtaZ78/100157.ts
+#EXTINF:-1, SUN TV 4
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527659.ts
+#EXTINF:-1,SUN TV 5
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527371.ts
 
 
 #EXTINF:-1,STAR VIJAY 1
@@ -28,12 +28,17 @@ http://ktv.im:8080/92829747/92829747/82900
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63494.ts
 #EXTINF:-1, STAR VIJAY 4
 http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+#EXTINF:-1, STAR VIJAY 5
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527520.ts
+#EXTINF:-1, STAR VIJAY 6
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527366.ts
 
-#EXTINF:-1,STAR VIJAY(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:-1, STAR VIJAY 7
+http://mitvpro.online:25461/live/GtHHraAxrBTgbhm/ZgnLpytQcvtaZ78/100153.ts
 
-#EXTINF:-1, STAR VIJAY (NS)
-http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+#EXTINF:-1, STAR VIJAY 8
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527526.ts
+
 
 
 
@@ -45,7 +50,12 @@ http://ktv.im:8080/92829747/92829747/82894
 
 #EXTINF:-1, COLORS TAMIL 3
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63480.ts
+#EXTINF:-1, COLORS TAMIL 4
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527295.ts
 
+
+#EXTINF:-1, COLORS TAMIL 5
+http://mitvpro.online:25461/live/GtHHraAxrBTgbhm/ZgnLpytQcvtaZ78/100109.ts
 
 
 
@@ -58,11 +68,15 @@ https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 
 #EXTINF:-1, ZEE TAMIL 3
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63492.ts
+#EXTINF:-1, ZEE TAMIL 4
+http://mitvpro.online:25461/live/GtHHraAxrBTgbhm/ZgnLpytQcvtaZ78/100169.ts
+#EXTINF:-1,ZEE TAMIL 5
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527533.ts
+
+#EXTINF:-1, ZEE TAMIL 6
+http://mitvpro.online:25461/live/GtHHraAxrBTgbhm/ZgnLpytQcvtaZ78/100169.ts
 
 
-
-#EXTINF:-1, ZEE TAMIL (NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
 #EXTINF:-1, ZEE THIRAI
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/112776.ts
 
@@ -70,7 +84,8 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/112776.ts
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656843.ts
 #EXTINF:-1,KTV 2
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63497.ts
-
+#EXTINF:-1, STAR VIJAY SUPER
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527526.ts
 #EXTINF:-1, VIJAY TAKKAR MUSIC 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441507.ts
 #EXTINF:-1, RAJ MUSIX
@@ -81,14 +96,12 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63485.ts
 
 #EXTINF:-1, SUN MUSIC 2
 http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
-#EXTINF:-1, SUN LIFE 1
+#EXTINF:-1, SUN LIFE 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63268.ts
-#EXTINF:-1,ASTRO SUNLIFE 2
-http://50.7.234.10:8278/Sunlife/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=de86c17664c47a5227262aef07a01b20
 
 
-#EXTINF:-1, SUN LIFE(NS)
-https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+
+
 
 
 
@@ -110,11 +123,9 @@ https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efa
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63364.ts
 #EXTINF:-1, ASTRO VELLITHIRAI
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656860.ts
-#EXTINF:-1,ASTRO VELLITHIRAI(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 
-#EXTINF:-1, J MOVIES
-http://m4.dns-speedy.com:80/live/451AAD/3F41A2/143554.ts
+
+
 
 
 #EXTINF:-1,JAYA MAX
@@ -131,8 +142,7 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63318.ts
 #EXTINF:-1, ADHTIYA TV
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63272.ts
 
-#EXTINF:-1, ADITYA TV(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+
 
 
 #EXTINF:-1,ISAI ARUVI 1
@@ -199,7 +209,8 @@ http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.
 
 #EXTINF:-1,PEPPERS TV
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441509.ts
-
+#EXTINF:-1, JOTHI TV
+http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527407.ts
 
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
@@ -212,10 +223,8 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441502.ts
 #EXTINF:-1,DD PODHIGAI 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/66107.ts
 
-#EXTINF:-1,NATGO TAMIL 1
-http://198.16.100.186:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
-#EXTINF:-1,NATGO TAMIL 2
-http://50.7.234.10:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
+
+
 #EXTINF:-1, NAT GEO WILD TAMIL
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63496.ts
 
@@ -236,13 +245,62 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/1441519.ts
 #EXTINF:-1,SONY BBC EARTH TAMIL 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/63495.ts
 
-#EXTINF:-1, MOVIE POKKIRI
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/884256.mkv
+#EXTINF:-1, SUN TV (NS)
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
-#EXTINF:-1, MOVIE RRR
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/1176201.mkv
-#EXTINF:-1, MOVIE JAILOR
-http://m4.dns-speedy.com:80/movie/451AAD/3F41A2/1098038.mkv
+#EXTINF:-1, SUN MUSIC (NS)
+http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+#EXTINF:-1, SUN LIFE(NS)
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1,STAR VIJAY(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:-1, STAR VIJAY (NS)
+http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+
+#EXTINF:-1, ZEE TAMIL (NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1, ADITYA TV(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+
+#EXTINF:-1,ASTRO VELLITHIRAI(NS)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1,BBC EARTH (NS)
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1,CRIME FLIX (NS)
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
+#EXTINF:-1, TNT SPORTS (NS)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#EXTINF:-1, SUPER SPORTS (NS)
+http://50.7.234.10:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
+#EXTINF:-1, SONY LIVE 1(NS)
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1, SONY LIVE 2 (NS)
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1, SONY LIVE 3 (NS)
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1, SONY LIVE 4 (NS)
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1, SONY LIVE 5 (NS)
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+
+
+#EXTINF:-1, SKY SPORTS CRICKET (NS)
+http://filex.tv:8080/03119660/06691130/250199
+
+#EXTINF:-1,STAR SPORTS TAMIL(NS)
+https://streamsun.cloudflare-863.workers.dev/sungo/live/stream.m3u8?id=sptamil2|Referer=https://play.tamilbulbtv.live/
+
+
+
+
+
+
+
+
+#EXTINF:-1, TEN CRICKET (NS)
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 
 
 
@@ -256,17 +314,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
 #EXTINF:-1, SONY MOVIES 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1, HBO MOVIES 1
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/144266.ts
-#EXTINF:-1, HBO MOVIES 2
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/144209.ts
-#EXTINF:-1, HBO MOVIES 3
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/143983.ts
-#EXTINF:-1, WATCH HORROR
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/399946.ts
- 
-#EXTINF:-1, WATCH MOVIES
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/399945.ts
+
+
 #EXTINF:-1,&PRIVE HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
@@ -278,14 +327,9 @@ http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656863.ts
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656879.ts
 #EXTINF:-1, MOVIES ACTION 
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1,HGTV 1
+#EXTINF:-1,HGTV 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656840.ts
-#EXTINF:-1, HGTV 2
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376722.ts
-#EXTINF:-1, HGTV 3
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/386579.ts
-#EXTINF:-1,DISCOVERY+
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/245977.ts
+
 
 
 
@@ -297,8 +341,7 @@ https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1, FIRST MUSIC 
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1,ASTRO MTV
-http://50.7.234.10:8278/AstroMTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a85ea5addd1138e7b1f9f14e38f210d1
+
 
 #EXTINF:-1,VEVO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
@@ -360,11 +403,8 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 #EXTINF:-1,FEAR FACTOR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
-
-#EXTINF:-1,BBC EARTH (NS)
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1,CRIME FLIX (NS)
-https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
+#EXTINF:-1, CINEMA 24*7
+http://85.237.89.148:80/Dolores123/X3AjmL66/130649.ts
 
 
 
@@ -378,17 +418,7 @@ http://opplex.tv:8080/live/315587154/331264554/206271.ts
 http://50.7.234.10:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
 
 
-#EXTINF:-1, GOLDMINES 1
-http://202.164.50.194:8000/play/a08j/index.m3u8
 
-#EXTINF:-1, GOLDMINES 2
-http://202.164.50.194:8000/play/a089/index.m3u8
-#EXTINF:-1, GOLDMINES ACTION 
-http://202.164.50.194:8000/play/a090/index.m3u8
-
-
-#EXTINF:-1, GOLDMINES BOLLYWOOD 
-http://202.164.50.194:8000/play/a08e/index.m3u8
 
 
 
@@ -415,36 +445,12 @@ https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 
 
 
-#EXTINF:-1, STAR SPORTS 1
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75292.ts
-#EXTINF:-1, STAR SPORTS 2
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75295.ts
 
 
-#EXTINF:-1, STAR SPORTS TAMIL 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75299.ts
-
-#EXTINF:-1,T SPORTS 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75301.ts
-#EXTINF:-1,WILLOW CRICKET 
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/386666.ts
-#EXTINF:-1,WILLOW CRICKET 
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/386665.ts
-#EXTINF:-1,SKYSPORT CRICKET HD 
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376852.ts
-#EXTINF:-1,CRICKET LIVE 1HD
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376932.ts
-#EXTINF:-1,CRICKET LIVE 2HD
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376933.ts
-#EXTINF:-1,CRICKET LIVE 3HD 
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376934.ts
-#EXTINF:-1,ASTRO CRICKET
-http://st1activ.com:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/376935.ts
 #EXTINF:-1, ASTRO CRICKET 
 http://m4.dns-speedy.com:80/live/451AAD/3F41A2/656962.ts
 
-#EXTINF:-1,SKY SPORTS CRICKET 
-http://mu3241218.oknirvana.club:8880/live/DAALM2299/pzEtzwr5eY/2879.m3u8
+
 
 #EXTINF:-1, SPORTS 18
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507163
@@ -453,30 +459,18 @@ http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507163
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1, PTV SPORTS 
 https://bdcast-free.b-cdn.net/live/ssports.m3u8
-#EXTINF:-1, SUPER CRICKET 
-http://3.troya.one:34000/ch2244/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UZI8z-h4gL1ZdY-YmuTG5C1ELcnk2DvHVY1kLw1nWqv
 
 
-#EXTINF:-1, TNT SPORTS 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/1161.ts
+
+
 #EXTINF:-1, TOTAL SPORTS 
 http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 
-http://humsab.xyz/IN_E5/index.m3u8
+
 
 #EXTINF:-1,GP1
 https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
 #EXTINF:-1,FIFA+
 https://jmp2.uk/sam-CABD1200008JG.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/1170.ts
-#EXTINF:-1, BEIN SPORTS 1
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/1173.ts
-#EXTINF:-1, BEIN SPORTS 2
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/1183.ts
-#EXTINF:-1, SKY SPORTS FOOTBALL 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/133886.ts
-
 
 
 
@@ -507,44 +501,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, ITV SPORTS 
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 
-http://skyglass.vip:8080/live/fullpack12months75/8754213690/75303.ts
+#EXTINF:-1, FOOTBALL LIVE
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, ASTRO PREMIER LEAGUE (NS)
 http://50.7.234.10:8278/go_assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9c9c39ed91bf3e5de6f4a6bfdf276bb8
-#EXTINF:-1, CHAMPION TV
-http://203.77.246.14:8001/udp/239.1.2.240:5000.ts
-#EXTINF:-1,CHAMPION TV
-http://203.77.246.14:8001/udp/239.1.2.242:5000.ts
 
 
-#EXTINF:-1, SONY LIVE 1(NS)
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1, SONY LIVE 2 (NS)
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-
-#EXTINF:-1, SONY LIVE 3 (NS)
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1, SONY LIVE 4 (NS)
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1, SONY LIVE 5 (NS)
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1, TNT SPORTS (NS)
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#EXTINF:-1, SKY SPORTS CRICKET (NS)
-http://filex.tv:8080/03119660/06691130/250199
-#EXTINF:-1, WILLOW CRICKET (NS)
-http://daqtsjx.smart-tv.xyz:80/live/ALBERTO24/A347BC68/175793.m3u8
-
-#EXTINF:-1,ASTRO CRICKET IPL(NS)
-
-https://vsd74.okcdn.ru/hls/8185160731313.m3u8/sig/7-L2wbraFZc/expires/1742903157024/srcIp/42.106.176.108/urls/45.136.21.82/clientType/1/srcAg/CHROME_ANDROID/mid/9827498794673/8185160731313/video.m3u8?p
-
-#EXTINF:-1, TEN CRICKET (NS)
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-
-#EXTINF:-1,STAR SPORTS TAMIL(NS)
-https://streamsun.cloudflare-863.workers.dev/sungo/live/stream.m3u8?id=sptamil2|Referer=https://play.tamilbulbtv.live/
 RADIO SINGER (48)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -590,7 +553,60 @@ https://stream.zeno.fm/gr6nspzaa48uv
 #EXTINF:-1,SHREYA GHOSHAL 
 https://stream.zeno.fm/czvuphmcbkhvv
 #EXTINF:-1,MGR HITS
-https://stream.
+https://stream.zeno.fm/0muspvd4138uv
+#EXTINF:-1, SHIVAJI HITS
+https://stream.zeno.fm/kq88hd71w0hvv
+
+#EXTINF:-1, RAJINI HITS
+https://stream.zeno.fm/vcn3hvqpad0uv
+#EXTINF:-1, KAMAL HITS
+https://stream.zeno.fm/ya6emvmcbkhvv
+#EXTINF:-1, VIJAYKANTH HITS
+https://stream.zeno.fm/gm5nenyaa48uv
+#EXTINF:-1,RAMARAJAN HITS
+https://stream.zeno.fm/axx49t61w0hvv
+#EXTINF:-1,T.RAJENDER HITS
+https://stream.zeno.fm/nm15v861w0hvv
+#EXTINF:-1, MOHAN HITS
+https://stream.zeno.fm/y7mgyn41w0hvv
+#EXTINF:-1,AJITH HITS
+https://stream.zeno.fm/qfkksd31w0hvv
+#EXTINF:-1,VIJAY HITS
+https://stream.zeno.fm/2pn99a71w0hvv
+#EXTINF:-1,SURYA HITS
+https://stream.zeno.fm/rzf5mbq3b48uv
+#EXTINF:-1, DANUSH HITS
+https://stream.zeno.fm/aqp97f3z238uv
+#EXTINF:-1,SIMBU HITS
+https://stream.zeno.fm/8kgd85rx338uv
+#EXTINF:-1,M S.VISWANATHAN
+https://stream.zeno.fm/z0t17g83b48uv
+#EXTINF:-1,ILLAYARAJA HD HITS
+https://stream.zeno.fm/5u2c0yh0ekhvv
+#EXTINF:-1, VIDYASAGAR HITS
+https://stream.zeno.fm/bb2vs3yaa48uv
+#EXTINF:-1,DEVA HITS
+https://stream.zeno.fm/6cxuhfmcbkhvv
+#EXTINF:-1,S.A.RAJKUMAR HITS
+https://stream.zeno.fm/f336ys61w0hvv
+#EXTINF:-1,A .R.RAHMAN HITS
+https://stream.zeno.fm/8vs416z3b48uv
+#EXTINF:-1, HARISH JEYARAJ
+http://154.38.171.207:8240/harris_jayaraj_R
+#EXTINF:-1,D IMMAN HITS
+https://stream.zeno.fm/1zsd11zaa48uv
+#EXTINF:-1,YUVAN SHANKER RAJA
+https://stream.zeno.fm/f939szg6a48uv
+#EXTINF:-1, ANIRUDH HITS
+https://stream.zeno.fm/qdvuf5e4138uv
+#EXTINF:-1,KANNADASAN HITS
+https://stream.zeno.fm/hy2usugmdq8uv
+#EXTINF:-1,VAALI HITS
+https://stream.zeno.fm/9qw2dqvtzv8uv
+#EXTINF:-1,VAIRAMUTHU HITS
+https://stream.zeno.fm/tmq9kydsy7zuv
+#EXTINF:-1,Na.MUTHUKUMAR HITS
+http://154.38.171.207:8250/na.muthukumar_r
 RADIO FM (48)
 #EXTINF:-1,RADIO MADURAI FM 103.3
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
@@ -742,6 +758,63 @@ https://drive.google.com/uc?export=download&id=1lhhpxAbf_HmJ9d8FAJ3rCNJ_O7Us6uLC
 https://drive.google.com/uc?export=download&id=1ckX6ZHxGdL9TwItv4e7aQBRcML4XOyYR
 #EXTINF:-1,VENNILA MUGAM PADUTHU
 https://drive.google.com/uc?export=download&id=1IjCCdecawCAD1aBJnSYzS9ZVeC2rVHq5
+
+#EXTINF:-1,UN THALAI MUDI
+https://drive.google.com/uc?export=download&id=16AFjCYyhgcz81ye_dwEZXimJ6srQRmSU
+#EXTINF:-1,ORU CHINNA THAMARAI
+https://drive.google.com/uc?export=download&id=1NAvAPi8Tt2Pagw0ftCy4G76G0StR3fRi
+#EXTINF:-1,EN UCHI MANDAEYLA
+https://drive.google.com/uc?export=download&id=1W2OHMr4WCoUSAoIAtkQSt3Llke9kVAZM
+
+#EXTINF:-1,KARIGALAN
+https://drive.google.com/uc?export=download&id=1zHDPr1VgnLfKXQKg-AstmO6BW0G3cDpT
+#EXTINF:-1,MAAYAM SEIDHAAYO
+https://drive.google.com/uc?export=download&id=1-W0mXDKcE3K3TnpnqKUDyMMT3MPAxRGV
+#EXTINF:-1,MAKAYALA
+https://drive.google.com/uc?export=download&id=1TT4F5hmw6bzGpC6t81d5dwncboiygqKP
+#EXTINF:-1,MOLACHU MOONU
+https://drive.google.com/uc?export=download&id=1nvJC6mv7gs7YCeiyHKWJTx9-RxjxmfY0
+#EXTINF:-1,NAAKKA MUKKA
+https://drive.google.com/uc?export=download&id=1yhTaaG13HavElCwv1oFMfQmbw9ifgfFY
+#EXTINF:-1,NAAN ADICHA
+https://drive.google.com/uc?export=download&id=1bQuT-P9JJ4oig_IdxbZ9zC6oGR50tUth
+#EXTINF:-1,NENJANGOOTILL
+https://drive.google.com/uc?export=download&id=1Q3zrmjXN2ehW978vsHODLRBz2rqMFLSh
+#EXTINF:-1,NENJORATHIL (F)
+https://drive.google.com/uc?export=download&id=1bBf8jneCWjkG6Q6aOv1DER8NW1tBb93V
+#EXTINF:-1,NENJORATHIL(M)
+https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
+#EXTINF:-1,THOZHIYA
+https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
+#EXTINF:-1,UNNAKKENA NAAN
+https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
