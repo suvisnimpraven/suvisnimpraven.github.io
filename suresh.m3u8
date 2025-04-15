@@ -11,10 +11,11 @@ http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 #EXTINF:-1, SUN TV 2
 http://norhrgr.top:8080/4681741158242691/c336d358d624/53655
 
+#EXTINF:-1, SUN TV 3
+http://watchindia.net:8880/live/82963/72037/843.ts
 
 
-
-#EXTINF:-1,SUN TV 3
+#EXTINF:-1,SUN TV 4
 http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527371.ts
 
 
@@ -26,12 +27,14 @@ http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=
 
 #EXTINF:-1, STAR VIJAY 2
 http://198.16.100.186:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=19249&tsum=d469d61675c45cea051a8c286daa751b
+#EXTINF:-1, STAR VIJAY 3
+http://watchindia.net:8880/live/82963/72037/846.ts
 
 
+#EXTINF:-1, COLORS TAMIL 1
+http://watchindia.net:8880/live/82963/72037/2083.ts
 
-
-
-#EXTINF:-1, COLORS TAMIL 
+#EXTINF:-1, COLORS TAMIL 2
 http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527295.ts
 
 
@@ -50,35 +53,56 @@ https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527533.ts
 #EXTINF:-1, ZEE TAMIL 3
 http://norhrgr.top:8080/4681741158242691/c336d358d624/53712
+#EXTINF:-1,ZEE TAMIL 4
+http://watchindia.net:8880/live/82963/72037/887.ts
 
-#EXTINF:-1, ZEE THIRAI
+#EXTINF:-1, ZEE THIRAI 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/33004.m3u8
+#EXTINF:-1, ZEE THIRAI 2
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116655.m3u8
+#EXTINF:-1, ZEE THIRAI 3
+http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/187369.m3u8
+#EXTINF:-1, ZEE THIRAI 4
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
+#EXTINF:-1, ZEE THIRAI 5
+http://watchindia.net:8880/live/82963/72037/2142.ts
+
+#EXTINF:-1, KTV
+http://watchindia.net:8880/live/82963/72037/845.ts
 
 
 
 
 
 
-
-
-
-#EXTINF:-1, SUN MUSIC 
+#EXTINF:-1, SUN MUSIC 1
 http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+#EXTINF:-1, SUN MUSIC 2
+http://watchindia.net:8880/live/82963/72037/844.ts
+#EXTINF:-1, STAR VIJAY SUPER
+http://watchindia.net:8880/live/82963/72037/2190.ts
 
 
 
-
-
-
+#EXTINF:-1, ADITHYA TV
+http://watchindia.net:8880/live/82963/72037/855.ts
 
 
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1, SUN LIFE
+#EXTINF:-1, SUN LIFE 1
 http://norhrgr.top:8080/4681741158242691/c336d358d624/53654
-
-
+#EXTINF:-1, SUN LIFE 2
+http://watchindia.net:8880/live/82963/72037/847.ts
+#EXTINF:-1, JAYA PLUS
+http://watchindia.net:8880/live/82963/72037/850.ts
+#EXTINF:-1, JAYA MOVIE
+http://watchindia.net:8880/live/82963/72037/849.ts
+#EXTINF:-1,JAYA MAX
+http://watchindia.net:8880/live/82963/72037/852.ts
+#EXTINF:-1, JAYA TV
+http://watchindia.net:8880/live/82963/72037/851.ts
 
 
 
@@ -125,7 +149,8 @@ http://198.16.100.186:8278/Makkaltv/playlist.m3u8?tid=MCCC2831040628310406&ct=19
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
 #EXTINF:-1,THANTHI ONE TV
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-
+#EXTINF:-1,SUN NEWS
+http://watchindia.net:8880/live/82963/72037/869.ts
 
 #EXTINF:-1,ZEE NEWS 
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
@@ -151,7 +176,13 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1, PUTHIYATHAIMURAI 2
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
+#EXTINF:-1, VENDHAR TV
+http://watchindia.net:8880/live/82963/72037/2146.ts
 
+#EXTINF:-1, SRI SANKARA TV 
+http://watchindia.net:8880/live/82963/72037/2164.ts
+#EXTINF:-1,PEPPERS
+http://watchindia.net:8880/live/82963/72037/870.ts
 
 #EXTINF:-1,SVBC
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
@@ -170,6 +201,10 @@ http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C666696266
 
 #EXTINF:-1, DISCOVERY WORLD TAMIL 
 http://198.16.100.186:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
+
+#EXTINF:-1, TRAVEL XP TAMIL 
+http://watchindia.net:8880/live/82963/72037/872.ts
+
 #EXTINF:-1, SUN TV (NS)
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
@@ -334,6 +369,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsu
 http://85.237.89.148:80/Dolores123/X3AjmL66/130649.ts
 
 
+
 #EXTINF:-1,ZEE CINEMA 
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
@@ -394,8 +430,22 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1,& PICTURE 
 https://live.drmlive-02.workers.dev/zee/pictures.m3u8
-
-
+#EXTINF:-1,ASTRO CRICKET
+http://watchindia.net:8880/live/82963/72037/2174.ts
+#EXTINF:-1, STAR SPORTS SELECT 1
+http://watchindia.net:8880/live/82963/72037/1071.ts
+#EXTINF:-1, STAR SPORTS SELECT 2
+http://watchindia.net:8880/live/82963/72037/1070.ts
+#EXTINF:-1, STAR SPORTS 1
+http://watchindia.net:8880/live/82963/72037/1069.ts
+#EXTINF:-1,STAR SPORTS 2
+http://watchindia.net:8880/live/82963/72037/2673.ts
+#EXTINF:-1, STAR SPORTS 3
+http://watchindia.net:8880/live/82963/72037/2678.ts
+#EXTINF:-1, STAR SPORTS 4
+http://watchindia.net:8880/live/82963/72037/2456.ts
+#EXTINF:-1, STAR SPORTS 5
+http://watchindia.net:8880/live/82963/72037/2232.ts
 
 
 
@@ -463,6 +513,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, FOOTBALL LIVE
 https://spstr.abntv.live/hls/psstream.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1, POLICE STORY LOCKDOWN 
 http://tera4k.com:8880/movie/220936977606/yMcfUQnUgS/152885.mkv
 #EXTINF:-1, VANGUARD
@@ -749,18 +807,6 @@ https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
 https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
 #EXTINF:-1,UNNAKKENA NAAN
 https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
