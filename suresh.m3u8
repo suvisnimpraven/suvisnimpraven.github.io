@@ -8,15 +8,10 @@
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 
-#EXTINF:-1, SUN TV 2
-http://norhrgr.top:8080/4681741158242691/c336d358d624/53655
 
 #EXTINF:-1, SUN TV 3
 http://watchindia.net:8880/live/82963/72037/843.ts
 
-
-#EXTINF:-1,SUN TV 4
-http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527371.ts
 
 
 
@@ -31,11 +26,9 @@ http://198.16.100.186:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=1
 http://watchindia.net:8880/live/82963/72037/846.ts
 
 
-#EXTINF:-1, COLORS TAMIL 1
+#EXTINF:-1, COLORS TAMIL 
 http://watchindia.net:8880/live/82963/72037/2083.ts
 
-#EXTINF:-1, COLORS TAMIL 2
-http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527295.ts
 
 
 
@@ -43,28 +36,19 @@ http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527295.ts
 
 
 
-#EXTINF:-1,ZEE TAMIL 1
-
-https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 
 
-
-#EXTINF:-1,ZEE TAMIL 2
-http://tera4k.com:8880/live/220936977606/yMcfUQnUgS/527533.ts
-#EXTINF:-1, ZEE TAMIL 3
-http://norhrgr.top:8080/4681741158242691/c336d358d624/53712
-#EXTINF:-1,ZEE TAMIL 4
+#EXTINF:-1,ZEE TAMIL 
 http://watchindia.net:8880/live/82963/72037/887.ts
 
+
 #EXTINF:-1, ZEE THIRAI 1
-http://cool365.xyz:900/live/4160189881/DB4ACD54/33004.m3u8
-#EXTINF:-1, ZEE THIRAI 2
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116655.m3u8
-#EXTINF:-1, ZEE THIRAI 3
+#EXTINF:-1, ZEE THIRAI 2
 http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/187369.m3u8
-#EXTINF:-1, ZEE THIRAI 4
+#EXTINF:-1, ZEE THIRAI 3
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
-#EXTINF:-1, ZEE THIRAI 5
+#EXTINF:-1, ZEE THIRAI 4
 http://watchindia.net:8880/live/82963/72037/2142.ts
 
 #EXTINF:-1, KTV
@@ -91,10 +75,7 @@ http://watchindia.net:8880/live/82963/72037/855.ts
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1, SUN LIFE 1
-http://norhrgr.top:8080/4681741158242691/c336d358d624/53654
-#EXTINF:-1, SUN LIFE 2
-http://watchindia.net:8880/live/82963/72037/847.ts
+
 #EXTINF:-1, JAYA PLUS
 http://watchindia.net:8880/live/82963/72037/850.ts
 #EXTINF:-1, JAYA MOVIE
