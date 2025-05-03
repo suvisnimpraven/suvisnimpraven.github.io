@@ -1,82 +1,61 @@
-#EXTINF:-1, ZEE THIRAI 
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116655.m3u8
-#EXTINF:-1, ZEE THIRAI 
-http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/187369.m3u8
-#EXTINF:-1, ZEE THIRAI 
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
-#EXTINF:-1, ZEE THIRAI 
-http://watchindia.net:8880/live/82963/72037/2142.ts
-#EXTINF:-1,ZEE TAMIL
-http://watchindia.net:8880/live/82963/72037/887.ts
-#EXTINF:-1, VENDHAR TV
-http://watchindia.net:8880/live/82963/72037/2146.ts
-#EXTINF:-1, TRAVEL XP
-http://watchindia.net:8880/live/82963/72037/872.ts
-#EXTINF:-1, SRI SANKARA TV 
-http://watchindia.net:8880/live/82963/72037/2164.ts
-#EXTINF:-1,PEPPERS
-http://watchindia.net:8880/live/82963/72037/870.ts
-#EXTINF:-1, KTV
-http://watchindia.net:8880/live/82963/72037/845.ts
-#EXTINF:-1, JAYA PLUS
-http://watchindia.net:8880/live/82963/72037/850.ts
-#EXTINF:-1, JAYA MOVIE
-http://watchindia.net:8880/live/82963/72037/849.ts
-#EXTINF:-1,JAYA MAX
-http://watchindia.net:8880/live/82963/72037/852.ts
-#EXTINF:-1, JAYA TV
-http://watchindia.net:8880/live/82963/72037/851.ts
 
-#EXTINF:-1, COLORS TAMIL
-http://watchindia.net:8880/live/82963/72037/2083.ts
-#EXTINF:-1, ADITHYA TV
-http://watchindia.net:8880/live/82963/72037/855.ts
-#EXTINF:-1, STAR VIJAY SUPER
-http://watchindia.net:8880/live/82963/72037/2190.ts
-#EXTINF:-1, STAR VIJAY 
-http://watchindia.net:8880/live/82963/72037/846.ts
-#EXTINF:-1,SUN NEWS
-http://watchindia.net:8880/live/82963/72037/869.ts
-#EXTINF:-1, SUN MUSIC 
-http://watchindia.net:8880/live/82963/72037/844.ts
+
+
+
+
+#EXTINF:-1, FOOTBALL 
+http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1, VASANTHAM TV
+http://198.16.100.186:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=19249&tsum=d469d61675c45cea051a8c286daa751b
+#EXTINF:-1, VIKATAN TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+#EXTINF:-1, VAANAVIL TV
+http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
+#EXTINF:-1, VCTN TV
+http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
+#EXTINF:-1, JAYAAM TV
+http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+#EXTINF:-1,7 STAR TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1, NEWS 7
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+#EXTINF:-1, WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, THE PET COLLECTIVE
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+
+#EXTINF:-1, GO USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1, SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1, SAKTHI TV
+http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
+#EXTINF:-1,LEAF TV
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1, STAR SPORTS TAMIL 
+http://exm3u.extraott.com/live/2249871453/1991220000/400201942.m3u8
+
+#EXTINF:-1, BBC EARTH 
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1,ZEE TAMIL (NS)
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163961&extension=m3u8&play_token=vZpYcaEMvq
+#EXTINF:-1, SUN TV (NS)
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163903&extension=m3u8&play_token=vZpYcaEMvq
+
+
+
+
+#EXTINF:-1,SUN MUSIC 
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163898&extension=m3u8&play_token=vZpYcaEMvq
 #EXTINF:-1, SUN LIFE
-http://watchindia.net:8880/live/82963/72037/847.ts
-#EXTINF:-1, SUN TV 
-http://watchindia.net:8880/live/82963/72037/843.ts
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163895&extension=m3u8&play_token=vZpYcaEMvq
+#EXTINF:-1,STAR VIJAY
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163892&extension=m3u8&play_token=vZpYcaEMvq
 #EXTINF:-1, 
 
 
