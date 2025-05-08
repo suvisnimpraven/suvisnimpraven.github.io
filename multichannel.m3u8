@@ -1,82 +1,69 @@
 
+#EXTINF:-1, IPL
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index4.m3u8?%7Ccookie=hdntl=exp=1746430813~acl=%2f*~id=458afbc5d190c9e21a1cd35d77198a3b~data=hdntl~hmac=b6ade911e9648a40f821e6a8c0d8c9da28382eb5cc0969453f1388aac02c9ddb&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 
 
 
 
-#EXTINF:-1, FOOTBALL 
-http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1, VASANTHAM TV
-http://198.16.100.186:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=19249&tsum=d469d61675c45cea051a8c286daa751b
-#EXTINF:-1, VIKATAN TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-#EXTINF:-1, VAANAVIL TV
-http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
-#EXTINF:-1, VCTN TV
-http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-#EXTINF:-1, JAYAAM TV
-http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1,7 STAR TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1, NEWS 7
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:-1, WEATHER SPY
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, THE PET COLLECTIVE
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,SVBC
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-
-
-#EXTINF:-1, GO USA
-https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, EET TV
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1, SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1, SAKTHI TV
-http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
-#EXTINF:-1,LEAF TV
-http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1, STAR SPORTS TAMIL 
-http://exm3u.extraott.com/live/2249871453/1991220000/400201942.m3u8
-
-#EXTINF:-1, BBC EARTH 
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1,ZEE TAMIL (NS)
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163961&extension=m3u8&play_token=vZpYcaEMvq
-#EXTINF:-1, SUN TV (NS)
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163903&extension=m3u8&play_token=vZpYcaEMvq
 
 
 
 
-#EXTINF:-1,SUN MUSIC 
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163898&extension=m3u8&play_token=vZpYcaEMvq
-#EXTINF:-1, SUN LIFE
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163895&extension=m3u8&play_token=vZpYcaEMvq
-#EXTINF:-1,STAR VIJAY
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=1163892&extension=m3u8&play_token=vZpYcaEMvq
-#EXTINF:-1, 
 
 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1, 
 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
+
+
+#EXTINF:-1, ESPN
+http://51.89.148.37:8080/catena-9-103-streamer-espn_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+
+#EXTINF:-1, SURIYAN TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
+
+#EXTINF:-1, IPL
+http://8088y.site/P/X/X2/play.php?id=401627870
+
+#EXTINF:-1, HBO
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
+
+#EXTINF:-1, HBO
+https://testcam.go.ro:8080/hls/hd365.m3u8
+
+#EXTINF:-1,HBO
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1, HBO
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+
+#EXTINF:-1, HBO
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+
+#EXTINF:-1, HBO FAMILY 
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,HBO FAMILY 
+http://50.7.234.10:8278/Hbofamily/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4b38e6d57242e62a2043799c3cb4178a
+#EXTINF:-1, HBO PREMIUM 
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1, HBO PLUS
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1, HBO SIGNATURE 
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1,STAR MOVIES 
+http://50.7.234.10:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
+#EXTINF:-1, ACTION HOLLYWOOD 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+
+
+#EXTINF:-1, MOVIES NOW 
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+
+#EXTINF:-1, ZEE TAMIL (NS)
+http://50.7.234.10:8278/Zeetamil/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=531c08786800317f63fca9d2cbecc8d7
+#EXTINF:-1, CHANNEL 9 SYDNEY
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2937
 #EXTINF:-1, 
 #EXTINF:-1,
 #EXTINF:-1, 
