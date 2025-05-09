@@ -13,7 +13,8 @@ http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 #EXTINF:-1, SUN TV 2
 http://watchindia.net:8880/live/82963/72037/843.ts
 
-
+#EXTINF:-1, SUN TV 3
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92450
 
 
 
@@ -41,9 +42,10 @@ http://watchindia.net:8880/live/82963/72037/2083.ts
 
 
 
-#EXTINF:-1,ZEE TAMIL 
+#EXTINF:-1,ZEE TAMIL 1
 http://watchindia.net:8880/live/82963/72037/887.ts
-
+#EXTINF:-1,ZEE TAMIL 2
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/93029
 
 #EXTINF:-1, ZEE THIRAI 1
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116655.m3u8
@@ -59,12 +61,13 @@ http://watchindia.net:8880/live/82963/72037/845.ts
 
 
 
-
-
-
 #EXTINF:-1, SUN MUSIC 1
-http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92448
+
+
 #EXTINF:-1, SUN MUSIC 2
+http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+#EXTINF:-1, SUN MUSIC 3
 http://watchindia.net:8880/live/82963/72037/844.ts
 #EXTINF:-1, STAR VIJAY SUPER
 http://watchindia.net:8880/live/82963/72037/2190.ts
@@ -78,17 +81,21 @@ http://watchindia.net:8880/live/82963/72037/855.ts
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-
-#EXTINF:-1, JAYA PLUS
+#EXTINF:-1, JAYA PLUS 1
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92431
+#EXTINF:-1, JAYA PLUS 2
 http://watchindia.net:8880/live/82963/72037/850.ts
 #EXTINF:-1, JAYA MOVIE
 http://watchindia.net:8880/live/82963/72037/849.ts
-#EXTINF:-1,JAYA MAX
+#EXTINF:-1,JAYA MAX 1
 http://watchindia.net:8880/live/82963/72037/852.ts
+#EXTINF:-1, JAYA MAX 2
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92429
 #EXTINF:-1, JAYA TV
 http://watchindia.net:8880/live/82963/72037/851.ts
 
-
+#EXTINF:-1,JAYA TV USA
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92433
 
 #EXTINF:-1,VASANTHAM TV 1
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
@@ -116,26 +123,15 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1,SIRIPOLLI  
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:-1, APS TV
-http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
 #EXTINF:-1, VIKATAN TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-#EXTINF:-1, VAANAVIL TV
-http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
-#EXTINF:-1, VCTN TV
-http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-
-#EXTINF:-1,7 STAR TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 
-#EXTINF:-1, EET TV
-https://live.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:-1, SAKTHI TV
-http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
-#EXTINF:-1,LEAF TV
-http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+
+
+
 
 
 #EXTINF:-1,MURASU TV 
@@ -291,7 +287,16 @@ http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1,&PRIVE HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
-
+#EXTINF:-1, CHANNEL 9 SYDNEY
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2937
+#EXTINF:-1, CHANNEL 9
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/28041
+#EXTINF:-1,CHANNEL 9 PERTH
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2936
+#EXTINF:-1, CHANNEL 9 MELBOURNE
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92380
+#EXTINF:-1, CHANNEL 9 BRISBANE
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2934
 
 
 #EXTINF:-1, MOVIES ACTION 
@@ -390,39 +395,12 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 
-
 #EXTINF:-1,ZEE CINEMA 
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
 #EXTINF:-1,ZEE TV 
 http://50.7.234.10:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
-EXTINF:-1, SONY AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1, SONY YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-#EXTINF:-1,SONY MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-#EXTINF:-1, SONY MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-#EXTINF:-1, SONY PAL
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-#EXTINF:-1, SONY WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-#EXTINF:-1,SONY PIX
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
-#EXTINF:-1, SONY HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1, SONY SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1, SONY PAL
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1, SONY PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1, SONY MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1,SONY WAH
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1, SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -452,6 +430,33 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1,& PICTURE 
 https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+EXTINF:-1, SONY AATH (NS)
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1, SONY YAY(NS)
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#EXTINF:-1,SONY MAX HD (NS)
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1, SONY MAX (NS)
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1, SONY PAL (NS)
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1, SONY WAH (NS)
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1,SONY PIX (,NS)
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1, SONY HD(NS)
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1, SONY SAB HD(NS)
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1, SONY PAL(NS)
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1, SONY PIX HD(NS)
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1, SONY MAX HD(NS)
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1,SONY WAH(NS)
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1,ASTRO CRICKET
 http://watchindia.net:8880/live/82963/72037/2174.ts
@@ -538,7 +543,211 @@ https://bq32.short.gy/665457dab96fd97485be22f2.mkv
 #EXTINF:-1, GOOD BAD UGLY
 https://bq32.short.gy/movie/6812d397f5f877f8e79ca519.mkv
 #EXTINF:-1, COURT 
+
 https://bq32.short.gy/movie/6811f8a2f5f877f8e79ca2a0.mkv
+#EXTINF:-1, LUCKY BASKHAR
+https://bq32.short.gy/6747e694c31ab5c76d88c8ff.mkv
+
+
+#EXTINF:-1,RASITV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+#EXTINF:-1, RASITAMIL
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1, RASIMOVIES
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1, RASIMUSIC
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASIHOLLYWOOD
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1, RASICOMEDY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+#EXTINF:-1, RASICLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+#EXTINF:-1,  SHALINI TV
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1, ASHOKA TV
+http://ashokadigital.net:8080/ashokaslm/ashokatv/index.m3u8
+#EXTINF:-1, PARAMSTV
+http://ashokadigital.net:8080/ashokaslm/paramstv/index.m3u8
+#EXTINF:-1, EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1, SAKTHI TV
+http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
+#EXTINF:-1,LEAF TV
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+
+#EXTINF:-1, ITV
+https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
+
+#EXTINF:-1, 7STARTV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1, CHAKRA TV
+https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
+#EXTINF:-1,DEEPAM TV
+https://ipcloud.live/deepamtv/deepamtv/index.m3u8
+
+#EXTINF:-1, SAHARA TV
+https://ipcloud.live/saharatv/saharatv/index.m3u8
+#EXTINF:-1, VEERALI TV
+https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+
+#EXTINF:-1, K CHANNEL 
+http://brightmeltech.in/kchannel/kchannel.m3u8
+#EXTINF:-1, AALAYA MAGIMAI
+http://aalayamagimai.7starcloud.com:1935/live/am/live.m3u8
+#EXTINF:-1, DHEIVEEGAM TV
+https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+
+
+#EXTINF:-1,  SIGARAM TV
+http://account23.livebox.co.in/SigaramTVhls/live.m3u8
+
+#EXTINF:-1, ORANGE TV
+http://live.notvstream.in/orangetv/orangetv.m3u8
+#EXTINF:-1,ANBU TV
+https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+#EXTINF:-1, KINGTV
+https://rtmp.bmlive.net/kingtv/kingtv/index.m3u8
+
+#EXTINF:-1, RAINBOWTV
+https://live.skystream.in/live/rainbowtv/index.m3u8
+#EXTINF:-1,ANANDHA SANGAMAM TV
+
+http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
+#EXTINF:-1, SANGAMAM TV
+https://stream.onecloudlive.in/sangamamtv/sangamamtvhd/index.m3u8
+#EXTINF:-1, ARRAM TV
+http://hdstreambox.in:1935/Arramtv/livetv/playlist.m3u8
+#EXTINF:-1, SURIYA TV
+https://galaxyott.live/hls/suryatv.m3u8
+#EXTINF:-1,JRP TV
+http://ipcloud.live:8080/jrptv/jrphd/index.m3u8
+#EXTINF:-1, THALAPATHI TV
+https://play.applelive.in/thalapathytv/thalapathytv.m3u8
+
+
+#EXTINF:-1,  AADVIK TV
+https://ipcloud.live/sachintv/aadviktv/index.mpd
+#EXTINF:-1, SACHIN TV
+https://ipcloud.live/sachintv/sachintvhd/index.mpd
+#EXTINF:-1, SACHIN MUSIC 
+https://ipcloud.live/sachintv/musichd/index.mpd
+#EXTINF:-1,  DHONI TV
+https://ipcloud.live/sachintv/dhonitv/index.mpd
+#EXTINF:-1,  KAVIN TV
+http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+#EXTINF:-1, SMILEY TV
+https://live1.sscloud7.com/live/smileytv/index.m3u8
+
+#EXTINF:-1, N VISION TV
+https://ipcloud.live/nvision/nvisionhd.m3u8
+#EXTINF:-1,N VISION MUSIC 
+https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+
+#EXTINF:-1, SUBASH TV
+http://ipcloud.live/subashtv/subashhd/index.m3u8
+#EXTINF:-1,THENDRAL TV
+https://ipcloud.live/thendralmdu/madurai/index.m3u8
+
+#EXTINF:-1,SPICE TV
+https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+
+#EXTINF:-1, KCTN TV
+http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
+#EXTINF:-1, VCTN TV
+http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
+
+#EXTINF:-1, VANAVIL TV
+http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
+
+#EXTINF:-1, SUBASH TV
+https://ipcloud.live/subashtv/subashhd/index.mpd
+#EXTINF:-1,PUNITHAN TV
+http://cloudstream4k.com:1935/channel15/ponithatv/index.m3u8
+#EXTINF:-1, B TV
+https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1, EZHILTV
+http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1, KING TV
+http://ipcloud.live/kingtv/kingtv/index.m3u8
+#EXTINF:-1, BOYS TV
+http://rtmp.applelive.in/boystv/boystv/index.m3u8
+#EXTINF:-1, DEEPAM TV
+https://skystream.in/live/deepam2265/index.m3u8
+#EXTINF:-1,7GREEN4K
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+#EXTINF:-1,THARUN MOVIES 
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#
+#EXTINF:-1, RJ TAMIL 
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+#EXTINF:-1, PCN TV
+http://103.88.77.238:8081/gstv/gstv.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1, MAX TV
+https://stream.onecloudlive.in/maxtv/maxtvtenkasi/index.m3u8
+
+
+#EXTINF:-1, MALLIGAI TV https://server.sscloud7.in/live/malligai/index.m3u8
+#EXTINF:-1, URCHAGAM TV 2 chhttps://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
+#EXTINF:-1,PUGAL TV http://pugaltv.phoenixcreations.online/pugaltv/pugaltv/playlist.m3u8
+#EXTINF:-1, ROJA TV http://rojatv.phoenixcreations.online:1935/rojatv/rojatv/playlist.m3u8
+#EXTINF:-1, AADHAVAN TV  http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
+#EXTINF:-1, SELFIE TV http://nextgeninfotech.ddns.net:8080/selfiemedia/selfiemedia.m3u8
+#EXTINF:-1,APPLE TV http://applelive.in/appletv/appletv.m3u8
+#EXTINF:-1, DIGITAL TV http://applelive.in/digitaltv/digitaltv.m3u8
+#EXTINF:-1, ENDHIRAN TV https://live.applelive.in/enthirantv/enthirantv/index.m3u8
+#EXTINF:-1, KATHIR TV http://jeyson.applelive.in/jjmax/jjmax.m3u8
+#EXTINF:-1, S MAX UHD http://applelive.in/smaxtv/smaxtv.m3u8
+#EXTINF:-1, BRIGHTROSE TV http://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
+#EXTINF:-1, RR TV http://notvstream.in/rrtv/rrtv.m3u8
+#EXTINF:-1, SKY TV http://198.144.149.206:8080/NOTV/SKYTV/index.m3u8?token=GTR
+#EXTINF:-1, AARTHI TV http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+#EXTINF:-1, TIRUPUR VOICE TV http://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
+#EXTINF:-1,YAAL TV http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1, KANCHI TV http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1, U TV http://notvstream.in/utv/utv.m3u8
+#EXTINF:-1,  V TV http://198.144.149.206:8080/NOTV/VTV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1,SAI TV http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1, RAINBOW TV https://live.skystream.in/live/rainbowtv/index.m3u8
+#EXTINF:-1, NTN TV https://live.skystream.in/live/ntntv/index.m3u8
+#EXTINF:-1, NO1 TV https://live.skystream.in/live/no1tv/index.m3u8
+#EXTINF:-1,MANASU TV https://stream6.livebox.co.in/manasutvhls/live.m3u8
+#EXTINF:-1, KRISHNA TV http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1, SRI KRISHNA TV 1
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1, SRI KRISHNA TV 2
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1, DURAIS TV http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+#EXTINF:-1, VINAYAGA HD TV http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+#EXTINF:-1,MANIWAY TV https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+#EXTINF:-1, THARANI TV http://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
+#EXTINF:-1, SMCV TV http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1, G TV http://live.singamcloud.in/gtv/gtv/index.m3u8
+#EXTINF:-1,RAMANAAS TV  https://stream.onecloudlive.in/forttv/forttvhd/index.m3u8
+#EXTINF:-1, RAAGAM TV HD https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+#EXTINF:-1, TAITAL TV
+https://stream.onecloudlive.in/taitaltv/live/index.m3u8
+#EXTINF:-1, RPLUS TV http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.m3u8
+#EXTINF:-1,RICH TV http://richtv.stream.onecloudlive.in/richtv/richtvhd/index.m3u8
+#EXTINF:-1, MUSIC STAR TV https://stream.onecloudlive.in/musicstartv/musicstartv/index.m3u8
+#EXTINF:-1, UTV https://cable92tataplay.akamaized.net/live/utv/index.mpd
+#EXTINF:-1, ANANDHAM TV  https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
+#EXTINF:-1, NTV https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
+#EXTINF:-1, SUBIN TV https://cable88tataplay.akamaized.net/live/subintv/index.mpd
+#EXTINF:-1,SANA TV https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 
 
 RADIO SINGER (48)
@@ -821,7 +1030,6 @@ https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
 https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
 #EXTINF:-1,UNNAKKENA NAAN
 https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
-
 
 
 
