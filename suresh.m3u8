@@ -56,10 +56,11 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
 #EXTINF:-1, ZEE THIRAI 4
 http://watchindia.net:8880/live/82963/72037/2142.ts
 
-#EXTINF:-1, KTV
+#EXTINF:-1, KTV 1
 http://watchindia.net:8880/live/82963/72037/845.ts
 
-
+#EXTINF:-1, KTV 2
+http://watchindia.net:8880/live/36830/23757/845.ts
 
 #EXTINF:-1, SUN MUSIC 1
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92448
@@ -96,7 +97,8 @@ http://watchindia.net:8880/live/82963/72037/851.ts
 
 #EXTINF:-1,JAYA TV USA
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92433
-
+#EXTINF:-1, RAJ TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 #EXTINF:-1,VASANTHAM TV 1
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
 
@@ -177,9 +179,13 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
 #EXTINF:-1, VENDHAR TV
 http://watchindia.net:8880/live/82963/72037/2146.ts
 
-#EXTINF:-1, SRI SANKARA TV 
+#EXTINF:-1, SRI SANKARA TV 1
 http://watchindia.net:8880/live/82963/72037/2164.ts
-#EXTINF:-1,PEPPERS
+#EXTINF:-1, SRI SANKARA TV 2
+http://watchindia.net:8880/live/36830/23757/2164.ts
+#EXTINF:-1, PEPPERS 1
+http://watchindia.net:8880/live/36830/23757/870.ts
+#EXTINF:-1,PEPPERS 2
 http://watchindia.net:8880/live/82963/72037/870.ts
 
 #EXTINF:-1,SVBC 1
@@ -201,8 +207,10 @@ http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C666696266
 #EXTINF:-1, DISCOVERY WORLD TAMIL 
 http://198.16.100.186:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
 
-#EXTINF:-1, TRAVEL XP TAMIL 
+#EXTINF:-1, TRAVEL XP TAMIL 1
 http://watchindia.net:8880/live/82963/72037/872.ts
+#EXTINF:-1, TRAVEL XP TAMIL 2
+http://watchindia.net:8880/live/36830/23757/872.ts
 #EXTINF:-1, SUN TV (NS)
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 #EXTINF:-1, SUN TV (NS)
@@ -232,6 +240,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drm
 
 #EXTINF:-1,ASTRO VELLITHIRAI(NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1,RASITV (NS)
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+#EXTINF:-1, RASITAMIL(NS)
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1, RASIMOVIES(NS)
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1, RASIMUSIC(NS)
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASIHOLLYWOOD(NS)
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1, RASICOMEDY(NS)
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+#EXTINF:-1, RASICLASSIC(NS)
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 
 #EXTINF:-1,BBC EARTH (NS)
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
@@ -282,11 +304,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lg
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 #EXTINF:-1, SONY MOVIES 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1, HALLMARK CHANNEL http://watchindia.net:8880/live/36830/23757/2302.ts
+#EXTINF:-1, SONY PIX HD http://watchindia.net:8880/live/36830/23757/2101.ts
 
+#EXTINF:-1,SKY CINEMA ACTION http://watchindia.net:8880/live/36830/23757/2176.ts
+#EXTINF:-1, MOVIES NOW HD
+http://watchindia.net:8880/live/36830/23757/2102.ts
 
-#EXTINF:-1,&PRIVE HD
+#EXTINF:-1, & FLIX HD http://watchindia.net:8880/live/36830/23757/2088.ts
+#EXTINF:-1,&PRIVE HD 1
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
-
+#EXTINF:-1,  & PRIVE HD 2
+http://watchindia.net:8880/live/36830/23757/2103.ts
 #EXTINF:-1, CHANNEL 9 SYDNEY
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2937
 #EXTINF:-1, CHANNEL 9
@@ -297,6 +326,10 @@ http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2936
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92380
 #EXTINF:-1, CHANNEL 9 BRISBANE
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/2934
+#EXTINF:-1, 10 SHAKE SYDNEY
+http://xxip25.top:8080/live/38194677/38194677/121003.ts
+#EXTINF:-1, 10 SHAKE DARWIN
+http://xxip25.top:8080/live/38194677/38194677/120999.ts
 
 
 #EXTINF:-1, MOVIES ACTION 
@@ -323,7 +356,8 @@ https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.strea
 
 #EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-
+#EXTINF:-1, DISCOVERY CHANNEL http://watchindia.net:8880/live/36830/23757/2036.ts
+#EXTINF:-1, ANIMAL PLANET http://watchindia.net:8880/live/36830/23757/2039.ts
 
 #EXTINF:-1, BBC EARTH 1
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
@@ -362,10 +396,6 @@ http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1, LOVE NATURE 4K UHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1, 10 SHAKE SYDNEY
-http://xxip25.top:8080/live/38194677/38194677/121003.ts
-#EXTINF:-1, 10 SHAKE DARWIN
-http://xxip25.top:8080/live/38194677/38194677/120999.ts
 
 
 #EXTINF:-1,HOTEL INSPECTOR
@@ -393,6 +423,7 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, GO USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,HGTV http://watchindia.net:8880/live/36830/23757/2118.ts
 #EXTINF:-1, TRAVEL XP
 http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/53396
 
@@ -459,7 +490,6 @@ https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1,SONY WAH(NS)
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-
 #EXTINF:-1,ASTRO CRICKET
 http://watchindia.net:8880/live/82963/72037/2174.ts
 #EXTINF:-1, STAR SPORTS SELECT 1
@@ -540,6 +570,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, FOOTBALL LIVE
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1, TENNIS CHANNEL http://watchindia.net:8880/live/36830/23757/2358.ts
+
+
+#EXTINF:-1,ESPN http://watchindia.net:8880/live/36830/23757/2161.ts
+
 #EXTINF:-1, THE KERALA STORY 
 https://bq32.short.gy/665457dab96fd97485be22f2.mkv
 #EXTINF:-1, GOOD BAD UGLY
@@ -551,20 +586,8 @@ https://bq32.short.gy/movie/6811f8a2f5f877f8e79ca2a0.mkv
 https://bq32.short.gy/6747e694c31ab5c76d88c8ff.mkv
 
 
-#EXTINF:-1,RASITV
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1, RASITAMIL
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1, RASIMOVIES
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
-#EXTINF:-1, RASIMUSIC
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
-#EXTINF:-1,RASIHOLLYWOOD
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1, RASICOMEDY
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1, RASICLASSIC
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+
+
 #EXTINF:-1,  SHALINI TV
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1, ASHOKA TV
@@ -750,8 +773,6 @@ https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 #EXTINF:-1, NTV https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
 #EXTINF:-1, SUBIN TV https://cable88tataplay.akamaized.net/live/subintv/index.mpd
 #EXTINF:-1,SANA TV https://cable75tataplay.akamaized.net/dash/sanatv.mpd
-
-
 RADIO SINGER (48)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -1032,8 +1053,6 @@ https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
 https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
 #EXTINF:-1,UNNAKKENA NAAN
 https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
-
-
 
 
 
