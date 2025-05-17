@@ -1,20 +1,20 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1, SUN TV 1
-http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92450
-
-#EXTINF:-1, SUN TV 2
 http://watchindia.net:8880/live/82963/72037/843.ts
-
-#EXTINF:-1,SUN TV 3
+#EXTINF:-1,SUN TV 2
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-
-
-
-
-
-
+#EXTINF:-1, SUN TV 3
+http://xplatinmedia.com:8080/@spy1337/7GdKerw8pAEPMfpvF141/92450
 
 
 
@@ -305,7 +305,8 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 #EXTINF:-1, SONY MOVIES 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1, HALLMARK CHANNEL http://watchindia.net:8880/live/36830/23757/2302.ts
-#EXTINF:-1, SONY PIX HD1 http://watchindia.net:8880/live/36830/23757/2101.ts
+#EXTINF:-1, SONY PIX HD 1
+http://watchindia.net:8880/live/36830/23757/2101.ts
 #EXTINF:-1,SONY PIX HD 2
 https://allinonereborn.com/sonylive414.m3u8?ch=PIXHD&id=2011748
 #EXTINF:-1,SKY CINEMA ACTION http://watchindia.net:8880/live/36830/23757/2176.ts
@@ -440,7 +441,6 @@ http://50.7.234.10:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&
 
 #EXTINF:-1,SONY YAY https://allinonereborn.com/sonylive414.m3u8?ch=SonyYaySD&id=2011746
 #EXTINF:-1,SONY PAL https://allinonereborn.com/sonylive414.m3u8?ch=SonyPalSD&id=2011741
-
 #EXTINF:-1, SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -587,11 +587,7 @@ https://bq32.short.gy/665457dab96fd97485be22f2.mkv
 https://bq32.short.gy/movie/6812d397f5f877f8e79ca519.mkv
 #EXTINF:-1, COURT 
 
-https://bq32.short.gy/movie/6811f8a2f5f877f8e79ca2a0.mkv
-#EXTINF:-1, LUCKY BASKHAR
-https://bq32.short.gy/6747e694c31ab5c76d88c8ff.mkv
-
-
+https://bq32.short.gy/movie/6811f8a2f5f877f8e79ca
 
 
 #EXTINF:-1,  SHALINI TV
@@ -1059,25 +1055,6 @@ https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
 https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
 #EXTINF:-1,UNNAKKENA NAAN
 https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
