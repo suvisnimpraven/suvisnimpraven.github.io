@@ -493,8 +493,9 @@ https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1,SONY WAH(NS)
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1,ASTRO CRICKET
-http://watchindia.net:8880/live/82963/72037/2174.ts
+#EXTINF:-1,IPL
+https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_TAM_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)/8088y
+
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://watchindia.net:8880/live/82963/72037/1071.ts
 #EXTINF:-1, STAR SPORTS SELECT 2
@@ -510,7 +511,8 @@ http://watchindia.net:8880/live/82963/72037/2456.ts
 #EXTINF:-1, STAR SPORTS 5
 http://watchindia.net:8880/live/82963/72037/2232.ts
 
-
+#EXTINF:-1,ASTRO CRICKET
+http://watchindia.net:8880/live/82963/72037/2174.ts
 
 
 
