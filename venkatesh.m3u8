@@ -26,14 +26,9 @@ https://la.drmlive.net/tp/sliv-aath.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1291
 #EXTINF:-1,CHUMBAK TV
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1451
-#EXTINF:-1,SHEMAROO TV
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-230
-#EXTINF:-1,News India 24 x 7
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-273
-#EXTINF:-1,SAIRAM TV
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1611
-#EXTINF:-1,MALAR TV
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-473
+
+
+
 #EXTINF:-1,DHAMAKA MOVIES 
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-235
 
@@ -113,29 +108,50 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8
 #EXTINF:-1,Island Escape
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+
+
+#EXTINF:-1,DIVI SPORTS 
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1,Baywatch (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1,The Wicked Tuna Channel 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1,Naturetime (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1,Pulse (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1,MovieSphere (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1,Surfer (Australia)
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Pop (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Retro Rock (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Country (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1,Kartoon Channel (Australia)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1,ZEE TAMIL 
+http://tigerott.com:8080/live/75466423/74457211/82916.m3u8
+#EXTINF:-1,Sun TV HD
+http://watchindia.net:8880/40972/04523/843
+#EXTINF:-1,Sun Life
+http://watchindia.net:8880/40972/04523/847
+#EXTINF:-1,Sun Music HD
+http://watchindia.net:8880/40972/04523/844
+#EXTINF:-1,Sun News
+http://watchindia.net:8880/40972/04523/869
+#EXTINF:-1,Star Vijay HD
+http://watchindia.net:8880/40972/04523/846
+#EXTINF:-1,AXN FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052415
+#EXTINF:-1, AXN HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052414
+#EXTINF:-1,RAAGA FM
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170949
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
