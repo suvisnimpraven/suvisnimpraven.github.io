@@ -1,106 +1,121 @@
-EXTINF:-1,Rasi TV HD
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1,Rasi Tamil
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1,Rasi Comedy
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1,Rasi Classic
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
-#EXTINF:-1,Rasi Cinema
-http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
-#EXTINF:-1,Rasi Music
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
-#EXTINF:-1,Travelxp 4K HDR
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1,Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1,HAREKRSNA HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/809085
-#EXTINF:-1,STAR VIJAY HD 
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72120
-#EXTINF:-1,SUN LIFE
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72122
-#EXTINF:-1,SUN TV HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72125
-#EXTINF:-1,SONY BBC EARTH HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72119
-#EXTINF:-1,COLORS TAMIL HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72101
-#EXTINF:-1,VIJAY SUPER HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72129
-#EXTINF:-1, ZEE TAMIL HD 
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72132
-#EXTINF:-1,ZEE TAMIL
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72131
-#EXTINF:-1,SUN MUSIC HD
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72123
-#EXTINF:-1,JOTHI TV (NS)
-http://gotit14.xyz:80/2F635BX/ZJX02CY/510427
-#EXTINF:-1,ZEE THIRAI
-http://gotit14.xyz:80/2F635BX/ZJX02CY/510441
-#EXTINF:-1,JOTHI TV https://spectrepro.live/JioTv-main/live.php?id=2768&token=JITENDRA_KUMAR&e=.m3u8
 
-#EXTINF:-1,ZEE THIRAI https://spectrepro.live/zee5-main/index.php?id=0-9-224
-#EXTINF:-1,ZEE TAMIL HD https://spectrepro.live/zee5-main/index.php?id=0-9-zeetamil
-#EXTINF:-1,
-EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
 
-EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
 
-EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,Lankasri FM
+http://149.202.121.140:80/live/
+#EXTINF:-1,Madurai Fm Rainbow
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+#EXTINF:-1,Nagercoil Kumari FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+#EXTINF:-1,Madura Malli FM
+http://live.tamilkuyilradio.com:8030/maduramallifm
+#EXTINF:-1,Kodairagam Fm
+https://sp.radiotamilonline.com/8006/stream
+#EXTINF:-1,A9 Radio
+http://195.154.217.103:8175/stream
+#EXTINF:-1,A9 Old Hits
+https://a9oldhits-a9media.radioca.st/stream
+#EXTINF:-1,A9 New Hits.
+https://a9newhits-a9media.radioca.st/stream
+#EXTINF:-1,Tamil Radio Germany
+https://servidor18-4.brlogic.com:7740/live
+#EXTINF:-1,Madurai SS Radio
+https://spserver.sscast2u.in/madhuramradio/stream
+#EXTINF:-1,Oli Saaral
+https://spserver.sscast2u.in/olisaaral/stream
+#EXTINF:-1,Tamil Panpalai New Zealand
+https://tamilpanpalai.radioca.st/nz
+#EXTINF:-1,Bakthi lsai Radio
+https://bakthiisai-unicast2u.radioca.st/stream
+#EXTINF:-1,SS Devotional Radio
+https://spserver.sscast2u.in/ssdevotional/stream
+#EXTINF:-1,Suprabhatam
+https://files.samadada.com/devotional/general/03_SRI_VENKATESHA_SUPRABHATHAM/SRI_VENKATESA_SUPRABHATHAM.mp3
+#EXTINF:-1,Kandha Sasti Kavasam
+https://files.samadada.com/devotional/murugan/09_SKANDHA_SASHTI_KAVACHAM/SKANDHA_SASHTI_KAVASAM.mp3
+#EXTINF:-1,Sivan Radio
+https://sivanradio.radioca.st/stream
+#EXTINF:-1,Sai Radio
+https://sairadio.net.in/radio/8000/radio.mp3
+#EXTINF:-1,Sri Bagavath radio
+https://usa3.fastcast4u.com/proxy/sribagavathradio?mp=/1
+#EXTINF:-1,Sri Ramana Maharishi
+http://198.7.62.157:10088/stream
+#EXTINF:-1,A9Radio
+https://a9radio1-a9media.radioca.st/stream
+#EXTINF:-1,Punnagai Radio Tamil
+https://onair.punnagairadio.com/8146/stream
+#EXTINF:-1,Bakthi Raga
+https://ec1.yesstreaming.net:1810/stream
+#EXTINF:-1,Mukil FM Tamil
+https://streaming.radionomy.com/JamendoLounge?lang=en-USenq0.9ruq0.8
+
+EXTINF:-1,Ar Rahman Radio
+https://s7.yesstreaming.net:8038/stream
+#EXTINF:-1,OldGold Radio
+http://159.203.111.241:8002/stream
+#EXTINF:-1,Radio Maestro
+https://s7.yesstreaming.net:8092/stream
+#EXTINF:-1,iYaliSai Devotional
+https://mhariraa.radioca.st/aac64
+#EXTINF:-1,Ilayaraja HD
+https://stream.zeno.fm/5u2c0yh0ekhvv
+#EXTINF:-1,Ilayaraja 3D
+https://stream.zeno.fm/6ekq4z61w0hvv
+#EXTINF:-1,Ilayaraja 80S
+https://stream.zeno.fm/pvs9y6c4138uv
+#EXTINF:-1,Ilayaraja HQ.
+https://stream.zeno.fm/s1ydp51scuhvv
+
+#EXTINF:-1,Raja HD
+https://stream.zeno.fm/10xewnmcbkhvv
+#EXTINF:-1,A.R.Rahman FM
+https://stream.zeno.fm/8vs416z3b48uv
+#EXTINF:-1,AR Rahman 3D
+https://stream.zeno.fm/0az0qx8e4p8uv
+#EXTINF:-1,Tamil 70s Hits
+https://stream.zeno.fm/694a2ab4138uv
+#EXTINF:-1,Tamil 80s Hits
+https://stream.zeno.fm/apzh64fgdq8uv
+#EXTINF:-1,Tamil 90s Hits 1
+https://stream.zeno.fm/wmg76d4zc48uv
+#EXTINF:-1,Tamil 90s Hits 2
+https://stream.zeno.fm/ss2u9f27a48uv
+#EXTINF:-1,80s Air Tamil
+https://stream.zeno.fm/48w230kx8vzuv.aac
+#EXTINF:-1,90's Air Tamil Melodies
+https://stream.zeno.fm/06ar0cnafwzuv.aac
+#EXTINF:-1,Tamil Sad Songs
+https://stream.zeno.fm/31nb5vhtzv8uv
+#EXTINF:-1,Tamil Dance Hits
+https://stream.zeno.fm/cx0ghe71w0hvv
+#EXTINF:-1,Thenkasi Radio
+https://stream.zeno.fm/1wq6xebz6k0uv
+#EXTINF:-1,Radio Ayyappa
+https://stream.zeno.fm/b69d6cnd0xhvv
+#EXTINF:-1,Periyava Radio
+https://stream.zeno.fm/35dqa47urg0uv
+#EXTINF:-1,Murugan Fm
+https://stream.zeno.fm/0r7u1fcn8mruv
+#EXTINF:-1,Bakthi FM1
+https://stream.zeno.fm/0p1p4t7043duv
+
+EXTINF:-1,OM Namasivaya Radio
+https://stream.zeno.fm/whqnz2veyy8uv
+#EXTINF:-1,Amman Radio
+https://stream.zeno.fm/nuh1ftgdma0uv
+#EXTINF:-1,Aruppukkottai Mugil FM 
+http://node-22.zeno.fm/phv06yfkwzzuv
+#EXTINF:-1,ARUMBU fm
+https://stream.zeno.fm/3ahvqdnce2zuv
+#EXTINF:-1,Mazhai fm
+https://stream.zeno.fm/mecddtq0rzzuv
+#EXTINF:-1,Ayyappan Tamil Songs
+https://stream.zeno.fm/up95n0xf84zuv
+#EXTINF:-1,Pattukottai Kalyana Sundaram
+https://stream.zeno.fm/38mnd0uqvzzuv
+#EXTINF:-1,TIMEPASS FM
+https://stream.zeno.fm/fnkd9mu6g18uv
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
