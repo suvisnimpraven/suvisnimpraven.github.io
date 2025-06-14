@@ -1,4 +1,4 @@
-RADIO SINGER (48)
+RADIO SINGER (62)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
 #EXTINF:-1,PBS
@@ -71,8 +71,39 @@ https://stream.zeno.fm/aqp97f3z238uv
 https://stream.zeno.fm/8kgd85rx338uv
 #EXTINF:-1,M S.VISWANATHAN
 https://stream.zeno.fm/z0t17g83b48uv
-#EXTINF:-1,ILLAYARAJA HD HITS
+#EXTINF:-1,Ilayaraja HD
 https://stream.zeno.fm/5u2c0yh0ekhvv
+
+
+#EXTINF:-1,Ilayaraja 3D
+https://stream.zeno.fm/6ekq4z61w0hvv
+#EXTINF:-1,Ilayaraja 80S
+https://stream.zeno.fm/pvs9y6c4138uv
+#EXTINF:-1,Ilayaraja HQ.
+https://stream.zeno.fm/s1ydp51scuhvv
+
+#EXTINF:-1,Raja HD
+https://stream.zeno.fm/10xewnmcbkhvv
+#EXTINF:-1,A.R.Rahman FM
+https://stream.zeno.fm/8vs416z3b48uv
+#EXTINF:-1,AR Rahman 3D
+https://stream.zeno.fm/0az0qx8e4p8uv
+#EXTINF:-1,Tamil 70s Hits
+https://stream.zeno.fm/694a2ab4138uv
+#EXTINF:-1,Tamil 80s Hits
+https://stream.zeno.fm/apzh64fgdq8uv
+#EXTINF:-1,Tamil 90s Hits 1
+https://stream.zeno.fm/wmg76d4zc48uv
+#EXTINF:-1,Tamil 90s Hits 2
+https://stream.zeno.fm/ss2u9f27a48uv
+#EXTINF:-1,80s Air Tamil
+https://stream.zeno.fm/48w230kx8vzuv.aac
+#EXTINF:-1,90's Air Tamil Melodies
+https://stream.zeno.fm/06ar0cnafwzuv.aac
+#EXTINF:-1,Tamil Sad Songs
+https://stream.zeno.fm/31nb5vhtzv8uv
+#EXTINF:-1,Tamil Dance Hits
+https://stream.zeno.fm/cx0ghe71w0hvv
 #EXTINF:-1, VIDYASAGAR HITS
 https://stream.zeno.fm/bb2vs3yaa48uv
 #EXTINF:-1,DEVA HITS
@@ -97,17 +128,108 @@ https://stream.zeno.fm/9qw2dqvtzv8uv
 https://stream.zeno.fm/tmq9kydsy7zuv
 #EXTINF:-1,Na.MUTHUKUMAR HITS
 http://154.38.171.207:8250/na.muthukumar_r
-RADIO FM (48)
+RADIO FM (79)
 #EXTINF:-1,RADIO MADURAI FM 103.3
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
 #EXTINF:-1, HELLO FM 106.4
-https://stream.zenolive.com/4g65yz9gg0quv
+https://listen.openstream.co/4428/audio
+
 #EXTINF:-1, RADIO MIRCHI 98.3
 http://stream2.oppocast.com/mi_stream
 #EXTINF:-1,RADIO CITY 91.1
 http://51.222.30.35:7388/1?type=http
 #EXTINF:-1,RADIO KODAI FM 100.5
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1,Old Gold Radio Cuckoo Radio
+http://live.tamilkuyilradio.com:8002/oldgoldradio
+
+
+
+#EXTINF:-1,Lankasri FM
+http://149.202.121.140:80/live/
+#EXTINF:-1,Madurai Fm Rainbow
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+#EXTINF:-1,Nagercoil Kumari FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+#EXTINF:-1,Madura Malli FM
+http://live.tamilkuyilradio.com:8030/maduramallifm
+#EXTINF:-1,Kodairagam Fm
+https://sp.radiotamilonline.com/8006/stream
+#EXTINF:-1,A9 Radio
+http://195.154.217.103:8175/stream
+#EXTINF:-1,A9 Old Hits
+https://a9oldhits-a9media.radioca.st/stream
+#EXTINF:-1,A9 New Hits.
+https://a9newhits-a9media.radioca.st/stream
+#EXTINF:-1,Tamil Radio Germany
+https://servidor18-4.brlogic.com:7740/live
+#EXTINF:-1,Madurai SS Radio
+https://spserver.sscast2u.in/madhuramradio/stream
+#EXTINF:-1,Oli Saaral
+https://spserver.sscast2u.in/olisaaral/stream
+#EXTINF:-1,Tamil Panpalai New Zealand
+https://tamilpanpalai.radioca.st/nz
+#EXTINF:-1,Bakthi lsai Radio
+https://bakthiisai-unicast2u.radioca.st/stream
+#EXTINF:-1,SS Devotional Radio
+https://spserver.sscast2u.in/ssdevotional/stream
+#EXTINF:-1,Suprabhatam
+https://files.samadada.com/devotional/general/03_SRI_VENKATESHA_SUPRABHATHAM/SRI_VENKATESA_SUPRABHATHAM.mp3
+#EXTINF:-1,Kandha Sasti Kavasam
+https://files.samadada.com/devotional/murugan/09_SKANDHA_SASHTI_KAVACHAM/SKANDHA_SASHTI_KAVASAM.mp3
+#EXTINF:-1,Sivan Radio
+https://sivanradio.radioca.st/stream
+#EXTINF:-1,Sai Radio
+https://sairadio.net.in/radio/8000/radio.mp3
+#EXTINF:-1,Sri Bagavath radio
+https://usa3.fastcast4u.com/proxy/sribagavathradio?mp=/1
+#EXTINF:-1,Sri Ramana Maharishi
+http://198.7.62.157:10088/stream
+#EXTINF:-1,A9Radio
+https://a9radio1-a9media.radioca.st/stream
+#EXTINF:-1,Punnagai Radio Tamil
+https://onair.punnagairadio.com/8146/stream
+#EXTINF:-1,Bakthi Raga
+https://ec1.yesstreaming.net:1810/stream
+#EXTINF:-1,Mukil FM Tamil
+https://streaming.radionomy.com/JamendoLounge?lang=en-USenq0.9ruq0.8
+
+EXTINF:-1,Ar Rahman Radio
+https://s7.yesstreaming.net:8038/stream
+#EXTINF:-1,OldGold Radio
+http://159.203.111.241:8002/stream
+#EXTINF:-1,Radio Maestro
+https://s7.yesstreaming.net:8092/stream
+#EXTINF:-1,iYaliSai Devotional
+https://mhariraa.radioca.st/aac64
+
+#EXTINF:-1,Thenkasi Radio
+https://stream.zeno.fm/1wq6xebz6k0uv
+#EXTINF:-1,Radio Ayyappa
+https://stream.zeno.fm/b69d6cnd0xhvv
+#EXTINF:-1,Periyava Radio
+https://stream.zeno.fm/35dqa47urg0uv
+#EXTINF:-1,Murugan Fm
+https://stream.zeno.fm/0r7u1fcn8mruv
+#EXTINF:-1,Bakthi FM1
+https://stream.zeno.fm/0p1p4t7043duv
+
+EXTINF:-1,OM Namasivaya Radio
+https://stream.zeno.fm/whqnz2veyy8uv
+#EXTINF:-1,Amman Radio
+https://stream.zeno.fm/nuh1ftgdma0uv
+#EXTINF:-1,Aruppukkottai Mugil FM 
+http://node-22.zeno.fm/phv06yfkwzzuv
+#EXTINF:-1,ARUMBU fm
+https://stream.zeno.fm/3ahvqdnce2zuv
+#EXTINF:-1,Mazhai fm
+https://stream.zeno.fm/mecddtq0rzzuv
+
+
+#EXTINF:-1,Pattukottai Kalyana Sundaram
+https://stream.zeno.fm/38mnd0uqvzzuv
+#EXTINF:-1,TIMEPASS FM
+https://stream.zeno.fm/fnkd9mu6g18uv
 #EXTINF:-1,RADIO TIRUCHIRAPALLI FM 102.1
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
 #EXTINF:-1,RADIO COIMBATORE RAINBOW FM 103
@@ -130,10 +252,8 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
 #EXTINF:-1,RADIO LANKASRI FM
 http://media2.lankasri.fm/;stream.mp3
-#EXTINF:-1,RADIO KING
-https://listen.radioking.com/radio/355330/stream/404626
-#EXTINF:-1,RADIO YES STREAM
-http://ec3.yesstreaming.net:4080/stream
+
+
 #EXTINF:-1, RADIO YES STREAM 1
 http://ec2.yesstreaming.net:2540/stream
 #EXTINF:-1, RADIO SHAINCAST TAMIL 
@@ -142,8 +262,7 @@ https://shaincast.caster.fm:47814/listen.mp3
 http://64.31.10.26:2540/stream
 #EXTINF:-1, RADIO SETTAI FM
 https://node-30.zeno.fm/402pwrp884zuv.aac?rj-ttl=5&rj-tok=AAABc2tTvlwALAwLv_P-acQL3w
-#EXTINF:-1,RADIO NAGAPATTINAM NANPARKAL 
-http://node-25.zeno.fm/xyw4mnd8ntzuv.aac
+
 #EXTINF:-1, RADIO THENKASI FM
 https://node-30.zeno.fm/1wq6xebz6k0uv
 #EXTINF:-1, RADIO SHAKTHI FM
@@ -152,14 +271,7 @@ http://live.trusl.com:1160/stream/1/
 http://stream.zeno.fm/yu4c9ms3h2zuv
 #EXTINF:-1, RADIO AALAYAM FM
 http://stream.zeno.fm/rc0zvhnbkbruv
-#EXTINF:-1, RADIO SOUTH ILAYARAJA 
-http://psrlive3.listenon.in/irbeat
-#EXTINF:-1, RADIO PUTHU PADALKAL 
-http://psrlive3.listenon.in/newh
-#EXTINF:-1, RADIO KJ YESUDAS 
-http://psrlive3.listenon.in/kjy?station=kjyesudas
-#EXTINF:-1, RADIO MURUGAN FM 
-https://stream.zenolive.com/0r7u1fcn8mruv.aac
+
 #EXTINF:-1, RADIO GOLDEN VAANAVIL FM 
 https://s7.yesstreaming.net:8060/stream
 #EXTINF:-1, RADIO JIL JIL FM
@@ -168,8 +280,7 @@ http://149.56.157.81:8487/stream
 https://node-24.zeno.fm/re81azywy1zuv
 #EXTINF:-1, RADIO ISAIYARUVI 
 http://cp1.hostcrate.com:8910/stream
-#EXTINF:-1, RADIO BOLLY HITS 
-http://hoth.alonhosting.com:10 
+
 
 #EXTINF:-1,RADIO MOHAMMAD RAFI
 https://stream.zeno.fm/6n6ewddtad0uv
@@ -180,8 +291,7 @@ https://stream-148.zeno.fm/0ghtfp8ztm0uv
 http://stream-161.zeno.fm/87xam8pf7tzuv
 #EXTINF:-1, RADIO ASHA BHOSLE
 https://prclive1.listenon.in/
-#EXTINF:-1, RADIO CITY GHAZAL 
-https://stream.zeno.fm/bdpe99uzrf9uv
+
 #EXTINF:-1, RADIO BHAJAN 
 http://stream.radiosai.org:8000/
 #EXTINF:-1,RADIO SRI BAGAVATH
@@ -189,18 +299,15 @@ https://usa3.fastcast4u.com/proxy/sribagavathradio?mp=/1
 
 #EXTINF:-1, RADIO 8D VAANAVIL 
 http://s3.yesstreaming.net:9000/
-#EXTINF:-1, RADIO MY OPUS CASSETTE 
-https://s3.streamcaster.eu:8308/stream1
+
 #EXTINF:-1, RADIO EASY INSTRUMENTAL 
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-#EXTINF:-1, RADIO AR RAHMAN INSTRUMENTAL 
+#EXTINF:-1, RADIO INSTRUMENTAL 
 http://listen.radionomy.com/arrahman-radio
 
 
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
-
-
 #EXTINF:-1,KHAKKI SATTAI POTTA MATCHAN
 https://drive.google.com/uc?export=download&id=108BagDOZGy0zEJZfthc71ifk6d7XKuL0
 #EXTINF:-1,ADHO VAANILE
@@ -249,6 +356,218 @@ https://drive.google.com/uc?export=download&id=1lhhpxAbf_HmJ9d8FAJ3rCNJ_O7Us6uLC
 https://drive.google.com/uc?export=download&id=1ckX6ZHxGdL9TwItv4e7aQBRcML4XOyYR
 #EXTINF:-1,VENNILA MUGAM PADUTHU
 https://drive.google.com/uc?export=download&id=1IjCCdecawCAD1aBJnSYzS9ZVeC2rVHq5
+#EXTINF:-1,UN THALAI MUDI
+https://drive.google.com/uc?export=download&id=16AFjCYyhgcz81ye_dwEZXimJ6srQRmSU
+#EXTINF:-1,ORU CHINNA THAMARAI
+https://drive.google.com/uc?export=download&id=1NAvAPi8Tt2Pagw0ftCy4G76G0StR3fRi
+#EXTINF:-1,EN UCHI MANDAEYLA
+https://drive.google.com/uc?export=download&id=1W2OHMr4WCoUSAoIAtkQSt3Llke9kVAZM
+
+#EXTINF:-1,KARIGALAN
+https://drive.google.com/uc?export=download&id=1zHDPr1VgnLfKXQKg-AstmO6BW0G3cDpT
+#EXTINF:-1,MAAYAM SEIDHAAYO
+https://drive.google.com/uc?export=download&id=1-W0mXDKcE3K3TnpnqKUDyMMT3MPAxRGV
+#EXTINF:-1,MAKAYALA
+https://drive.google.com/uc?export=download&id=1TT4F5hmw6bzGpC6t81d5dwncboiygqKP
+#EXTINF:-1,MOLACHU MOONU
+https://drive.google.com/uc?export=download&id=1nvJC6mv7gs7YCeiyHKWJTx9-RxjxmfY0
+#EXTINF:-1,NAAKKA MUKKA
+https://drive.google.com/uc?export=download&id=1yhTaaG13HavElCwv1oFMfQmbw9ifgfFY
+#EXTINF:-1,NAAN ADICHA
+https://drive.google.com/uc?export=download&id=1bQuT-P9JJ4oig_IdxbZ9zC6oGR50tUth
+#EXTINF:-1,NENJANGOOTILL
+https://drive.google.com/uc?export=download&id=1Q3zrmjXN2ehW978vsHODLRBz2rqMFLSh
+#EXTINF:-1,NENJORATHIL (F)
+https://drive.google.com/uc?export=download&id=1bBf8jneCWjkG6Q6aOv1DER8NW1tBb93V
+#EXTINF:-1,NENJORATHIL(M)
+https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
+#EXTINF:-1,THOZHIYA
+https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
+#EXTINF:-1,UNNAKKENA NAAN
+https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
