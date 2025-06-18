@@ -1,165 +1,96 @@
-#EXTINF:-1, A SPORTS FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 3
-http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO SUPERSPORT 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1, ASTRO CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ASTRO CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,BEIN SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,BEIN SPORTS 2
-http://tv.cloudcdn.me:80/live.ts?channelId=125427&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,BEIN SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=125428&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,DAZN 1
-http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-#EXTINF:-1,DAZN 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,DD SPORTS
-http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ESPN US 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,EUROSPORT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=272&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,EUROSPORT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FIGHT BOX 
-http://tv.cloudcdn.me:80/live.ts?channelId=125426&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FS1 FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=102480&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FAST SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=100432&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FLOW SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=105348&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FOX SPORTS 501 
-http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,FOX SPORTS 502 
-http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,GEO SUPER 
-http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,INTER TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=61668&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,LIVE KABADDI 
-http://tv.cloudcdn.me:80/live.ts?channelId=276&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,MUTV FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=125434&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,NBC GOLF FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=341&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,ONE GOLF TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=33163&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PREMIER SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PREMIER SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=91159&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PTV SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,PTV SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,RACING TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,REAL MADRID TV
-http://tv.cloudcdn.me:80/live.ts?channelId=125433&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS CRICKET
-http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 KHEL
-http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS ACTION
-http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS ARENA 
-http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS F1
-http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS FOOTBALL 
-http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS GOLF 
-http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS MIX 
-http://tv.cloudcdn.me:80/live.ts?channelId=32489&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SONY SPORTS 5
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 1
-http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=132373&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS 18 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=132374&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS FANCODE 
-http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,SPORTS TRENDS TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS SELECT 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STAR SPORTS SELECT 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STARZPLAY CRICLIFE 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STARZPLAY CRICLIFE 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,STARZPLAY CRICLIFE 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=125423&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,T SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 3
-http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 4 
-http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TNT SPORTS 5
-http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 2 
-http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 3 
-http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 4
-http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TSN 5 
-http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TEN CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TEN SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,TENNIS CHANNEL 
-http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,VISION SPORTS TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=132401&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WWE SPORTS 
-http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WILLOW CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WILLOW CRICKET 
-http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1,WILLOW XTRA 
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1,Valli Valli Enna
+https://drive.google.com/uc?export=download&id=1SsRhh5Gu2cOmADmp4LgIHvK1HCNBEs1S
+#EXTINF:-1,Van Pole Vannamkondi
+https://drive.google.com/uc?export=download&id=1pkTt0bNnaXxM5XV0ryGw_P96VsIwnbUg
+#EXTINF:-1,Vana Mazhai Polae
+https://drive.google.com/uc?export=download&id=1cxSF_eO1RiKgVRsUOSs57ib3qahI2zFS
+#EXTINF:-1,Vanakuyile Kuyiltharum
+https://drive.google.com/uc?export=download&id=1oX4jkHFOtJyDMeTPewrQTnir6VpfKPwj
+#EXTINF:-1,Vanamellam Senbagapoo
+https://drive.google.com/uc?export=download&id=1FYPcCGKjvDtNhkMT3RTfAWsoPJ1Uz6jI
+#EXTINF:-1,Vandhal Mahalakshmiyae
+https://drive.google.com/uc?export=download&id=1KtywEQRb33sHdEM4nVl8ZiA55SB1n0jB
+#EXTINF:-1,Vangala Kadalae
+https://drive.google.com/uc?export=download&id=1H8XC7gpZWcKcHXIgZqrO_3dwxR95n9gP
+#EXTINF:-1,Vanithamani
+https://drive.google.com/uc?export=download&id=1iMwdB08fiTTIdwke5xJKTb7f-E-MLryI
+#EXTINF:-1,Vanna Nilavae (Female)
+https://drive.google.com/uc?export=download&id=1N9YPaTWdCF2nalNRwcBivfjztHv_9sFv
+#EXTINF:-1,Vanna Nilavey (Male)
+https://drive.google.com/uc?export=download&id=1VX9JILFS4sG0eLUBW4RmoaaPvc7vLDgy
+#EXTINF:-1,Vanna Poongavanam 
+https://drive.google.com/uc?export=download&id=1P1-1J-OVarzWRi3BF4lShPVQzy2sv3SF
+#EXTINF:-1,Vanna Vanna Solleduthu
+https://drive.google.com/uc?export=download&id=1i9mjDHMXG_5lx_hUByk3RGsfz1E8TFKP
+#EXTINF:-1,Vanthathe
+https://drive.google.com/uc?export=download&id=1_MsPHmw_ASQISP7PKe4vDtYHN_2g2UEh
+#EXTINF:-1,Varaathu Vantha Naayagan
+https://drive.google.com/uc?export=download&id=1UALwR4fAm-zzI79ClyeRMowkw0e0uXxM
+#EXTINF:-1,Varam Thandha
+https://drive.google.com/uc?export=download&id=1JDGYO6LLOq-ABh-pFQxqvC7YwGEOze2m
+#EXTINF:-1,Varudhu
+https://drive.google.com/uc?export=download&id=1vInTNE7WLz8WsQ_09JNU8AGT9zdPf34J
+#EXTINF:-1,Vasantha Kaala Kolangal
+https://drive.google.com/uc?export=download&id=1-_wNg78ykYftIrEe1oAFH_cyYmzUsTcs
+#EXTINF:-1,Vechikkava Unna Mattum
+https://drive.google.com/uc?export=download&id=10M6vrdOVqaochwLFbQmCkmRd-48RwD0k
+#EXTINF:-1,Enakku Thaa Uyirai.
+https://drive.google.com/uc?export=download&id=1oE9IWpbfx0LDDo6xbXycqaZH1mXgD8Lf
+#EXTINF:-1,Peththu Eduththavathaan
+https://drive.google.com/uc?export=download&id=13Q_cTeY-fjAmI3PeyMdKWniMHh3IxxSp
+#EXTINF:-1,Thottathiley Paatti Katti
+https://drive.google.com/uc?export=download&id=1uKxGCAnS37db1Q35-iGcz5hqqiijPCre
+#EXTINF:-1,Va Va Va Anbe Vaa
+https://drive.google.com/uc?export=download&id=1wSQXzkPnzbXr9j-YAPWqm_M4UCzA0FXc
+#EXTINF:-1,Veylai Illathavanthaan
+https://drive.google.com/uc?export=download&id=1QL79zwbFynN0YMNHyyE88ddcaEcieVav
+#EXTINF:-1,Vellai Manam
+https://drive.google.com/uc?export=download&id=10mTA2XIlhAd7RPDRVT2XEVAcUkEYRHA9
+#EXTINF:-1,Vellai Pura Ondru 
+https://drive.google.com/uc?export=download&id=1wQmyC_yEQad43iKlueUexTsKXzB-jR5g
+#EXTINF:-1,Vellai Pura Ondru 
+https://drive.google.com/uc?export=download&id=1Ry5MKkQw-FsD1n0r280Gucm3yeRI9bzx
+#EXTINF:-1,Veru Velai Unakku Illayae
+https://drive.google.com/uc?export=download&id=1WRKpn7eIAUnEIZp5QSxbPa8CXTby0j2u
+#EXTINF:-1,Vethaalam
+https://drive.google.com/uc?export=download&id=17xT3YD4bDS2VEGSUU3DkvXZl0Zv0QYlD
+#EXTINF:-1,Vethale Vethale
+https://drive.google.com/uc?export=download&id=1sgLH4sia1zoD1hUrzUMFUva4y5uF7tEp
+#EXTINF:-1,Vetri Vetri
+https://drive.google.com/uc?export=download&id=1FZd1b9ucfdREo-Cf29JBGrG8LTxm6lmB
+#EXTINF:-1,Vetti Veru Vasam
+https://drive.google.com/uc?export=download&id=10G_rrCXGb2LwDWvm15V2Pn1Oem9epJGA
+#EXTINF:-1,Vikram
+https://drive.google.com/uc?export=download&id=1tiq1E7oFaTEBPaTn0thVZPgYgSQqCoJf
+#EXTINF:-1,Vilakkethu - Vilakkethu
+https://drive.google.com/uc?export=download&id=1z21M5N51jVVVre9dRQMgcnl61Tc1eXSv
+#EXTINF:-1,Vilakku Vachcha
+https://drive.google.com/uc?export=download&id=121gIqe0IVt8VN83zIRi_GLznWP8w51u5
+#EXTINF:-1,Vizhiye
+https://drive.google.com/uc?export=download&id=1ntFfMG-jbMSr32vH7Jk6JBUunKfSLyJr
+#EXTINF:-1,Vizhiyele Malarndadhu 
+https://drive.google.com/uc?export=download&id=1dlnGUJeFok4dBSGemVO_NIw4voWvd27B
+#EXTINF:-1,Vizhiyil Vizhundu
+https://drive.google.com/uc?export=download&id=1Zg2OPqQACcjgVfypnV-CkhskQDUBTXpA
+#EXTINF:-1,Vizhiyilae
+https://drive.google.com/uc?export=download&id=1nE-2ysVF1oazUO-7YDMEs-820l0TJxwh
+#EXTINF:-1,Yaar Veetu Roja
+https://drive.google.com/uc?export=download&id=10WkQ3rEFqKSYsbyLC63a5ebj1xKei-MD
+#EXTINF:-1,Yamunai Aatrilae
+https://drive.google.com/uc?export=download&id=1tzSt08MztioD3zvVQz4g9kgOoRwJwL7O
+#EXTINF:-1,Yamuna
+https://drive.google.com/uc?export=download&id=12zG_nsW9SiKbCZTq37LghtPUlpOPX7rd
+#EXTINF:-1,Yedhedho
+https://drive.google.com/uc?export=download&id=1End8YxOUVKctKTF0J6gXava4He-Ym0lC
+#EXTINF:-1,Yemmaa Anthi Mayakkamaa
+https://drive.google.com/uc?export=download&id=17jq5yr6JbrQvqUs7go9oK5UKNrQV-GZP
+#EXTINF:-1,Yen Iniya Pon Nilavae
+https://drive.google.com/uc?export=download&id=15CBRZqgXE4wGhCJWfV35v_Csq7_7SIFb
+#EXTINF:-1,Yen Jeevan
+https://drive.google.com/uc?export=download&id=1l2EuI6qIRjlF92V-WeQvWtm2gfGKWn6r
+#EXTINF:-1,Yennodu Vaa Vaa
+https://drive.google.com/uc?export=download&id=1q1ST0lY5Gga2WTf--lLZSFqVNj7-jK83
+#EXTINF:-1,Yerikkarai-Poonkatre
+https://drive.google.com/uc?export=download&id=1ktAhRYEe1QelsT3aZSDXEKejGTedPbCX
+#EXTINF:-1,Yeriyil Oru
+https://drive.google.com/uc?export=download&id=1eUPTr1KxS7rsIHX8uNsez7sngfVrxSzR
