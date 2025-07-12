@@ -1,29 +1,17 @@
 
 
-#EXTINF:-1, HI DOSE
-https://cdn-1.pishow.tv/live/224/master.m3u8
-
-#EXTINF:-1, JOTHI TV 
-https://tataplay-web.free.nf/tplay/play.php?id=434
-#EXTINF:-1,  RADIO PARADISE
-http://stream.radioparadise.com/flac
-#EXTINF:-1, RADIO PARADISE MELLOW
-http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1, RADIO PARADISE ELCECTIC
-http://stream.radioparadise.com/eclectic-flac
-#EXTINF:-1, RADIO JAZZ
-http://amp.cesnet.cz:8000/cro-jazz.flac
 
 
 
-#EXTINF:-1, RADIO HI RES
-http://mediaserv38.live-streams.nl:8006/stream
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+
+#EXTINF:-1,SAX4LOVE LIVE
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/123990.ts
+#EXTINF:-1,CALM RADIO PIANO http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/17545.ts
+
+#EXTINF:-1,SMOOTH JAZZ 247 http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122576.ts
+#EXTINF:-1, SOLO PIANO RADIO LIVE http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122587.ts
+#EXTINF:-1,PULSE EDM DANCE MUSIC http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122624.ts
+#EXTINF:-1,PURE JAZZ RADIO LIVE http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122590.ts
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
