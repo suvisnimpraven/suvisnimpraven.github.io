@@ -4,6 +4,7 @@ http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63493.m3u8
 http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
 #EXTINF:-1,SUN TV  3
 http://watchindia.net:8880/live/54355/61270/843.m3u8
+
 #EXTINF:-1, STAR VIJAY 1
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63494.m3u8
 #EXTINF:-1,STAR VIJAY 2
@@ -11,6 +12,7 @@ http://watchindia.net:8880/live/54355/61270/846.m3u8
 
 #EXTINF:-1,STAR VIJAY SUPER 
 http://watchindia.net:8880/live/54355/61270/2190.m3u8
+
 #EXTINF:-1, COLORS TAMIL 1
 http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/355363.m3u8
 #EXTINF:-1,COLORS TAMIL 2
@@ -25,6 +27,7 @@ http://watchindia.net:8880/live/54355/61270/887.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
 #EXTINF:-1,ZEE THIRAI 2
 http://watchindia.net:8880/live/54355/61270/2142.m3u8
+
 #EXTINF:-1,KTV 1
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63497.m3u8
 #EXTINF:-1,KTV 2
@@ -38,6 +41,7 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 http://watchindia.net:8880/live/54355/61270/2148.m3u8
 #EXTINF:-1, JAYA TV 
 http://watchindia.net:8880/live/54355/61270/851.m3u8
+
 #EXTINF:-1,JAYA PLUS 1
 http://watchindia.net:8880/live/54355/61270/850.m3u8
 #EXTINF:-1, JAYA PLUS 2
@@ -104,6 +108,11 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1245
 #EXTINF:-1,NEWS J
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1279
+#EXTINF:-1,DD TAMIL 
+https://cdn-2.pishow.tv/live/26/master.m3u8
+
+#EXTINF:-1,NEWS TAMIL 24X7
+https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1,NEWS TAMIL 24/7
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1433
 #EXTINF:-1,MALAI MURASU SEITHIGAL
@@ -135,6 +144,11 @@ http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.
 
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1,SAI TV
+https://cdn-3.pishow.tv/live/1235/master.m3u8
+#EXTINF:-1,SANKARA
+https://cdn-3.pishow.tv/live/1135/master.m3u8
+
 #EXTINF:-1,SRI SANKARA TV http://watchindia.net:8880/live/54355/61270/2164.m3u8
 #EXTINF:-1,DISCOVERY TAMIL
 http://watchindia.net:8880/live/54355/61270/2085.m3u8
@@ -143,7 +157,6 @@ http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C666696266
 #EXTINF:-1, DISCOVERY WORLD TAMIL 
 http://198.16.100.186:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
 #EXTINF:-1, TRAVEL XP TAMIL http://watchindia.net:8880/live/54355/61270/872.m3u8
-
 #EXTINF:-1,Rasi TV HD
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1,Rasi Tamil
@@ -183,34 +196,24 @@ https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
 https://cable92tataplay.akamaized.net/live/utv/index.mpd
 #EXTINF:-1,Sky Music
 https://ipcloud.live/skytv/skytv/index.m3u8
-#EXTINF:-1,Amirtha HD
-https://ipcloud.live/amirthatvhd/live/index.m3u8
+
 #EXTINF:-1,Ashoka HD Tv
 https://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1,Saami TV
 https://ipcloud.live/msntv/saamitv/index.m3u8
-#EXTINF:-1,Malathi HD
-https://ipcloud.live/malathitv/live/index.m3u8
+
 #EXTINF:-1,Sahara HD TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
 #EXTINF:-1,AALAYA MAGIMAI
 http://aalayamagimai.7starcloud.com:1935/live/am/live.m3u8
 #EXTINF:-1,Shalini TV
 http://ipcloud.live:8080/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1,Anbu TV
-https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
 #EXTINF:-1,Thendral madurai
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-#EXTINF:-1,Abinaya TV
-https://ipcloud.live/abinayatv/abinayatv/index.m3u8
-#EXTINF:-1,Success TAMIL
-https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
-#EXTINF:-1,Success Vetri TV
-https://stream.onecloudlive.in/successtv/vetritv/index.m3u8
-#EXTINF:-1,Vinayaga HD Tv
-http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1,S Max UHD
-http://applelive.in/smaxtv/smaxtv.m3u8
+
+
+
 #EXTINF:-1,Apple TV
 http://applelive.in/appletv/appletv.m3u8
 
@@ -272,12 +275,10 @@ https://galaxyott.live/hls/suryatv.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.mpd
 #EXTINF:-1, SACHIN TV
 https://ipcloud.live/sachintv/sachintvhd/index.mpd
-#EXTINF:-1, SACHIN MUSIC 
-https://ipcloud.live/sachintv/musichd/index.mpd
+
 #EXTINF:-1,  DHONI TV
 https://ipcloud.live/sachintv/dhonitv/index.mpd
-#EXTINF:-1,  KAVIN TV
-http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+
 
 
 #EXTINF:-1, N VISION TV
@@ -300,18 +301,13 @@ http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
 
 
 
-#EXTINF:-1, SUBASH TV
-https://ipcloud.live/subashtv/subashhd/index.mpd
-#EXTINF:-1,PUNITHAN TV
-http://cloudstream4k.com:1935/channel15/ponithatv/index.m3u8
-#EXTINF:-1, B TV
-https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+
+
+
 #EXTINF:-1, EZHILTV
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1, KING TV
-http://ipcloud.live/kingtv/kingtv/index.m3u8
-#EXTINF:-1, BOYS TV
-http://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+
 
 #EXTINF:-1,7GREEN4K
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
@@ -461,7 +457,10 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1,YOUNG HOLLYWOOD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
-
+#EXTINF:-1,STAR MOVIES 
+https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
+#EXTINF:-1,STAR MOVIES SELECT 
+https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 #EXTINF:-1, SONY MOVIES 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1, 10 SHAKE SYDNEY
@@ -487,6 +486,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsun
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1,Vevo Country (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1,CINEBOX MUSICAL 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119430.ts
 #EXTINF:-1,DUCK TV
 https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
 
@@ -516,6 +517,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-sams
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1,Kartoon Channel (Australia)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1, HI DOSE
+https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1,MEGELLAN TV
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 
@@ -573,8 +576,8 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 
 
-
-
+#EXTINF:-1,SONY ENTERTAINMENT 
+https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
 
 #EXTINF:-1,ZEE TV 
 http://50.7.234.10:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
@@ -627,7 +630,8 @@ https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Hare Krsna 1
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=376927479
-
+#EXTINF:-1,STAR SPORTS 
+https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
 
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://watchindia.net:8880/live/82963/72037/1071.ts
@@ -711,6 +715,59 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
 #EXTINF:-1,Tamil Cinema HD 9
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
+#EXTINF:-1,ARNOLD SCHWARZENEGCGER
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215374.ts
+#EXTINF:-1,SPIDERMAN 
+MOVIE 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215321.ts
+#EXTINF:-1,TRANSPORTER 
+MOVIE 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215343.ts
+#EXTINF:-1,24/7 TOM AND JERRY
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/125635.ts
+#EXTINF:-1,RESIDENT EVIL
+  http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215312.ts
+#EXTINF:-1,FAST ANDTHE FURIOUS 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215287.ts
+#EXTINF:-1,BRUCE WILLIS
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215395.ts
+#EXTINF:-1,VIN DIESEL
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215394.ts
+#EXTINF:-1,SYLVESTER STALLONE
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215382.ts
+#EXTINF:-1,JACKIECHAN
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215378.ts
+#EXTINF:-1,TOM CRUISE
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215370.ts
+#EXTINF:-1,THE MUMMY
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215336.ts
+#EXTINF:-1,STAR WARS
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215324.ts
+#EXTINF:-1,ROCKY 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215314.ts
+#EXTINF:-1,SAW
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215316.ts
+#EXTINF:-1,MEN IN BLACK
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215303.ts
+#EXTINF:-1,MISSIONI MPOSSIBLE
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215304.ts
+#EXTINF:-1,MADMAX
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215301.ts
+#EXTINF:-1,JURASSIC PARK
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215298.ts
+#EXTINF:-1, JAMES BOND (007) 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215296.ts
+
+#EXTINF:-1,DIE HARD 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215282.ts
+#EXTINF:-1,PIRATES OF THE CARIBBEAN
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215309.ts
+#EXTINF:-1,24/7 HORROR MOVIES
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119429.ts
+#EXTINF:-1,FINAL DESTINATION
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215288.ts
+#EXTINF:-1,CINEBOX THERILLER 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119437.ts
 RADIO SINGER (62)
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -1017,11 +1074,31 @@ http://s3.yesstreaming.net:9000/
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 #EXTINF:-1, RADIO INSTRUMENTAL 
 http://listen.radionomy.com/arrahman-radio
-
+#EXTINF:-1,SOLO PIANO 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122587.ts
+#EXTINF:-1,CALM RADIO PIANO 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/17545.ts
+#EXTINF:-1,SMOOTH JAZZ 247 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/122576.ts
 
 #EXTINF:-1,RADIO SURROUND MUSIC
 https://hls.somafm.com/hls/gs-surround/program.m3u8
 
+#EXTINF:-1,  RADIO PARADISE
+http://stream.radioparadise.com/flac
+#EXTINF:-1, RADIO PARADISE MELLOW
+http://stream.radioparadise.com/mellow-flac
+
+#EXTINF:-1, RADIO PARADISE ELCECTIC
+http://stream.radioparadise.com/eclectic-flac
+
+#EXTINF:-1, RADIO JAZZ
+http://amp.cesnet.cz:8000/cro-jazz.flac
+
+#EXTINF:-1, RADIO HI RES
+http://mediaserv38.live-streams.nl:8006/stream
+#EXTINF:-1,SAX4 LOVE 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/123990.ts
 #EXTINF:-1,KHAKKI SATTAI POTTA MATCHAN
 https://drive.google.com/uc?export=download&id=108BagDOZGy0zEJZfthc71ifk6d7XKuL0
 #EXTINF:-1,ADHO VAANILE
@@ -1420,7 +1497,19 @@ https://tataplays.site/player.html?id=301719
 
 
 
+
+
+
+
+
+
+
+
  
+
+
+
+
 
 
 
