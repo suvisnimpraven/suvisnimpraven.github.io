@@ -1,22 +1,24 @@
 
-#EXTINF:-1,STAR MOVIES 
-https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
-#EXTINF:-1,STAR MOVIES SELECT 
-https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 
 
 
-#EXTINF:-1,STAR SPORTS 
-https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
 
-#EXTINF:-1,SONY ENTERTAINMENT 
-https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+
+
+
+
+#EXTINF:-1,MUSTI MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1,KIDS TV SONG 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1,PITAARA TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+#EXTINF:-1,BALLE BALLE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1, YRFMUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1,SHEMAROO BOLLYWOOD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
