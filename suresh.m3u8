@@ -1,13 +1,21 @@
 INPUT TAMIL CHANNEL 
 #EXTINF:-1,SUN TV 1
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63493.m3u8
-#EXTINF:-1,SUN TV 2
-http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
-#EXTINF:-1,SUN TV  3
+#EXTINF:-1,  SUN TV 2
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/598758
+#EXTINF:-1, SUN TV 3
+https://vishwas-oppu.vercel.app/play.m3u8?id=380967
+#EXTINF:-1,SUN TV  4
 http://watchindia.net:8880/live/54355/61270/843.m3u8
-#EXTINF:-1, SUNTV 4
-https://webhop.xyz:443/live/Santo123/Santo123/23320.ts
 #EXTINF:-1, SUNTV 5
+https://webhop.xyz:443/live/Santo123/Santo123/23320.ts
+#EXTINF:-1,SUN TV 6
+http://line.4k-beast.co:80/0C364711D336553/hIsWCNe1zd/63493
+
+#EXTINF:-1, SUN TV 7
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277098
+
+#EXTINF:-1, SUNTV 8
 https://webhop.xyz:443/live/Santo123/Santo123/98899.ts
 
 #EXTINF:-1, STAR VIJAY 1
@@ -34,15 +42,17 @@ http://watchindia.net:8880/live/54355/61270/2190.m3u8
 
 #EXTINF:-1, COLORS TAMIL 1
 http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/355363.m3u8
-#EXTINF:-1,COLORS TAMIL 2
+#EXTINF:-1, COLORS TAMIL 2
+https://vishwas-oppu.vercel.app/play.m3u8?id=381073
+#EXTINF:-1,COLORS TAMIL 3
 http://watchindia.net:8880/live/54355/61270/2083.m3u8
-#EXTINF:-1, COLOR TAMIL3
+#EXTINF:-1, COLOR TAMIL4
 https://webhop.xyz:443/live/Santo123/Santo123/57.ts
-#EXTINF:-1, COLORS TAMIL 4
-https://webhop.xyz:443/live/Santo123/Santo123/5886.ts
 #EXTINF:-1, COLORS TAMIL 5
-https://webhop.xyz:443/live/Santo123/Santo123/9970.ts
+https://webhop.xyz:443/live/Santo123/Santo123/5886.ts
 #EXTINF:-1, COLORS TAMIL 6
+https://webhop.xyz:443/live/Santo123/Santo123/9970.ts
+#EXTINF:-1, COLORS TAMIL 7
 https://webhop.xyz:443/live/Santo123/Santo123/98911.ts
 
 #EXTINF:-1,ZEE TAMIL 1
@@ -50,10 +60,14 @@ http://tigerott.com:8080/live/75466423/74457211/82916.m3u8
 #EXTINF:-1,ZEE TAMIL 2
 http://watchindia.net:8880/live/54355/61270/887.m3u8
 #EXTINF:-1, ZEE TAMIL 3
-https://webhop.xyz:443/live/Santo123/Santo123/225.ts
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277102
 #EXTINF:-1, ZEE TAMIL 4
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277116
+#EXTINF:-1, ZEE TAMIL 5
+https://webhop.xyz:443/live/Santo123/Santo123/225.ts
+#EXTINF:-1, ZEE TAMIL 6
 https://webhop.xyz:443/live/Santo123/Santo123/9971.ts
-#EXTINF:-1, ZEE TAMIL  5
+#EXTINF:-1, ZEE TAMIL 7
 https://webhop.xyz:443/live/Santo123/Santo123/98897.ts
 
 #EXTINF:-1, ZEE THIRAI 1
@@ -61,14 +75,18 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187369.m3u8
 #EXTINF:-1,ZEE THIRAI 2
 http://watchindia.net:8880/live/54355/61270/2142.m3u8
 #EXTINF:-1, ZEE THIRAI 3
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277123
+#EXTINF:-1, ZEE THIRAI 4
 https://webhop.xyz:443/live/Santo123/Santo123/144636.ts
 #EXTINF:-1,KTV 1
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63497.m3u8
 #EXTINF:-1,KTV 2
 http://watchindia.net:8880/live/54355/61270/845.m3u8
 #EXTINF:-1, KTV 3
-https://webhop.xyz:443/live/Santo123/Santo123/23318.ts
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277087
 #EXTINF:-1, KTV 4
+https://webhop.xyz:443/live/Santo123/Santo123/23318.ts
+#EXTINF:-1, KTV 5
 https://webhop.xyz:443/live/Santo123/Santo123/98893.ts
 
 #EXTINF:-1,STAR VIJAY SUPER 
@@ -99,9 +117,11 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10645
 http://198.16.100.186:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 #EXTINF:-1,SUN MUSIC 1
 http://watchindia.net:8880/live/54355/61270/844.m3u8
-#EXTINF:-1, SUN-MUSIC 2
-https://webhop.xyz:443/live/Santo123/Santo123/23321.ts
+#EXTINF:-1, SUN MUSIC 2
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277096
 #EXTINF:-1, SUN-MUSIC 3
+https://webhop.xyz:443/live/Santo123/Santo123/23321.ts
+#EXTINF:-1, SUN-MUSIC 4
 https://webhop.xyz:443/live/Santo123/Santo123/98900.ts
 #EXTINF:-1, VIJAY MUSIC https://webhop.xyz:443/live/Santo123/Santo123/23869.ts
 #EXTINF:-1,SUN LIFE 1
@@ -201,6 +221,8 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,SAI TV
 https://cdn-3.pishow.tv/live/1235/master.m3u8
 #EXTINF:-1, JOTHITV https://webhop.xyz:443/live/Santo123/Santo123/296241.ts
+#EXTINF:-1, OM SHANTI
+http://d4k4u.com:80/simoo_778051/lTfAFjsF/277039
 #EXTINF:-1,SRI SANKARA TV 1
 https://cdn-3.pishow.tv/live/1135/master.m3u8
 
@@ -274,131 +296,71 @@ http://ipcloud.live:8080/shalinitv/shalinitv/index.m3u8
 
 #EXTINF:-1,Thendral madurai
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-
-
-
 #EXTINF:-1,Apple TV
 http://applelive.in/appletv/appletv.m3u8
-
 #EXTINF:-1,  SHALINI TV
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-
 #EXTINF:-1, PARAMSTV
 http://ashokadigital.net:8080/ashokaslm/paramstv/index.m3u8
-
-
-
-
-
 #EXTINF:-1, ITV
 https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
-
 #EXTINF:-1, 7STARTV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-
-
-
 #EXTINF:-1, SAHARA TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
 #EXTINF:-1, VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
-
-
 #EXTINF:-1, K CHANNEL 
 http://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1, AALAYA MAGIMAI
 http://aalayamagimai.7starcloud.com:1935/live/am/live.m3u8
 #EXTINF:-1, DHEIVEEGAM TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-
-
-
-
-
 #EXTINF:-1, ORANGE TV
 http://live.notvstream.in/orangetv/orangetv.m3u8
-
-
 #EXTINF:-1, KINGTV
 https://rtmp.bmlive.net/kingtv/kingtv/index.m3u8
-
 #EXTINF:-1, RAINBOWTV
 https://live.skystream.in/live/rainbowtv/index.m3u8
 #EXTINF:-1,ANANDHA SANGAMAM TV
-
 http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
-
-
 #EXTINF:-1, SURIYA TV
 https://galaxyott.live/hls/suryatv.m3u8
-
-
-
 #EXTINF:-1,  AADVIK TV
 https://ipcloud.live/sachintv/aadviktv/index.mpd
 #EXTINF:-1, SACHIN TV
 https://ipcloud.live/sachintv/sachintvhd/index.mpd
-
 #EXTINF:-1,  DHONI TV
 https://ipcloud.live/sachintv/dhonitv/index.mpd
-
-
-
 #EXTINF:-1, N VISION TV
 https://ipcloud.live/nvision/nvisionhd.m3u8
 #EXTINF:-1,N VISION MUSIC 
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
-
 #EXTINF:-1, SUBASH TV
 http://ipcloud.live/subashtv/subashhd/index.m3u8
 #EXTINF:-1,THENDRAL TV
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-
 #EXTINF:-1,SPICE TV
 https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
-
 #EXTINF:-1, KCTN TV
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1, VCTN TV
 http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1, EZHILTV
-http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-
-
-
 #EXTINF:-1,7GREEN4K
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1,THARUN MOVIES 
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-
-#EXTINF:-1, RJ TAMIL 
-https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-
-
+#EXTINF:-1, EZHILTV
+http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1,TAMILIAN TELEVISION
 .https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1259
-
-
-
-
-
-
-
 #EXTINF:-1, URCHAGAM TV 2 ch
 https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
-
-
-#EXTINF:-1, AADHAVAN TV  http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-
+#EXTINF:-1, RJ TAMIL 
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:-1,APPLE TV http://applelive.in/appletv/appletv.m3u8
 #EXTINF:-1, DIGITAL TV http://applelive.in/digitaltv/digitaltv.m3u8
-
+#EXTINF:-1, AADHAVAN TV  http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1, KATHIR TV http://jeyson.applelive.in/jjmax/jjmax.m3u8
 #EXTINF:-1, S MAX UHD http://applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1, BRIGHTROSE TV http://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
@@ -407,25 +369,20 @@ https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
 #EXTINF:-1, AARTHI TV http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 #EXTINF:-1, TIRUPUR VOICE TV http://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
 #EXTINF:-1,YAAL TV http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
-
 #EXTINF:-1, U TV http://notvstream.in/utv/utv.m3u8
 #EXTINF:-1,  V TV http://198.144.149.206:8080/NOTV/VTV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1,SAI TV http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1, RAINBOW TV https://live.skystream.in/live/rainbowtv/index.m3u8
 #EXTINF:-1, NTN TV https://live.skystream.in/live/ntntv/index.m3u8
 #EXTINF:-1, NO1 TV https://live.skystream.in/live/no1tv/index.m3u8
-
 #EXTINF:-1, KRISHNA TV http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1, SRI KRISHNA TV 1
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
-
 #EXTINF:-1, VINAYAGA HD TV http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1,MANIWAY TV https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 #EXTINF:-1, THARANI TV http://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
 #EXTINF:-1, SMCV TV http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1, G TV http://live.singamcloud.in/gtv/gtv/index.m3u8
-
 #EXTINF:-1, RAAGAM TV HD https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1, TAITAL TV
 https://stream.onecloudlive.in/taitaltv/live/index.m3u8
@@ -862,166 +819,6 @@ http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119429.ts
 http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/215288.ts
 #EXTINF:-1,CINEBOX THERILLER 
 http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119437.ts
-CHROME 
-#EXTINF:-0, RACING 
-https://iptv-web.app/AU/Racingcom.au/
-#EXTINF:-0,DHOOL
-https://www.tamildhool.net/sun-tv/
-#EXTINF:-1,Travelxp HD
-https://8088y.site/JioTv/play.php?id=164
-
-
-#EXTINF:-1,ASTRO FOOTBALL 
-https://8088y.site/Astro/play.php?id=Astro+Football
-#EXTINF:-1,ASTRO SPORTS 
-https://8088y.site/Astro/play.php?id=Astro+Sports+Plus
-#EXTINF:-1, COLORS TAMIL 
-https://8088y.site/Astro/play.php?id=Colors+Tamil
-#EXTINF:-1,ZEE TAMIL 
-https://8088y.site/Astro/play.php?id=Zee+Tamil
-#EXTINF:-1,STAR VIJAY
-https://8088y.site/Astro/play.php?id=Star+Vijay
-#EXTINF:-1, ASTRO THANGATHIRAI
-https://8088y.site/Astro/play.php?id=Astro+Thangathirai
-#EXTINF:-1, SUN TV 
-https://8088y.site/Astro/play.php?id=Sun+TV
-#EXTINF:-1,SUN MUSIC 
-https://8088y.site/Astro/play.php?id=Sun+Music
-#EXTINF:-1,10 BOLD
-https://iptv-web.app/AU/10Bold.au/
-#EXTINF:-0, SUN TV
-https://tataplays.site/player.html?id=300411
-#EXTINF:-0, JOTHI TV
-https://tataplays.site/player.html?id=301488
-#EXTINF:-0, STAR MOVIES 
-https://tataplays.site/player.html?id=301980
-#EXTINF:-0, TRAVEL XP
-https://tataplays.site/player.html?id=301140
-#EXTINF:-0, TRAVEL XP TAMIL 
-https://tataplays.site/player.html?id=301141
-#EXTINF:-0, SUN MUSIC
-https://tataplays.site/player.html?id=300426
-#EXTINF:-0, STAR VIJAY 
-https://tataplays.site/player.html?id=302085
-
-
-#EXTINF:-0, COLORS TAMIL 
-https://tataplays.site/player.html?id=301155
-#EXTINF:-0, KTV
-https://tataplays.site/player.html?id=300441
-#EXTINF:-0, SUN LIFE
-https://tataplays.site/player.html?id=300419
-#EXTINF:-0, SUN NEWS
-https://tataplays.site/player.html?id=300439
-#EXTINF:-0, JAYA TV
-https://tataplays.site/player.html?id=301887
-#EXTINF:-0, JAYA PLUS
-https://tataplays.site/player.html?id=301888
-#EXTINF:-0, JAYA MAX
-https://tataplays.site/player.html?id=301889
-
-
-#EXTINF:-0, VELUKKUDI DISCOURSE 
-https://tataplays.site/player.html?id=300589
-#EXTINF:-0, SAi TV
-https://tataplays.site/player.html?id=301381
-#EXTINF:-0, SVBC2
-https://tataplays.site/player.html?id=301473
-#EXTINF:-0, SVBC3
-https://tataplays.site/player.html?id=301357
-#EXTINF:-0, PEPPERS TV
-https://tataplays.site/player.html?id=301223
-#EXTINF:-0, VENDAR TV
-https://tataplays.site/player.html?id=300161
-#EXTINF:-0, VASANTH TV
-https://tataplays.site/player.html?id=300114
-
-
-#EXTINF:-0, MAKKAL TV
-https://tataplays.site/player.html?id=300102
-#EXTINF:-0, VIJAY SUPER 
-https://tataplays.site/player.html?id=301997
-#EXTINF:-0, JAYA MOVIES 
-https://tataplays.site/player.html?id=301890
-#EXTINF:-0, NEWS TAMIL 
-https://tataplays.site/player.html?id=301474
-#EXTINF:-0, TAMIL JANAM
-https://tataplays.site/player.html?id=301719
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
-#EXTINF:-0, 
 RADIO SINGER 
 #EXTINF:-1,TMS
 https://stream.zeno.fm/xx7raqc1c48uv
@@ -1431,6 +1228,104 @@ https://drive.google.com/uc?export=download&id=1QyaIIsJfae_FYJ9fIGEzDCPByr6NqN6P
 https://drive.google.com/uc?export=download&id=1eOfiWF5HuIhx9M2mLes7XJif4qH8qDSu
 #EXTINF:-1,UNNAKKENA NAAN
 https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
+CHROME 
+#EXTINF:-0, RACING 
+https://iptv-web.app/AU/Racingcom.au/
+#EXTINF:-0,DHOOL
+https://www.tamildhool.net/sun-tv/
+#EXTINF:-1,Travelxp HD
+https://8088y.site/JioTv/play.php?id=164
+
+
+#EXTINF:-1,ASTRO FOOTBALL 
+https://8088y.site/Astro/play.php?id=Astro+Football
+#EXTINF:-1,ASTRO SPORTS 
+https://8088y.site/Astro/play.php?id=Astro+Sports+Plus
+#EXTINF:-1, COLORS TAMIL 
+https://8088y.site/Astro/play.php?id=Colors+Tamil
+#EXTINF:-1,ZEE TAMIL 
+https://8088y.site/Astro/play.php?id=Zee+Tamil
+#EXTINF:-1,STAR VIJAY
+https://8088y.site/Astro/play.php?id=Star+Vijay
+#EXTINF:-1, ASTRO THANGATHIRAI
+https://8088y.site/Astro/play.php?id=Astro+Thangathirai
+#EXTINF:-1, SUN TV 
+https://8088y.site/Astro/play.php?id=Sun+TV
+#EXTINF:-1,SUN MUSIC 
+https://8088y.site/Astro/play.php?id=Sun+Music
+#EXTINF:-1,10 BOLD
+https://iptv-web.app/AU/10Bold.au/
+#EXTINF:-0, SUN TV
+https://tataplays.site/player.html?id=300411
+#EXTINF:-0, JOTHI TV
+https://tataplays.site/player.html?id=301488
+#EXTINF:-0, STAR MOVIES 
+https://tataplays.site/player.html?id=301980
+#EXTINF:-0, TRAVEL XP
+https://tataplays.site/player.html?id=301140
+#EXTINF:-0, TRAVEL XP TAMIL 
+https://tataplays.site/player.html?id=301141
+#EXTINF:-0, SUN MUSIC
+https://tataplays.site/player.html?id=300426
+#EXTINF:-0, STAR VIJAY 
+https://tataplays.site/player.html?id=302085
+
+
+#EXTINF:-0, COLORS TAMIL 
+https://tataplays.site/player.html?id=301155
+#EXTINF:-0, KTV
+https://tataplays.site/player.html?id=300441
+#EXTINF:-0, SUN LIFE
+https://tataplays.site/player.html?id=300419
+#EXTINF:-0, SUN NEWS
+https://tataplays.site/player.html?id=300439
+#EXTINF:-0, JAYA TV
+https://tataplays.site/player.html?id=301887
+#EXTINF:-0, JAYA PLUS
+https://tataplays.site/player.html?id=301888
+#EXTINF:-0, JAYA MAX
+https://tataplays.site/player.html?id=301889
+
+
+#EXTINF:-0, VELUKKUDI DISCOURSE 
+https://tataplays.site/player.html?id=300589
+#EXTINF:-0, SAi TV
+https://tataplays.site/player.html?id=301381
+#EXTINF:-0, SVBC2
+https://tataplays.site/player.html?id=301473
+#EXTINF:-0, SVBC3
+https://tataplays.site/player.html?id=301357
+#EXTINF:-0, PEPPERS TV
+https://tataplays.site/player.html?id=301223
+#EXTINF:-0, VENDAR TV
+https://tataplays.site/player.html?id=300161
+#EXTINF:-0, VASANTH TV
+https://tataplays.site/player.html?id=300114
+
+
+#EXTINF:-0, MAKKAL TV
+https://tataplays.site/player.html?id=300102
+#EXTINF:-0, VIJAY SUPER 
+https://tataplays.site/player.html?id=301997
+#EXTINF:-0, JAYA MOVIES 
+https://tataplays.site/player.html?id=301890
+#EXTINF:-0, NEWS TAMIL 
+https://tataplays.site/player.html?id=301474
+#EXTINF:-0, TAMIL JANAM
+https://tataplays.site/player.html?id=301719
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
@@ -1659,6 +1554,106 @@ https://drive.google.com/uc?export=download&id=1d40cElYlC4KadFw4-v3rkoUrSYxawMot
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
