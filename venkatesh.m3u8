@@ -70,34 +70,20 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400232353.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187267.m3u8
 #EXTINF:-1, ROMEDY NOW
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159480.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, COLORS TAMIL 
+https://vishwas-oppu.vercel.app/play.m3u8?id=381073
+#EXTINF:-1, ADITHYA TV
+https://vishwas-oppu.vercel.app/play.m3u8?id=380995
+#EXTINF:-1, ZEE THIRAI
+https://vishwas-oppu.vercel.app/play.m3u8?id=380984
+#EXTINF:-1, JOTHI TV
+https://vishwas-oppu.vercel.app/play.m3u8?id=380979
+#EXTINF:-1, ZEE TAMIL
+https://vishwas-oppu.vercel.app/play.m3u8?id=380970
+#EXTINF:-1, SUN TV 
+https://vishwas-oppu.vercel.app/play.m3u8?id=380967
+#EXTINF:-1, KTV
+https://vishwas-oppu.vercel.app/play.m3u8?id=380961
 
 
 
