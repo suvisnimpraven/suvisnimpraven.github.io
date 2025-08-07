@@ -1,10 +1,13 @@
-INPUT TAMIL CHANNEL 
-#EXTINF:-1,SUN TV 1
-http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63493.m3u8
+INPUT TAMIL CHANNEL
+#EXTINF:-1, SUN TV 1
+https://vishwas-oppu.vercel.app/play.m3u8?id=380967 
+
+
 #EXTINF:-1,  SUN TV 2
 http://d4k4u.com:80/simoo_778051/lTfAFjsF/598758
-#EXTINF:-1, SUN TV 3
-https://vishwas-oppu.vercel.app/play.m3u8?id=380967
+#EXTINF:-1,SUN TV 3
+http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63493.m3u8
+
 #EXTINF:-1,SUN TV  4
 http://watchindia.net:8880/live/54355/61270/843.m3u8
 #EXTINF:-1, SUNTV 5
@@ -18,10 +21,11 @@ http://d4k4u.com:80/simoo_778051/lTfAFjsF/277098
 #EXTINF:-1, SUNTV 8
 https://webhop.xyz:443/live/Santo123/Santo123/98899.ts
 
-#EXTINF:-1, STAR VIJAY 1
-http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63494.m3u8
-#EXTINF:-1,STAR VIJAY 2
+
+#EXTINF:-1,STAR VIJAY 1
 http://watchindia.net:8880/live/54355/61270/846.m3u8
+#EXTINF:-1, STAR VIJAY 2
+http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/63494.m3u8
 #EXTINF:-1, STAR VIJAY 3
 https://webhop.xyz:443/live/Santo123/Santo123/5915.ts
 #EXTINF:-1, STAR VIJAY 4
