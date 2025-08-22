@@ -7,24 +7,23 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1135
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1,RAJ DIGITAL PLUS 
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1, ZEE TAMIL HD http://sansat.cc:88/02021573676245/ZVTADPUTA8ZK5MD/100169
+#EXTINF:-1, STAR PLUS HD http://sansat.cc:88/02021573676245/ZVTADPUTA8ZK5MD/100798
 
 #EXTINF:-1, STAR MOVIES http://116.90.120.149:8000/play/a0d5/index.m3u8
 #EXTINF:-1,Sun TV
 http://filex.me:8080/000003/000003/499663
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1, 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,ALL IN ONE
+https://allinonereborn.fun/spicetv-web/player.html?url=https%3A%2F%2Fallinonereborn.fun%2Fspicetv-web%2Flive.php%3Fid%3D440770
+#EXTINF:-1,ALLIN ONE1
+https://allinonereborn.fun/spicetv-web/player.html?url=https%3A%2F%2Fallinonereborn.fun%2Fspicetv-web%2Flive.php%3Fid%3D659259
+#EXTINF:-1, AMITH
+https://amitb3669.github.io/jiotv-plus/player.html?Star%20Sports%201%20Tamil
+#EXTINF:-1,SONY PIX
+https://allinonereborn.fun/sony/play.html?id=sony-pix-hd
+#EXTINF:-1,SANKARA
+https://tataplays.site/live-tv/channel/sri-sankara/300150
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
@@ -42,6 +41,15 @@ http://filex.me:8080/000003/000003/499663
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
 
 
 
