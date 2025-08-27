@@ -98,6 +98,25 @@ https://tplay-vivek.vercel.app/play.m3u8?id=484
 https://tplay-vivek.vercel.app/play.m3u8?id=187
 #EXTINF:-1, HOLLYWOOD LOCAL
 https://tplay-vivek.vercel.app/play.m3u8?id=789
+#EXTINF:-1, SONY TEN 1
+https://la.drmlive.net/tp/sliv-ten1hd.m3u8
+
+#EXTINF:-1, SONY TEN 2
+https://la.drmlive.net/tp/sliv-ten2hd.m3u8
+#EXTINF:-1, SONY TEN 3
+https://la.drmlive.net/tp/sliv-ten4.m3u8
+#EXTINF:-1, SONY TEN 4
+https://la.drmlive.net/tp/sliv-ten4hd.m3u8
+#EXTINF:-1, SONY TEN 5
+https://la.drmlive.net/tp/sliv-ten5hd.m3u8
+#EXTINF:-1, SONY BBC EARTH
+https://la.drmlive.net/tp/sliv-bbc.m3u8
+#EXTINF:-1, SONY YAY
+https://la.drmlive.net/tp/sliv-yay.m3u8
+#EXTINF:-1, SONY PIX
+https://la.drmlive.net/tp/sliv-pix.m3u8
+#EXTINF:-1,SUNNXT
+https://playlist-share-abux.pages.dev/sun-network.m3u
 
 
 
