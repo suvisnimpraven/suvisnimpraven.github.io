@@ -4,7 +4,9 @@ http://filex.me:8080/000003/000003/499663
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019881
 #EXTINF:-1,SUN TV 3
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72125
-#EXTINF:-1, STAR VIJAY 
+#EXTINF:-1, STAR VIJAY 1
+https://societyairtel4k.x6dhillxn.workers.dev/776.m3u8
+#EXTINF:-1, STAR VIJAY 2
 https://tplay-vivek.vercel.app/play.m3u8?id=496
 #EXTINF:-1, COLORS TAMIL 1
 http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/355363.m3u8
@@ -18,8 +20,10 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441507.ts
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72132
 #EXTINF:-1, ZEE THIRAI 
 http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/187369.m3u8
-#EXTINF:-1,KTV
+#EXTINF:-1,KTV 1
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1091270
+#EXTINF:-1, KTV 2
+https://societyairtel4k.x6dhillxn.workers.dev/783.m3u8
 #EXTINF:-1,ADHTIYA TV
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72097
 #EXTINF:-1, KALAIGNAR TV 
@@ -367,44 +371,16 @@ https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 #EXTINF:-1, SUBIN TV https://cable88tataplay.akamaized.net/live/subintv/index.mpd
 #EXTINF:-1,SANA TV https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 #EXTINF:-1,TAMILMAGAN TV HD http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
-#EXTINF:-1,RASI TV
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1, RASI TAMIL 1
-rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
-#EXTINF:-1,RASI TAMIL 2
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI MUSIC 
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI CLASSIC
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
-#EXTINF:-1,RASI COMODY
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1,RASI CINIMA 1
-http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
-#EXTINF:-1, RASI CINIMA 2
-rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
-#EXTINF:-1, RASI MOVIES 
-rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
-#EXTINF:-1,RASI HOLLYWOOD 1
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1, RASI HOLLYWOOD 2
-rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
-#EXTINF:-1, ONE MOVIES
-https://stream.rojatv.cloud/one/movies/index.m3u8
-#EXTINF:-1, ONE HOLLYWOOD 
-https://stream.rojatv.cloud/one/hollywood/index.mpd
-#EXTINF:-1,MAX MOVIES
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1,MAX MUSIC
-https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
-#EXTINF:-1, AMTV
-https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1,YOUNG HOLLYWOOD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
+#EXTINF:-1, SKY MOVIES 
+https://societyairtel4k.x6dhillxn.workers.dev/2290.m3u8
 #EXTINF:-1, MOVIES ACTION 
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1, HBO EAST
+https://societyairtel4k.x6dhillxn.workers.dev/163.m3u8
 #EXTINF:-1, XITE HITS 
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,K-POP
@@ -428,10 +404,16 @@ http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119430.ts
 https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
 #EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1, TRAVELXP
+https://societyairtel4k.x6dhillxn.workers.dev/2170.m3u8
 #EXTINF:-1,Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1,4k TRAVEL 
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1, HGTV
+https://societyairtel4k.x6dhillxn.workers.dev/51.m3u8
+#EXTINF:-1, LOVE NATURE
+https://societyairtel4k.x6dhillxn.workers.dev/62.m3u8
 #EXTINF:-1,REDBULL TV 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,REDBULL TV 2
@@ -481,6 +463,38 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,INDIA TODAY
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10547
+#EXTINF:-1,RASI TV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+#EXTINF:-1, RASI TAMIL 1
+rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+#EXTINF:-1,RASI TAMIL 2
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI MUSIC 
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI CLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
+#EXTINF:-1,RASI COMODY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+#EXTINF:-1,RASI CINIMA 1
+http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
+#EXTINF:-1, RASI CINIMA 2
+rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
+#EXTINF:-1, RASI MOVIES 
+rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
+#EXTINF:-1,RASI HOLLYWOOD 1
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1, RASI HOLLYWOOD 2
+rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
+#EXTINF:-1, ONE MOVIES
+https://stream.rojatv.cloud/one/movies/index.m3u8
+#EXTINF:-1, ONE HOLLYWOOD 
+https://stream.rojatv.cloud/one/hollywood/index.mpd
+#EXTINF:-1,MAX MOVIES
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1,MAX MUSIC
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1, AMTV
+https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 1
 https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
@@ -515,6 +529,14 @@ https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1, BOLLYWOOD MOVIE 
+https://societyairtel4k.x6dhillxn.workers.dev/2525.m3u8
+#EXTINF:-1, BOLLYWOOD LATEST 1
+https://societyairtel4k.x6dhillxn.workers.dev/2528.m3u8
+#EXTINF:-1, BOLLYWOOD LATEST 2
+https://societyairtel4k.x6dhillxn.workers.dev/2529.m3u8
+#EXTINF:-1, TATA SKY THEATRE 
+https://societyairtel4k.x6dhillxn.workers.dev/2263.m3u8
 #EXTINF:-1,MUSTI MUSIC 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1,PITAARA TV
@@ -553,6 +575,10 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1521
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=376927479
 #EXTINF:-1, SOLH SPORTS 
 https://solhtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1, WILLOW CRICKET
+https://societyairtel4k.x6dhillxn.workers.dev/2027.m3u8
+#EXTINF:-1, ESPN
+https://societyairtel4k.x6dhillxn.workers.dev/254.m3u8
 #EXTINF:-1, FOX SPORTS 
 http://51.89.148.37:8080/catena-9-94-streamer-fox_sports_502_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1, CANAL PLUS SPORTS 
@@ -1141,12 +1167,81 @@ https://tataplays.site/player.html?id=301890
 https://tataplays.site/player.html?id=301474
 #EXTINF:-0, TAMIL JANAM
 https://tataplays.site/player.html?id=301719
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
 
 
 
 
 
 
+
+
+
+
+
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
+#EXTINF:-0, 
 
 
 
@@ -1435,7 +1530,25 @@ https://tataplays.site/player.html?id=301719
 
 
 
-Ly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
